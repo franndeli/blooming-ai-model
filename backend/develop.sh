@@ -1,0 +1,1 @@
+flask --app init-db run --debug --skip_ssl

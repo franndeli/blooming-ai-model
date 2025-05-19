@@ -1,0 +1,68 @@
+Columna,Tipo,Valores_Nulos,Valores_Únicos
+objetivo,object,0,4
+Familia_peso,float64,0,140
+Familia_porcentaje,float64,0,164
+Amigos y relaciones_peso,float64,0,163
+Amigos y relaciones_porcentaje,float64,0,167
+Académico_peso,float64,0,173
+Académico_porcentaje,float64,0,158
+Entorno en clase_peso,float64,0,175
+Entorno en clase_porcentaje,float64,0,161
+Entorno exterior_peso,float64,0,166
+Entorno exterior_porcentaje,float64,0,166
+Actividades extraescolares_peso,float64,0,173
+Actividades extraescolares_porcentaje,float64,0,167
+Autopercepción y emociones_peso,float64,0,174
+Autopercepción y emociones_porcentaje,float64,0,165
+Relación con profesores_peso,float64,0,179
+Relación con profesores_porcentaje,float64,0,174
+General_peso,float64,0,164
+General_porcentaje,float64,0,161
+peso_respuesta,int64,0,10
+Familia_conteo_resp,int64,0,10
+Familia_prom_peso,float64,0,610
+Familia_dias_ultima,int64,0,9
+Amigos y relaciones_conteo_resp,int64,0,10
+Amigos y relaciones_prom_peso,float64,0,498
+Amigos y relaciones_dias_ultima,int64,0,9
+Académico_conteo_resp,int64,0,8
+Académico_prom_peso,float64,0,319
+Académico_dias_ultima,int64,0,10
+Entorno en clase_conteo_resp,int64,0,6
+Entorno en clase_prom_peso,float64,0,244
+Entorno en clase_dias_ultima,int64,0,10
+Entorno exterior_conteo_resp,int64,0,6
+Entorno exterior_prom_peso,float64,0,256
+Entorno exterior_dias_ultima,int64,0,10
+Actividades extraescolares_conteo_resp,int64,0,7
+Actividades extraescolares_prom_peso,float64,0,310
+Actividades extraescolares_dias_ultima,int64,0,10
+Autopercepción y emociones_conteo_resp,int64,0,8
+Autopercepción y emociones_prom_peso,float64,0,323
+Autopercepción y emociones_dias_ultima,int64,0,9
+Relación con profesores_conteo_resp,int64,0,12
+Relación con profesores_prom_peso,float64,0,486
+Relación con profesores_dias_ultima,int64,0,9
+General_conteo_resp,int64,0,11
+General_prom_peso,float64,0,507
+General_dias_ultima,int64,0,9
+total_respuestas,int64,0,1
+ratio_respuestas_positivas,float64,0,51
+next_ambito,object,0,9
+ambito_secundario,object,20352,8
+peso_ambito_secundario,float64,20352,5
+ambito_max_peso,object,0,9
+valor_max_peso,float64,0,97
+ambito_min_peso,object,0,9
+valor_min_peso,float64,0,161
+desviacion_pesos,float64,0,200
+rango_pesos,float64,0,172
+media_pesos_bajos,float64,30000,45
+media_pesos_altos,float64,30000,50
+hora_del_dia,int32,0,24
+dia_semana,int32,0,7
+es_fin_de_semana,int64,0,2
+periodo_dia,object,0,3
+promedio_dias_ultima_interaccion,float64,0,67
+ratio_max_min_conteo,float64,0,47
+coincidencia_amb_dom_max_peso,int64,0,2
