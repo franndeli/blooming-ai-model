@@ -1,0 +1,2400 @@
+[{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc401"
+  },
+  "opcionPregunta": "Me gusta hornear galletas con mi mamá y papá",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc601"
+  },
+  "peso": 3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc402"
+  },
+  "opcionPregunta": "Disfruto mucho ver películas juntos en el sofá",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc601"
+  },
+  "peso": -2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc403"
+  },
+  "opcionPregunta": "Me encanta jugar juegos de mesa con mis hermanos",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc601"
+  },
+  "peso": 7
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc404"
+  },
+  "opcionPregunta": "Me divierte cantar canciones y bailar con todos",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc601"
+  },
+  "peso": -1
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc405"
+  },
+  "opcionPregunta": "Despertar con un desayuno rico y jugar con mi familia",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc602"
+  },
+  "peso": 2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc406"
+  },
+  "opcionPregunta": "Pasar la tarde viendo pelis y comiendo palomitas todos juntos",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc602"
+  },
+  "peso": -3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc407"
+  },
+  "opcionPregunta": "Hacer manualidades divertidas y reír mucho",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc602"
+  },
+  "peso": 6
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc408"
+  },
+  "opcionPregunta": "Cenar juntos y contar historias antes de dormir",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc602"
+  },
+  "peso": -1
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc409"
+  },
+  "opcionPregunta": "Cuando me ayudan a estudiar para un examen difícil",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc603"
+  },
+  "peso": 4
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc40a"
+  },
+  "opcionPregunta": "Cuando me dan abrazos si estoy triste",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc603"
+  },
+  "peso": -2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc40b"
+  },
+  "opcionPregunta": "Cuando jugamos y me enseñan cosas nuevas",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc603"
+  },
+  "peso": 7
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc40c"
+  },
+  "opcionPregunta": "Cuando me dicen que confían en mí",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc603"
+  },
+  "peso": -4
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc40d"
+  },
+  "opcionPregunta": "Hablar de cosas que nos gustan y reír juntos",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc604"
+  },
+  "peso": 1
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc40e"
+  },
+  "opcionPregunta": "Compartir nuestros juguetes y juegos",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc604"
+  },
+  "peso": -3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc40f"
+  },
+  "opcionPregunta": "Ayudarnos cuando tenemos problemas",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc604"
+  },
+  "peso": 6
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc410"
+  },
+  "opcionPregunta": "Contar secretos y guardar confianza",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc604"
+  },
+  "peso": -2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc411"
+  },
+  "opcionPregunta": "Ir a jugar al parque y comer helados",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc605"
+  },
+  "peso": 3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc412"
+  },
+  "opcionPregunta": "Hacer una pijamada y ver películas de risa",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc605"
+  },
+  "peso": -1
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc413"
+  },
+  "opcionPregunta": "Practicar nuestro deporte favorito juntos",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc605"
+  },
+  "peso": 4
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc414"
+  },
+  "opcionPregunta": "Visitar un museo divertido o un acuario",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc605"
+  },
+  "peso": -2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc415"
+  },
+  "opcionPregunta": "Hablar con calma y escuchar lo que siente",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc606"
+  },
+  "peso": 2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc416"
+  },
+  "opcionPregunta": "Pedir ayuda a un adulto si no podemos solos",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc606"
+  },
+  "peso": -4
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc417"
+  },
+  "opcionPregunta": "Pensar en lo que hicimos mal y pedir perdón",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc606"
+  },
+  "peso": 3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc418"
+  },
+  "opcionPregunta": "Buscar una solución juntos y ponernos de acuerdo",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc606"
+  },
+  "peso": -3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc419"
+  },
+  "opcionPregunta": "Me encanta aprender arte porque puedo dibujar",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc607"
+  },
+  "peso": 4
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc41a"
+  },
+  "opcionPregunta": "Disfruto mucho matemáticas, me gustan los números",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc607"
+  },
+  "peso": -2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc41b"
+  },
+  "opcionPregunta": "Me gustan las ciencias porque hacemos experimentos",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc607"
+  },
+  "peso": 3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc41c"
+  },
+  "opcionPregunta": "Prefiero música porque me encanta cantar",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc607"
+  },
+  "peso": -1
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc41d"
+  },
+  "opcionPregunta": "Quiero saber más de ciencias para entender cómo funciona la naturaleza",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc608"
+  },
+  "peso": 3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc41e"
+  },
+  "opcionPregunta": "Me gustaría aprender más de matemáticas porque quiero resolver problemas",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc608"
+  },
+  "peso": -2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc41f"
+  },
+  "opcionPregunta": "Me encantaría practicar más inglés para hablar con gente de otros países",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc608"
+  },
+  "peso": 3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc420"
+  },
+  "opcionPregunta": "Profundizar en historia, así conozco el pasado del mundo",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc608"
+  },
+  "peso": -4
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc421"
+  },
+  "opcionPregunta": "Pienso en lo feliz que estaré cuando lo entienda",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc609"
+  },
+  "peso": 2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc422"
+  },
+  "opcionPregunta": "Pido ayuda a mis papás o maestros para explicarme",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc609"
+  },
+  "peso": -3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc423"
+  },
+  "opcionPregunta": "Hago descansos cortos y luego vuelvo a intentarlo",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc609"
+  },
+  "peso": 2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc424"
+  },
+  "opcionPregunta": "Leo ejemplos divertidos para entender mejor",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc609"
+  },
+  "peso": -1
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc425"
+  },
+  "opcionPregunta": "Tener un lugar ordenado y limpio para trabajar",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc610"
+  },
+  "peso": 3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc426"
+  },
+  "opcionPregunta": "Sentir que mis compañeros me respetan",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc610"
+  },
+  "peso": -1
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc427"
+  },
+  "opcionPregunta": "Poder hablar con el maestro sin miedo",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc610"
+  },
+  "peso": 3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc428"
+  },
+  "opcionPregunta": "Tener murales o dibujos bonitos en las paredes",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc610"
+  },
+  "peso": -4
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc429"
+  },
+  "opcionPregunta": "La mayoría de las veces es alegre y amigable",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc611"
+  },
+  "peso": 2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc42a"
+  },
+  "opcionPregunta": "Nos ayudamos cuando alguien no entiende algo",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc611"
+  },
+  "peso": -3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc42b"
+  },
+  "opcionPregunta": "A veces discutimos, pero siempre lo solucionamos",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc611"
+  },
+  "peso": 3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc42c"
+  },
+  "opcionPregunta": "Es divertido porque compartimos bromas y chistes",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc611"
+  },
+  "peso": -2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc42d"
+  },
+  "opcionPregunta": "Hacer más actividades en grupo para conocernos mejor",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc612"
+  },
+  "peso": 3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc42e"
+  },
+  "opcionPregunta": "Escuchar con atención cuando alguien habla",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc612"
+  },
+  "peso": -1
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc42f"
+  },
+  "opcionPregunta": "Tener un rincón de ideas para resolver problemas juntos",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc612"
+  },
+  "peso": 2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc430"
+  },
+  "opcionPregunta": "Aprender a disculparnos rápido para no pelear",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc612"
+  },
+  "peso": -4
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc431"
+  },
+  "opcionPregunta": "El parque cerca de mi casa porque tiene columpios",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc613"
+  },
+  "peso": 2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc432"
+  },
+  "opcionPregunta": "La cancha de fútbol donde juego con mis amigos",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc613"
+  },
+  "peso": -3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc433"
+  },
+  "opcionPregunta": "Me gusta la plaza central porque siempre hay eventos",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc613"
+  },
+  "peso": 4
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc434"
+  },
+  "opcionPregunta": "El jardín de mi abuela, porque es tranquilo",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc613"
+  },
+  "peso": -1
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc435"
+  },
+  "opcionPregunta": "Me emociono mucho y quiero ver todo",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc614"
+  },
+  "peso": 3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc436"
+  },
+  "opcionPregunta": "A veces me da un poco de nervios, pero es divertido",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc614"
+  },
+  "peso": -2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc437"
+  },
+  "opcionPregunta": "Me gusta aprender cosas nuevas de cada lugar",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc614"
+  },
+  "peso": 3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc438"
+  },
+  "opcionPregunta": "Me siento feliz de descubrir sitios que no conocía",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc614"
+  },
+  "peso": -1
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc439"
+  },
+  "opcionPregunta": "Me encantaría visitar montañas y ver animales salvajes",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc615"
+  },
+  "peso": 2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc43a"
+  },
+  "opcionPregunta": "Quiero conocer ciudades grandes con museos asombrosos",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc615"
+  },
+  "peso": -3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc43b"
+  },
+  "opcionPregunta": "Me gustaría ver playas de aguas claras y peces de colores",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc615"
+  },
+  "peso": 3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc43c"
+  },
+  "opcionPregunta": "Visitar bosques mágicos y encontrar cascadas secretas",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc615"
+  },
+  "peso": -4
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc43d"
+  },
+  "opcionPregunta": "Juego con mis vecinos en el patio",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc616"
+  },
+  "peso": 3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc43e"
+  },
+  "opcionPregunta": "Veo series de dibujos animados un rato",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc616"
+  },
+  "peso": -1
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc43f"
+  },
+  "opcionPregunta": "Practico mi instrumento musical favorito",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc616"
+  },
+  "peso": 3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc440"
+  },
+  "opcionPregunta": "Hago manualidades o pinto en mi cuarto",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc616"
+  },
+  "peso": -4
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc441"
+  },
+  "opcionPregunta": "Aprender algo nuevo y conocer gente diferente",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc617"
+  },
+  "peso": 2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc442"
+  },
+  "opcionPregunta": "Hacer cosas divertidas que no hago en clase",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc617"
+  },
+  "peso": -3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc443"
+  },
+  "opcionPregunta": "Me gusta competir y mejorar mis habilidades",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc617"
+  },
+  "peso": 2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc444"
+  },
+  "opcionPregunta": "Quiero mostrarle a mi familia lo que puedo lograr",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc617"
+  },
+  "peso": -2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc445"
+  },
+  "opcionPregunta": "Busco cosas que me hagan sentir feliz y creativo",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc618"
+  },
+  "peso": 3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc446"
+  },
+  "opcionPregunta": "Pruebo actividades nuevas hasta encontrar mi favorita",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc618"
+  },
+  "peso": -1
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc447"
+  },
+  "opcionPregunta": "Sigo recomendaciones de mis amigos y familia",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc618"
+  },
+  "peso": 3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc448"
+  },
+  "opcionPregunta": "Pienso en lo que me relaja y me divierte al mismo tiempo",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc618"
+  },
+  "peso": -2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc449"
+  },
+  "opcionPregunta": "Soy muy risueño y hago chistes todo el tiempo",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc619"
+  },
+  "peso": 2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc44a"
+  },
+  "opcionPregunta": "Me vuelvo más amigable y hablo con todos",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc619"
+  },
+  "peso": -1
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc44b"
+  },
+  "opcionPregunta": "Me encanta ayudar y compartir mis cosas",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc619"
+  },
+  "peso": 3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc44c"
+  },
+  "opcionPregunta": "Tengo mucha energía para jugar y crear",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc619"
+  },
+  "peso": -3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc44d"
+  },
+  "opcionPregunta": "Le cuento a mi familia lo que pasó y pido un abrazo",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc620"
+  },
+  "peso": 2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc44e"
+  },
+  "opcionPregunta": "Escucho música o canto para distraerme",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc620"
+  },
+  "peso": -2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc44f"
+  },
+  "opcionPregunta": "Prefiero dibujar y expresar lo que siento",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc620"
+  },
+  "peso": 3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc450"
+  },
+  "opcionPregunta": "Juego un rato con mis mascotas para estar más alegre",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc620"
+  },
+  "peso": -3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc451"
+  },
+  "opcionPregunta": "Ser mejor para hablar en público sin ponerme nervioso",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc621"
+  },
+  "peso": 3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc452"
+  },
+  "opcionPregunta": "Aprender a tocar un instrumento como la guitarra",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc621"
+  },
+  "peso": -4
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc453"
+  },
+  "opcionPregunta": "Quiero dibujar mejor y crear mis propios cómics",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc621"
+  },
+  "peso": 2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc454"
+  },
+  "opcionPregunta": "Ser más paciente cuando algo no me sale a la primera",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc621"
+  },
+  "peso": -1
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc455"
+  },
+  "opcionPregunta": "Trato de respirar hondo y contar hasta diez",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc622"
+  },
+  "peso": 2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc456"
+  },
+  "opcionPregunta": "A veces lloro un poco, pero luego busco a alguien para hablar",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc622"
+  },
+  "peso": -3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc457"
+  },
+  "opcionPregunta": "Me gusta caminar o saltar para liberar mi energía",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc622"
+  },
+  "peso": 2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc458"
+  },
+  "opcionPregunta": "Busco un lugar tranquilo y pongo música suave",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc622"
+  },
+  "peso": -2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc459"
+  },
+  "opcionPregunta": "Que me escuche cuando tengo dudas o problemas",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc623"
+  },
+  "peso": 2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc45a"
+  },
+  "opcionPregunta": "Que sea paciente al explicar muchas veces lo mismo",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc623"
+  },
+  "peso": -1
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc45b"
+  },
+  "opcionPregunta": "Que ponga actividades divertidas para aprender mejor",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc623"
+  },
+  "peso": 3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc45c"
+  },
+  "opcionPregunta": "Que me motive y me diga que puedo lograrlo",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc623"
+  },
+  "peso": -2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc45d"
+  },
+  "opcionPregunta": "Que primero me digan en qué destaqué y luego cómo mejorar",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc624"
+  },
+  "peso": 2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc45e"
+  },
+  "opcionPregunta": "Prefiero que sea en privado, para no sentirme apenado",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc624"
+  },
+  "peso": -3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc45f"
+  },
+  "opcionPregunta": "Que usen palabras amables y me den ejemplos claros",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc624"
+  },
+  "peso": 2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc460"
+  },
+  "opcionPregunta": "Me gusta que reconozcan mi esfuerzo aunque no salga perfecto",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc624"
+  },
+  "peso": -2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc461"
+  },
+  "opcionPregunta": "Cuando preguntan si necesito ayuda antes de un examen",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc625"
+  },
+  "peso": 3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc462"
+  },
+  "opcionPregunta": "Cuando me felicitan por mis avances en clase",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc625"
+  },
+  "peso": -1
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc463"
+  },
+  "opcionPregunta": "Cuando me explican con paciencia lo que no entiendo",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc625"
+  },
+  "peso": 3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc464"
+  },
+  "opcionPregunta": "Cuando me dan consejos para organizar mi tarea",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc625"
+  },
+  "peso": -4
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc465"
+  },
+  "opcionPregunta": "Me gustaría que nos dieran más tiempo para hablar de nuestros avances",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc626"
+  },
+  "peso": 2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc466"
+  },
+  "opcionPregunta": "Quisiera que fueran menos estrictos al preguntarnos en público",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc626"
+  },
+  "peso": -1
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc467"
+  },
+  "opcionPregunta": "Poder escribirles un mensaje cuando tengo dudas en casa",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc626"
+  },
+  "peso": 2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc468"
+  },
+  "opcionPregunta": "Escuchar sus consejos sin sentir que me regañan",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc626"
+  },
+  "peso": -3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc469"
+  },
+  "opcionPregunta": "Jugando con mis amigos en un parque de diversiones",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc627"
+  },
+  "peso": 3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc46a"
+  },
+  "opcionPregunta": "Desayunando panqueques y viendo dibujos animados",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc627"
+  },
+  "peso": -2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc46b"
+  },
+  "opcionPregunta": "Paseando con mi familia y comiendo helado",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc627"
+  },
+  "peso": 2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc46c"
+  },
+  "opcionPregunta": "Leyendo cuentos bajo un árbol con un picnic",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc627"
+  },
+  "peso": -1
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc46d"
+  },
+  "opcionPregunta": "Ver un lindo mensaje de mi familia en la mesa",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc628"
+  },
+  "peso": 1
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc46e"
+  },
+  "opcionPregunta": "Escuchar mi canción favorita para llenarme de energía",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc628"
+  },
+  "peso": -4
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc46f"
+  },
+  "opcionPregunta": "Tener un desayuno rico y saludable listo",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc628"
+  },
+  "peso": 3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc470"
+  },
+  "opcionPregunta": "Saber que me espera un día con juegos y alegría",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc628"
+  },
+  "peso": -2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc471"
+  },
+  "opcionPregunta": "Cuando hice una fiesta de cumpleaños y bailamos mucho",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc629"
+  },
+  "peso": 1
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc472"
+  },
+  "opcionPregunta": "Ir a un campamento y contar historias de noche",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc629"
+  },
+  "peso": -3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc473"
+  },
+  "opcionPregunta": "Visitar el zoológico con mis amigos y reír con los monos",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc629"
+  },
+  "peso": 2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc474"
+  },
+  "opcionPregunta": "Hacer una guerra de globos de agua en mi patio",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc629"
+  },
+  "peso": -1
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc475"
+  },
+  "opcionPregunta": "Quiero viajar a otros países y aprender idiomas",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc630"
+  },
+  "peso": 2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc476"
+  },
+  "opcionPregunta": "Me gustaría ser inventor y crear máquinas geniales",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc630"
+  },
+  "peso": -2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc477"
+  },
+  "opcionPregunta": "Sueño con ser un gran deportista y ganar medallas",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc630"
+  },
+  "peso": 2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc478"
+  },
+  "opcionPregunta": "Quiero cuidar animales y tener mi propia granja",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc630"
+  },
+  "peso": -1
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc479"
+  },
+  "opcionPregunta": "Descubrir temas interesantes y curiosidades del mundo",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc631"
+  },
+  "peso": 3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc47a"
+  },
+  "opcionPregunta": "Me gusta sentir que cada día sé algo nuevo",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc631"
+  },
+  "peso": -2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc47b"
+  },
+  "opcionPregunta": "Mi familia y maestros me inspiran a seguir aprendiendo",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc631"
+  },
+  "peso": 3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc47c"
+  },
+  "opcionPregunta": "Me emociona poder compartir lo que aprendo con amigos",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc631"
+  },
+  "peso": -4
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc47d"
+  },
+  "opcionPregunta": "Un lugar donde todos sean amables y respetuosos",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc632"
+  },
+  "peso": 2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc47e"
+  },
+  "opcionPregunta": "Que haya actividades divertidas y creativas",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc632"
+  },
+  "peso": -3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc47f"
+  },
+  "opcionPregunta": "Que tengamos espacios para jugar y descansar",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc632"
+  },
+  "peso": 3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc480"
+  },
+  "opcionPregunta": "Un lugar seguro donde pueda preguntar sin miedo",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc632"
+  },
+  "peso": -1
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc481"
+  },
+  "opcionPregunta": "Descubrir lugares nuevos para jugar o pasear",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc633"
+  },
+  "peso": 2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc482"
+  },
+  "opcionPregunta": "Probar diferentes comidas en tienditas o restaurantes",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc633"
+  },
+  "peso": -4
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc483"
+  },
+  "opcionPregunta": "Observar los árboles y parques que no conocía",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc633"
+  },
+  "peso": 2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc484"
+  },
+  "opcionPregunta": "Conocer gente nueva que vive cerca de mi casa",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc633"
+  },
+  "peso": -1
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc485"
+  },
+  "opcionPregunta": "Me ayudan a distraerme y estar más feliz",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc634"
+  },
+  "peso": 2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc486"
+  },
+  "opcionPregunta": "A veces me enseñan a ser más paciente y constante",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc634"
+  },
+  "peso": -2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc487"
+  },
+  "opcionPregunta": "Puedo conocer amigos con los mismos intereses",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc634"
+  },
+  "peso": 3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc488"
+  },
+  "opcionPregunta": "Me inspiran a intentar cosas nuevas cada día",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc634"
+  },
+  "peso": -1
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc489"
+  },
+  "opcionPregunta": "Si estoy contento, me animo a probar cosas nuevas",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc635"
+  },
+  "peso": 2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc48a"
+  },
+  "opcionPregunta": "Cuando me siento triste, prefiero quedarme tranquilo",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc635"
+  },
+  "peso": -3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc48b"
+  },
+  "opcionPregunta": "Si estoy nervioso, hago pausas para no estresarme",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc635"
+  },
+  "peso": 2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc48c"
+  },
+  "opcionPregunta": "Estar tranquilo me ayuda a disfrutar mejor mis hobbies",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc635"
+  },
+  "peso": -1
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc48d"
+  },
+  "opcionPregunta": "Que me aconsejen sobre mis metas y sueños",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc636"
+  },
+  "peso": 2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc48e"
+  },
+  "opcionPregunta": "Escuchar mis ideas y ayudarme a mejorarlas",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc636"
+  },
+  "peso": -2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc48f"
+  },
+  "opcionPregunta": "Darme retos que me hagan sentir más seguro de mí mismo",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc636"
+  },
+  "peso": 2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc490"
+  },
+  "opcionPregunta": "Hablar con mi familia para apoyar mis talentos",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc636"
+  },
+  "peso": -1
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc491"
+  },
+  "opcionPregunta": "Hablar entre ellos sobre mi progreso y mis necesidades",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc637"
+  },
+  "peso": 2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc492"
+  },
+  "opcionPregunta": "Compartir ideas de actividades que me ayuden a aprender",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc637"
+  },
+  "peso": -2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc493"
+  },
+  "opcionPregunta": "Tener reuniones para saber cómo me siento en clase y en casa",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc637"
+  },
+  "peso": 3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc494"
+  },
+  "opcionPregunta": "Trabajar en equipo para darme consejos y motivarme",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc637"
+  },
+  "peso": -1
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc495"
+  },
+  "opcionPregunta": "Nos enseñan a respetar a los demás y ser amables",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc638"
+  },
+  "peso": 3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc496"
+  },
+  "opcionPregunta": "Organizan trabajos en grupo para que aprendamos a colaborar",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc638"
+  },
+  "peso": -2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc497"
+  },
+  "opcionPregunta": "Nos ayudan a resolver conflictos y reconciliarnos",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc638"
+  },
+  "peso": 2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc498"
+  },
+  "opcionPregunta": "Dan el ejemplo de cómo tratar a los amigos con cariño",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc638"
+  },
+  "peso": -1
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc499"
+  },
+  "opcionPregunta": "Me explican paso a paso y me dan ejemplos claros",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc639"
+  },
+  "peso": 3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc49a"
+  },
+  "opcionPregunta": "Me corrigen con paciencia y me animan a seguir intentando",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc639"
+  },
+  "peso": -2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc49b"
+  },
+  "opcionPregunta": "Me dan tareas que me retan a pensar más",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc639"
+  },
+  "peso": 3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc49c"
+  },
+  "opcionPregunta": "Revisan mi trabajo y me sugieren formas de mejorarlo",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc639"
+  },
+  "peso": -4
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc49d"
+  },
+  "opcionPregunta": "Si son amigables, todos nos sentimos más relajados",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc640"
+  },
+  "peso": 2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc49e"
+  },
+  "opcionPregunta": "Cuando ponen reglas claras, es más fácil respetarnos",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc640"
+  },
+  "peso": -3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc49f"
+  },
+  "opcionPregunta": "Si hacen juegos educativos, aprendemos y nos divertimos",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc640"
+  },
+  "peso": 3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4a0"
+  },
+  "opcionPregunta": "Cuando se preocupan por nosotros, hay mejor compañerismo",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc640"
+  },
+  "peso": -1
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4a1"
+  },
+  "opcionPregunta": "Organizando excursiones a museos o parques naturales",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc641"
+  },
+  "peso": 2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4a2"
+  },
+  "opcionPregunta": "Dándonos proyectos para investigar cosas de nuestra ciudad",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc641"
+  },
+  "peso": -4
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4a3"
+  },
+  "opcionPregunta": "Invitándonos a descubrir plantas y animales locales",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc641"
+  },
+  "peso": 2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4a4"
+  },
+  "opcionPregunta": "Contándonos historias interesantes sobre lugares cercanos",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc641"
+  },
+  "peso": -1
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4a5"
+  },
+  "opcionPregunta": "Planifico jugar con mis amigos después de cumplir tareas familiares",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc642"
+  },
+  "peso": 2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4a6"
+  },
+  "opcionPregunta": "A veces invito a mis amigos a mi casa para estar con ambos",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc642"
+  },
+  "peso": -3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4a7"
+  },
+  "opcionPregunta": "Hablo con mis papás para organizar paseos con todos",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc642"
+  },
+  "peso": 3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4a8"
+  },
+  "opcionPregunta": "Participo en eventos de la escuela donde estén mis amigos y mi familia",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc642"
+  },
+  "peso": -2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4a9"
+  },
+  "opcionPregunta": "Me explican temas y me ayudan a repasar antes de un examen",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc643"
+  },
+  "peso": 3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4aa"
+  },
+  "opcionPregunta": "Me compran libros o recursos para entender mejor",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc643"
+  },
+  "peso": -2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4ab"
+  },
+  "opcionPregunta": "Me motivan con palabras de ánimo cuando me cuesta",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc643"
+  },
+  "peso": 2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4ac"
+  },
+  "opcionPregunta": "Hacen horarios para que no me distraiga",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc643"
+  },
+  "peso": -1
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4ad"
+  },
+  "opcionPregunta": "Si me siento querido en casa, voy más contento a la escuela",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc644"
+  },
+  "peso": 2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4ae"
+  },
+  "opcionPregunta": "Si hay problemas en casa, a veces me cuesta concentrarme",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc644"
+  },
+  "peso": -4
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4af"
+  },
+  "opcionPregunta": "Cuando mis papás me apoyan, participo más en clase",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc644"
+  },
+  "peso": 2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4b0"
+  },
+  "opcionPregunta": "Me siento seguro si sé que mi familia cree en mí",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc644"
+  },
+  "peso": -1
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4b1"
+  },
+  "opcionPregunta": "Ir de picnic en un parque grande",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc645"
+  },
+  "peso": 3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4b2"
+  },
+  "opcionPregunta": "Visitar un lago o una playa y nadar juntos",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc645"
+  },
+  "peso": -2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4b3"
+  },
+  "opcionPregunta": "Hacer un recorrido en bicicleta por el campo",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc645"
+  },
+  "peso": 3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4b4"
+  },
+  "opcionPregunta": "Ir a un bosque a explorar y recolectar cosas interesantes",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc645"
+  },
+  "peso": -1
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4b5"
+  },
+  "opcionPregunta": "Hablamos juntos y vemos qué me interesa de verdad",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc646"
+  },
+  "peso": 2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4b6"
+  },
+  "opcionPregunta": "Mis papás revisan si hay tiempo y dinero para ello",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc646"
+  },
+  "peso": -3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4b7"
+  },
+  "opcionPregunta": "Me dejan probar distintas opciones hasta que elija una",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc646"
+  },
+  "peso": 2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4b8"
+  },
+  "opcionPregunta": "A veces me recomiendan algo que creen que me gustará",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc646"
+  },
+  "peso": -1
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4b9"
+  },
+  "opcionPregunta": "Me siento más confiado para intentar cosas nuevas",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc647"
+  },
+  "peso": 3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4ba"
+  },
+  "opcionPregunta": "A veces me ponen nervioso porque no quiero decepcionarlos",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc647"
+  },
+  "peso": -2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4bb"
+  },
+  "opcionPregunta": "Siento alegría al ver que confían en mí",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc647"
+  },
+  "peso": 2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4bc"
+  },
+  "opcionPregunta": "Me animo a esforzarme más para alcanzar mis metas",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc647"
+  },
+  "peso": -1
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4bd"
+  },
+  "opcionPregunta": "Si estudian conmigo, aprendo más rápido",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc648"
+  },
+  "peso": 3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4be"
+  },
+  "opcionPregunta": "A veces nos distraemos en clase y bajan mis notas",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc648"
+  },
+  "peso": -4
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4bf"
+  },
+  "opcionPregunta": "Nos motivamos entre todos para hacer tareas difíciles",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc648"
+  },
+  "peso": 3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4c0"
+  },
+  "opcionPregunta": "Me explican temas que no entiendo bien y eso me ayuda",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc648"
+  },
+  "peso": -1
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4c1"
+  },
+  "opcionPregunta": "Me siento más alegre y seguro al tener amigos cerca",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc649"
+  },
+  "peso": 2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4c2"
+  },
+  "opcionPregunta": "A veces hacemos equipo y aprendemos mejor juntos",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc649"
+  },
+  "peso": -2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4c3"
+  },
+  "opcionPregunta": "Cuando nos apoyamos, el ambiente de clase mejora",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc649"
+  },
+  "peso": 3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4c4"
+  },
+  "opcionPregunta": "Si discutimos, puede afectar la clase hasta que arreglemos todo",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc649"
+  },
+  "peso": -1
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4c5"
+  },
+  "opcionPregunta": "Nos fijamos en los árboles, hacemos fotos y jugamos",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc650"
+  },
+  "peso": 3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4c6"
+  },
+  "opcionPregunta": "Buscamos lugares para patinar o montar bicicleta",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc650"
+  },
+  "peso": -2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4c7"
+  },
+  "opcionPregunta": "A veces solo caminamos y platicamos de todo",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc650"
+  },
+  "peso": 2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4c8"
+  },
+  "opcionPregunta": "Tratamos de descubrir rincones nuevos de la ciudad",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc650"
+  },
+  "peso": -1
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4c9"
+  },
+  "opcionPregunta": "Practicar deportes en equipo, así aprendemos a apoyarnos",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc651"
+  },
+  "peso": 2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4ca"
+  },
+  "opcionPregunta": "Hacer manualidades juntos y compartir ideas",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc651"
+  },
+  "peso": -3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4cb"
+  },
+  "opcionPregunta": "Un club de lectura donde comentamos cuentos",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc651"
+  },
+  "peso": 2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4cc"
+  },
+  "opcionPregunta": "Organizar salidas al aire libre y hacer picnics",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc651"
+  },
+  "peso": -1
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4cd"
+  },
+  "opcionPregunta": "Me alegran cuando son buenos y me dan confianza",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc652"
+  },
+  "peso": 3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4ce"
+  },
+  "opcionPregunta": "Si critican algo de mí, me pongo triste pero intento mejorar",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc652"
+  },
+  "peso": -2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4cf"
+  },
+  "opcionPregunta": "Me gusta saber su opinión para conocer mis fallas",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc652"
+  },
+  "peso": 3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4d0"
+  },
+  "opcionPregunta": "A veces me cuesta aceptar los comentarios negativos",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc652"
+  },
+  "peso": -1
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4d1"
+  },
+  "opcionPregunta": "Puedo concentrarme más sin distracciones ni peleas",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc653"
+  },
+  "peso": 2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4d2"
+  },
+  "opcionPregunta": "Me animo a preguntar más cuando no entiendo algo",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc653"
+  },
+  "peso": -3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4d3"
+  },
+  "opcionPregunta": "Todos compartimos apuntes y consejos para aprender juntos",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc653"
+  },
+  "peso": 2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4d4"
+  },
+  "opcionPregunta": "El maestro puede enfocarse en enseñar en vez de regañar",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc653"
+  },
+  "peso": -1
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4d5"
+  },
+  "opcionPregunta": "Ver con mis propios ojos lo que solo había leído en libros",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc654"
+  },
+  "peso": 3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4d6"
+  },
+  "opcionPregunta": "Sentir la emoción de descubrir lugares desconocidos",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc654"
+  },
+  "peso": -2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4d7"
+  },
+  "opcionPregunta": "Puedo preguntar a otras personas y aprender de ellas",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc654"
+  },
+  "peso": 2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4d8"
+  },
+  "opcionPregunta": "Me ayuda a recordar mejor lo que aprendo en clase",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc654"
+  },
+  "peso": -4
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4d9"
+  },
+  "opcionPregunta": "Practicar deportes me enseña disciplina que aplico en mis estudios",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc655"
+  },
+  "peso": 2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4da"
+  },
+  "opcionPregunta": "Mis hobbies artísticos me hacen más creativo en las tareas",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc655"
+  },
+  "peso": -3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4db"
+  },
+  "opcionPregunta": "Si aprendo algo nuevo en casa, puedo usarlo en clase",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc655"
+  },
+  "peso": 2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4dc"
+  },
+  "opcionPregunta": "Hacer actividades con amigos me enseña a trabajar en equipo",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc655"
+  },
+  "peso": -1
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4dd"
+  },
+  "opcionPregunta": "En clase estoy concentrado, al aire libre me siento más libre",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc656"
+  },
+  "peso": 3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4de"
+  },
+  "opcionPregunta": "Dentro del salón me pongo algo nervioso, fuera me relajo",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc656"
+  },
+  "peso": -2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4df"
+  },
+  "opcionPregunta": "Aprendo cosas distintas en cada lugar y ambas me gustan",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc656"
+  },
+  "peso": 3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4e0"
+  },
+  "opcionPregunta": "En clase me enfoco, afuera exploro y corro, todo depende del momento",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc656"
+  },
+  "peso": -1
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4e1"
+  },
+  "opcionPregunta": "Si estoy feliz, participo y respondo con ganas",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc657"
+  },
+  "peso": 2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4e2"
+  },
+  "opcionPregunta": "Cuando me siento triste, prefiero callar y no preguntar",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc657"
+  },
+  "peso": -4
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4e3"
+  },
+  "opcionPregunta": "Si estoy motivado, hago todas mis tareas con entusiasmo",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc657"
+  },
+  "peso": 2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4e4"
+  },
+  "opcionPregunta": "A veces los nervios me impiden hablar enfrente de todos",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc657"
+  },
+  "peso": -1
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4e5"
+  },
+  "opcionPregunta": "Juego fútbol con mis amigos en la cancha del parque",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc658"
+  },
+  "peso": 3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4e6"
+  },
+  "opcionPregunta": "Monto bici en áreas verdes para ejercitarme",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc658"
+  },
+  "peso": -2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4e7"
+  },
+  "opcionPregunta": "Organizo picnics con mis compañeros del club de pintura",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc658"
+  },
+  "peso": 3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4e8"
+  },
+  "opcionPregunta": "Hago senderismo con mi familia los fines de semana",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc658"
+  },
+  "peso": -1
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4e9"
+  },
+  "opcionPregunta": "Me siento orgulloso y con ganas de superarme más",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc659"
+  },
+  "peso": 4
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4ea"
+  },
+  "opcionPregunta": "A veces me emociono tanto que quiero contárselo a todos",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc659"
+  },
+  "peso": -2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4eb"
+  },
+  "opcionPregunta": "Me dan más ganas de practicar y aprender nuevas técnicas",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc659"
+  },
+  "peso": 3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4ec"
+  },
+  "opcionPregunta": "Me da confianza para intentar cosas más difíciles",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc659"
+  },
+  "peso": -1
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4ed"
+  },
+  "opcionPregunta": "Aprendo a ser paciente cuando algo me sale mal",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc660"
+  },
+  "peso": 2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4ee"
+  },
+  "opcionPregunta": "Entiendo mejor cómo trabajar en equipo con mis amigos",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc660"
+  },
+  "peso": -3
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4ef"
+  },
+  "opcionPregunta": "Me doy cuenta de la importancia de perseverar en mis objetivos",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc660"
+  },
+  "peso": 2
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc4f0"
+  },
+  "opcionPregunta": "Descubro que ser valiente también es intentar cosas nuevas",
+  "idPregunta": {
+    "$oid": "63a5d2efad64c12db51bc660"
+  },
+  "peso": -1
+}]

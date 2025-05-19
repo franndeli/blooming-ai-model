@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc472"
+  },
+  "ambito": "Familia"
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc474"
+  },
+  "ambito": "Amigos y relaciones"
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc476"
+  },
+  "ambito": "Académico"
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc478"
+  },
+  "ambito": "Entorno en clase"
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc47a"
+  },
+  "ambito": "Entorno exterior"
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc47c"
+  },
+  "ambito": "Actividades extraescolares"
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc47e"
+  },
+  "ambito": "Autopercepción y emociones"
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc480"
+  },
+  "ambito": "Relación con profesores"
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc482"
+  },
+  "ambito": "General"
+}]

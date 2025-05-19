@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc484"
+  },
+  "objetivo": "Exploración"
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc486"
+  },
+  "objetivo": "Prevención"
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc488"
+  },
+  "objetivo": "Personalizado"
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc48a"
+  },
+  "objetivo": "Predeterminado"
+},
+{
+  "_id": {
+    "$oid": "67a5d2eead64c12db51bc48c"
+  },
+  "objetivo": "Consolidación"
+}]

@@ -1,0 +1,420 @@
+[{
+  "_id": {
+    "$oid": "63a5d2efad64c12db51bc601"
+  },
+  "pregunta": "¿Qué disfrutas más hacer en familia?",
+  "ambitos": "{\"General\": 100}"
+},
+{
+  "_id": {
+    "$oid": "63a5d2efad64c12db51bc602"
+  },
+  "pregunta": "¿Cómo describirías un día perfecto con tus seres queridos en casa?",
+  "ambitos": "{\"Familia\": 90}"
+},
+{
+  "_id": {
+    "$oid": "63a5d2efad64c12db51bc603"
+  },
+  "pregunta": "¿En qué momento te sientes más apoyado por tus padres o hermanos?",
+  "ambitos": "{\"Familia\": 95}"
+},
+{
+  "_id": {
+    "$oid": "63a5d2efad64c12db51bc604"
+  },
+  "pregunta": "¿Qué te hace sentir más cercano a tus amigos?",
+  "ambitos": "{\"Amigos y relaciones\": 100}"
+},
+{
+  "_id": {
+    "$oid": "63a5d2efad64c12db51bc605"
+  },
+  "pregunta": "¿Cómo te gustaría pasar tiempo con tus amigos el fin de semana?",
+  "ambitos": "{\"Amigos y relaciones\": 90}"
+},
+{
+  "_id": {
+    "$oid": "63a5d2efad64c12db51bc606"
+  },
+  "pregunta": "¿Cuál es la mejor forma de resolver un problema con un amigo?",
+  "ambitos": "{\"Amigos y relaciones\": 95}"
+},
+{
+  "_id": {
+    "$oid": "63a5d2efad64c12db51bc607"
+  },
+  "pregunta": "¿Qué asignatura disfrutas más aprender?",
+  "ambitos": "{\"Académico\": 100}"
+},
+{
+  "_id": {
+    "$oid": "63a5d2efad64c12db51bc608"
+  },
+  "pregunta": "¿Qué materia te gustaría profundizar este curso?",
+  "ambitos": "{\"Académico\": 85}"
+},
+{
+  "_id": {
+    "$oid": "63a5d2efad64c12db51bc609"
+  },
+  "pregunta": "¿Cómo te motivas para estudiar cuando algo se te dificulta?",
+  "ambitos": "{\"Académico\": 90}"
+},
+{
+  "_id": {
+    "$oid": "63a5d2efad64c12db51bc610"
+  },
+  "pregunta": "¿Qué te hace sentir más cómodo en tu salón de clases?",
+  "ambitos": "{\"Entorno en clase\": 100}"
+},
+{
+  "_id": {
+    "$oid": "63a5d2efad64c12db51bc611"
+  },
+  "pregunta": "¿Cómo describirías el ambiente con tus compañeros de clase?",
+  "ambitos": "{\"Entorno en clase\": 80}"
+},
+{
+  "_id": {
+    "$oid": "63a5d2efad64c12db51bc612"
+  },
+  "pregunta": "¿Qué cambios propondrías para mejorar la convivencia en clase?",
+  "ambitos": "{\"Entorno en clase\": 90}"
+},
+{
+  "_id": {
+    "$oid": "63a5d2efad64c12db51bc613"
+  },
+  "pregunta": "¿Cuál es tu lugar favorito para pasear o jugar fuera de la escuela?",
+  "ambitos": "{\"Entorno exterior\": 100}"
+},
+{
+  "_id": {
+    "$oid": "63a5d2efad64c12db51bc614"
+  },
+  "pregunta": "¿Cómo te sientes cuando exploras lugares nuevos?",
+  "ambitos": "{\"Entorno exterior\": 85}"
+},
+{
+  "_id": {
+    "$oid": "63a5d2efad64c12db51bc615"
+  },
+  "pregunta": "¿Qué te gustaría descubrir en tu entorno si pudieras viajar a cualquier parte?",
+  "ambitos": "{\"Entorno exterior\": 90}"
+},
+{
+  "_id": {
+    "$oid": "63a5d2efad64c12db51bc616"
+  },
+  "pregunta": "¿Qué sueles hacer después de clase para divertirte?",
+  "ambitos": "{\"Actividades extraescolares\": 100}"
+},
+{
+  "_id": {
+    "$oid": "63a5d2efad64c12db51bc617"
+  },
+  "pregunta": "¿Qué te motiva a participar en un taller o club escolar?",
+  "ambitos": "{\"Actividades extraescolares\": 85}"
+},
+{
+  "_id": {
+    "$oid": "63a5d2efad64c12db51bc618"
+  },
+  "pregunta": "¿Cómo eliges las actividades que te gustan en tu tiempo libre?",
+  "ambitos": "{\"Actividades extraescolares\": 90}"
+},
+{
+  "_id": {
+    "$oid": "63a5d2efad64c12db51bc619"
+  },
+  "pregunta": "¿Cómo te describirías cuando estás de buen humor?",
+  "ambitos": "{\"Autopercepción y emociones\": 100}"
+},
+{
+  "_id": {
+    "$oid": "63a5d2efad64c12db51bc620"
+  },
+  "pregunta": "¿Qué sueles hacer para sentirte mejor cuando algo te pone triste?",
+  "ambitos": "{\"Autopercepción y emociones\": 90}"
+},
+{
+  "_id": {
+    "$oid": "63a5d2efad64c12db51bc621"
+  },
+  "pregunta": "¿Qué habilidad personal te gustaría desarrollar más?",
+  "ambitos": "{\"Autopercepción y emociones\": 80}"
+},
+{
+  "_id": {
+    "$oid": "63a5d2efad64c12db51bc622"
+  },
+  "pregunta": "¿Cómo reaccionas cuando sientes que te superan los nervios?",
+  "ambitos": "{\"Autopercepción y emociones\": 95}"
+},
+{
+  "_id": {
+    "$oid": "63a5d2efad64c12db51bc623"
+  },
+  "pregunta": "¿Qué es lo que más valoras de un buen profesor?",
+  "ambitos": "{\"Relación con profesores\": 100}"
+},
+{
+  "_id": {
+    "$oid": "63a5d2efad64c12db51bc624"
+  },
+  "pregunta": "¿Cómo te gusta recibir retroalimentación de tus maestros?",
+  "ambitos": "{\"Relación con profesores\": 90}"
+},
+{
+  "_id": {
+    "$oid": "63a5d2efad64c12db51bc625"
+  },
+  "pregunta": "¿En qué ocasiones sientes mayor apoyo por parte de tus docentes?",
+  "ambitos": "{\"Relación con profesores\": 80}"
+},
+{
+  "_id": {
+    "$oid": "63a5d2efad64c12db51bc626"
+  },
+  "pregunta": "¿Qué cambiarías de la comunicación con tus profesores para sentirte mejor en clase?",
+  "ambitos": "{\"Relación con profesores\": 95}"
+},
+{
+  "_id": {
+    "$oid": "63a5d2efad64c12db51bc627"
+  },
+  "pregunta": "¿Cómo te gustaría pasar un día ideal sin preocupaciones?",
+  "ambitos": "{\"General\": 100}"
+},
+{
+  "_id": {
+    "$oid": "63a5d2efad64c12db51bc628"
+  },
+  "pregunta": "¿Qué te haría sentir más feliz cada mañana al despertar?",
+  "ambitos": "{\"General\": 90}"
+},
+{
+  "_id": {
+    "$oid": "63a5d2efad64c12db51bc629"
+  },
+  "pregunta": "¿Cuál ha sido el momento más divertido que has vivido últimamente?",
+  "ambitos": "{\"General\": 80}"
+},
+{
+  "_id": {
+    "$oid": "63a5d2efad64c12db51bc630"
+  },
+  "pregunta": "¿Qué sueños o planes tienes para tu futuro que te emocionan?",
+  "ambitos": "{\"General\": 95}"
+},
+{
+  "_id": {
+    "$oid": "63a5d2efad64c12db51bc631"
+  },
+  "pregunta": "¿Qué te motiva a aprender cosas nuevas tanto en la escuela como en tu vida diaria?",
+  "ambitos": "{\"General\": 50, \"Académico\": 50}"
+},
+{
+  "_id": {
+    "$oid": "63a5d2efad64c12db51bc632"
+  },
+  "pregunta": "¿Cómo te gustaría que fuera el ambiente escolar para sentirte a gusto?",
+  "ambitos": "{\"General\": 60, \"Entorno en clase\": 40}"
+},
+{
+  "_id": {
+    "$oid": "63a5d2efad64c12db51bc633"
+  },
+  "pregunta": "¿Qué te emociona más de salir a explorar tu ciudad o tu barrio?",
+  "ambitos": "{\"General\": 55, \"Entorno exterior\": 45}"
+},
+{
+  "_id": {
+    "$oid": "63a5d2efad64c12db51bc634"
+  },
+  "pregunta": "¿De qué manera tus pasatiempos y hobbies influyen en tu día a día?",
+  "ambitos": "{\"General\": 60, \"Actividades extraescolares\": 40}"
+},
+{
+  "_id": {
+    "$oid": "63a5d2efad64c12db51bc635"
+  },
+  "pregunta": "¿Cómo crees que tus sentimientos afectan la forma en que disfrutas tus actividades?",
+  "ambitos": "{\"General\": 40, \"Autopercepción y emociones\": 60}"
+},
+{
+  "_id": {
+    "$oid": "63a5d2efad64c12db51bc636"
+  },
+  "pregunta": "¿Cómo te gustaría que tus profesores se involucraran en tu crecimiento personal?",
+  "ambitos": "{\"General\": 45, \"Relación con profesores\": 55}"
+},
+{
+  "_id": {
+    "$oid": "63a5d2efad64c12db51bc637"
+  },
+  "pregunta": "¿Cómo pueden tus profesores y tu familia colaborar para apoyarte mejor?",
+  "ambitos": "{\"Relación con profesores\": 50, \"Familia\": 50}"
+},
+{
+  "_id": {
+    "$oid": "63a5d2efad64c12db51bc638"
+  },
+  "pregunta": "¿Qué rol crees que tienen tus maestros al fomentar buenas amistades en la escuela?",
+  "ambitos": "{\"Relación con profesores\": 60, \"Amigos y relaciones\": 40}"
+},
+{
+  "_id": {
+    "$oid": "63a5d2efad64c12db51bc639"
+  },
+  "pregunta": "¿Cómo te ayudan tus profesores a mejorar tu desempeño académico?",
+  "ambitos": "{\"Relación con profesores\": 55, \"Académico\": 45}"
+},
+{
+  "_id": {
+    "$oid": "63a5d2efad64c12db51bc640"
+  },
+  "pregunta": "¿De qué manera influyen tus maestros en el ambiente de tu salón de clases?",
+  "ambitos": "{\"Relación con profesores\": 50, \"Entorno en clase\": 50}"
+},
+{
+  "_id": {
+    "$oid": "63a5d2efad64c12db51bc641"
+  },
+  "pregunta": "¿Cómo podrían tus profesores motivarte a explorar el mundo fuera del aula?",
+  "ambitos": "{\"Relación con profesores\": 65, \"Entorno exterior\": 35}"
+},
+{
+  "_id": {
+    "$oid": "63a5d2efad64c12db51bc642"
+  },
+  "pregunta": "¿Cómo equilibras el tiempo que pasas con tu familia y con tus amigos?",
+  "ambitos": "{\"Familia\": 50, \"Amigos y relaciones\": 50}"
+},
+{
+  "_id": {
+    "$oid": "63a5d2efad64c12db51bc643"
+  },
+  "pregunta": "¿De qué forma te apoya tu familia en tus estudios?",
+  "ambitos": "{\"Familia\": 60, \"Académico\": 40}"
+},
+{
+  "_id": {
+    "$oid": "63a5d2efad64c12db51bc644"
+  },
+  "pregunta": "¿Cómo influye el ambiente familiar en tu actitud dentro del salón de clase?",
+  "ambitos": "{\"Familia\": 55, \"Entorno en clase\": 45}"
+},
+{
+  "_id": {
+    "$oid": "63a5d2efad64c12db51bc645"
+  },
+  "pregunta": "¿Qué tipo de actividades familiares te gustaría hacer fuera de casa?",
+  "ambitos": "{\"Familia\": 70, \"Entorno exterior\": 30}"
+},
+{
+  "_id": {
+    "$oid": "63a5d2efad64c12db51bc646"
+  },
+  "pregunta": "¿Cómo deciden en tu familia a qué actividades extracurriculares te apuntas?",
+  "ambitos": "{\"Familia\": 65, \"Actividades extraescolares\": 35}"
+},
+{
+  "_id": {
+    "$oid": "63a5d2efad64c12db51bc647"
+  },
+  "pregunta": "¿De qué manera te hace sentir el apoyo de tu familia en tus retos personales?",
+  "ambitos": "{\"Familia\": 55, \"Autopercepción y emociones\": 45}"
+},
+{
+  "_id": {
+    "$oid": "63a5d2efad64c12db51bc648"
+  },
+  "pregunta": "¿Cómo influyen tus amigos en tu rendimiento escolar?",
+  "ambitos": "{\"Amigos y relaciones\": 60, \"Académico\": 40}"
+},
+{
+  "_id": {
+    "$oid": "63a5d2efad64c12db51bc649"
+  },
+  "pregunta": "¿Qué papel juegan tus amistades en tu experiencia de aula?",
+  "ambitos": "{\"Amigos y relaciones\": 70, \"Entorno en clase\": 30}"
+},
+{
+  "_id": {
+    "$oid": "63a5d2efad64c12db51bc650"
+  },
+  "pregunta": "¿Cómo disfrutas de tu entorno cuando sales con tus amigos?",
+  "ambitos": "{\"Amigos y relaciones\": 55, \"Entorno exterior\": 45}"
+},
+{
+  "_id": {
+    "$oid": "63a5d2efad64c12db51bc651"
+  },
+  "pregunta": "¿Cuál es la mejor actividad para fortalecer tus lazos de amistad?",
+  "ambitos": "{\"Amigos y relaciones\": 60, \"Actividades extraescolares\": 40}"
+},
+{
+  "_id": {
+    "$oid": "63a5d2efad64c12db51bc652"
+  },
+  "pregunta": "¿Cómo te afectan los comentarios de tus amigos sobre ti?",
+  "ambitos": "{\"Amigos y relaciones\": 50, \"Autopercepción y emociones\": 50}"
+},
+{
+  "_id": {
+    "$oid": "63a5d2efad64c12db51bc653"
+  },
+  "pregunta": "¿Cómo ayuda un buen ambiente de clase a que aprendas mejor?",
+  "ambitos": "{\"Académico\": 60, \"Entorno en clase\": 40}"
+},
+{
+  "_id": {
+    "$oid": "63a5d2efad64c12db51bc654"
+  },
+  "pregunta": "¿De qué forma te motiva explorar nuevos lugares para aprender cosas diferentes?",
+  "ambitos": "{\"Académico\": 50, \"Entorno exterior\": 50}"
+},
+{
+  "_id": {
+    "$oid": "63a5d2efad64c12db51bc655"
+  },
+  "pregunta": "¿Cómo contribuyen tus intereses fuera del colegio a tu desempeño académico?",
+  "ambitos": "{\"Académico\": 55, \"Actividades extraescolares\": 45}"
+},
+{
+  "_id": {
+    "$oid": "63a5d2efad64c12db51bc656"
+  },
+  "pregunta": "¿Cómo compararías la forma en que te sientes en clase con cómo te sientes al aire libre?",
+  "ambitos": "{\"Entorno en clase\": 60, \"Entorno exterior\": 40}"
+},
+{
+  "_id": {
+    "$oid": "63a5d2efad64c12db51bc657"
+  },
+  "pregunta": "¿Cómo influyen tus emociones en tu participación en el salón de clase?",
+  "ambitos": "{\"Entorno en clase\": 45, \"Autopercepción y emociones\": 55}"
+},
+{
+  "_id": {
+    "$oid": "63a5d2efad64c12db51bc658"
+  },
+  "pregunta": "¿Cómo aprovechas los espacios al aire libre para practicar tus actividades favoritas?",
+  "ambitos": "{\"Entorno exterior\": 50, \"Actividades extraescolares\": 50}"
+},
+{
+  "_id": {
+    "$oid": "63a5d2efad64c12db51bc659"
+  },
+  "pregunta": "¿Cómo te sientes cuando logras metas en tus hobbies o deportes?",
+  "ambitos": "{\"Actividades extraescolares\": 55, \"Autopercepción y emociones\": 45}"
+},
+{
+  "_id": {
+    "$oid": "63a5d2efad64c12db51bc660"
+  },
+  "pregunta": "¿Qué aprendizajes emocionales obtienes de tus actividades fuera de clase?",
+  "ambitos": "{\"Actividades extraescolares\": 50, \"Autopercepción y emociones\": 50}"
+}]

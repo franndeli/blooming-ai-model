@@ -1,0 +1,1800 @@
+[{
+  "_id": {
+    "$oid": "e5c2ae78f23d0fbdf8021794"
+  },
+  "nombre": "Diego",
+  "apellidos": "Serrano Marín",
+  "ambitos": "{\"Familia\": {\"peso\": 79.4, \"porcentaje\": 0.1497}, \"Amigos y relaciones\": {\"peso\": 29.2, \"porcentaje\": 0.0792}, \"Académico\": {\"peso\": 40.8, \"porcentaje\": 0.1015}, \"Entorno en clase\": {\"peso\": 18.2, \"porcentaje\": 0.0602}, \"Entorno exterior\": {\"peso\": 34.6, \"porcentaje\": 0.1015}, \"Actividades extraescolares\": {\"peso\": 65.4, \"porcentaje\": 0.1635}, \"Autopercepción y emociones\": {\"peso\": 36.1, \"porcentaje\": 0.105}, \"Relación con profesores\": {\"peso\": 45.6, \"porcentaje\": 0.1325}, \"General\": {\"peso\": 35.8, \"porcentaje\": 0.1067}}",
+  "objetivo": "Predeterminado"
+},
+{
+  "_id": {
+    "$oid": "46b545dffc21bb4329af3f9c"
+  },
+  "nombre": "Andrés",
+  "apellidos": "Vidal Campos",
+  "ambitos": "{\"Familia\": {\"peso\": 91.9, \"porcentaje\": 0.1104}, \"Amigos y relaciones\": {\"peso\": 37.0, \"porcentaje\": 0.1119}, \"Académico\": {\"peso\": 32.0, \"porcentaje\": 0.1104}, \"Entorno en clase\": {\"peso\": 29.8, \"porcentaje\": 0.1134}, \"Entorno exterior\": {\"peso\": 56.1, \"porcentaje\": 0.1119}, \"Actividades extraescolares\": {\"peso\": 37.4, \"porcentaje\": 0.1104}, \"Autopercepción y emociones\": {\"peso\": 24.4, \"porcentaje\": 0.1119}, \"Relación con profesores\": {\"peso\": 47.3, \"porcentaje\": 0.1104}, \"General\": {\"peso\": 35.7, \"porcentaje\": 0.109}}",
+  "objetivo": "Exploración"
+},
+{
+  "_id": {
+    "$oid": "000096c2e936e995dae6fe95"
+  },
+  "nombre": "Carmen",
+  "apellidos": "Pardo Méndez",
+  "ambitos": "{\"Familia\": {\"peso\": 93.7, \"porcentaje\": 0.168}, \"Amigos y relaciones\": {\"peso\": 29.8, \"porcentaje\": 0.0774}, \"Académico\": {\"peso\": 56.9, \"porcentaje\": 0.117}, \"Entorno en clase\": {\"peso\": 41.0, \"porcentaje\": 0.0758}, \"Entorno exterior\": {\"peso\": 61.5, \"porcentaje\": 0.1417}, \"Actividades extraescolares\": {\"peso\": 49.0, \"porcentaje\": 0.1071}, \"Autopercepción y emociones\": {\"peso\": 40.2, \"porcentaje\": 0.0972}, \"Relación con profesores\": {\"peso\": 36.4, \"porcentaje\": 0.0923}, \"General\": {\"peso\": 57.4, \"porcentaje\": 0.1236}}",
+  "objetivo": "Predeterminado"
+},
+{
+  "_id": {
+    "$oid": "3a66c609f928377b30f6ae27"
+  },
+  "nombre": "Patricia",
+  "apellidos": "Soler Blanco",
+  "ambitos": "{\"Familia\": {\"peso\": 62.2, \"porcentaje\": 0.0561}, \"Amigos y relaciones\": {\"peso\": 77.0, \"porcentaje\": 0.0636}, \"Académico\": {\"peso\": 27.8, \"porcentaje\": 0.1701}, \"Entorno en clase\": {\"peso\": 11.6, \"porcentaje\": 0.2056}, \"Entorno exterior\": {\"peso\": 55.5, \"porcentaje\": 0.0617}, \"Actividades extraescolares\": {\"peso\": 64.1, \"porcentaje\": 0.0579}, \"Autopercepción y emociones\": {\"peso\": 61.6, \"porcentaje\": 0.0579}, \"Relación con profesores\": {\"peso\": 52.0, \"porcentaje\": 0.1458}, \"General\": {\"peso\": 29.1, \"porcentaje\": 0.1813}}",
+  "objetivo": "Prevención"
+},
+{
+  "_id": {
+    "$oid": "71258e289e7b60a95acf1d72"
+  },
+  "nombre": "Irene",
+  "apellidos": "Domínguez Serrano",
+  "ambitos": "{\"Familia\": {\"peso\": 45.4, \"porcentaje\": 0.1033}, \"Amigos y relaciones\": {\"peso\": 40.3, \"porcentaje\": 0.1224}, \"Académico\": {\"peso\": 12.3, \"porcentaje\": 0.1587}, \"Entorno en clase\": {\"peso\": 1.2, \"porcentaje\": 0.2122}, \"Entorno exterior\": {\"peso\": 38.1, \"porcentaje\": 0.0688}, \"Actividades extraescolares\": {\"peso\": 44.4, \"porcentaje\": 0.0669}, \"Autopercepción y emociones\": {\"peso\": 65.1, \"porcentaje\": 0.0593}, \"Relación con profesores\": {\"peso\": 35.5, \"porcentaje\": 0.1434}, \"General\": {\"peso\": 64.0, \"porcentaje\": 0.065}}",
+  "objetivo": "Prevención"
+},
+{
+  "_id": {
+    "$oid": "4fefbbbe7390d6a92c56d13b"
+  },
+  "nombre": "Diego",
+  "apellidos": "Alonso Domínguez",
+  "ambitos": "{\"Familia\": {\"peso\": 71.3, \"porcentaje\": 0.116}, \"Amigos y relaciones\": {\"peso\": 51.6, \"porcentaje\": 0.1464}, \"Académico\": {\"peso\": 28.8, \"porcentaje\": 0.1958}, \"Entorno en clase\": {\"peso\": 68.5, \"porcentaje\": 0.0589}, \"Entorno exterior\": {\"peso\": 97.7, \"porcentaje\": 0.0608}, \"Actividades extraescolares\": {\"peso\": 67.4, \"porcentaje\": 0.0703}, \"Autopercepción y emociones\": {\"peso\": 64.3, \"porcentaje\": 0.0608}, \"Relación con profesores\": {\"peso\": 72.7, \"porcentaje\": 0.0589}, \"General\": {\"peso\": 21.2, \"porcentaje\": 0.2319}}",
+  "objetivo": "Prevención"
+},
+{
+  "_id": {
+    "$oid": "53642f915a45c008a92aae57"
+  },
+  "nombre": "Diego",
+  "apellidos": "Esteban Suárez",
+  "ambitos": "{\"Familia\": {\"peso\": 90.3, \"porcentaje\": 0.1403}, \"Amigos y relaciones\": {\"peso\": 80.8, \"porcentaje\": 0.1452}, \"Académico\": {\"peso\": 81.1, \"porcentaje\": 0.1403}, \"Entorno en clase\": {\"peso\": 73.0, \"porcentaje\": 0.1142}, \"Entorno exterior\": {\"peso\": 76.6, \"porcentaje\": 0.1436}, \"Actividades extraescolares\": {\"peso\": 61.2, \"porcentaje\": 0.1011}, \"Autopercepción y emociones\": {\"peso\": 30.4, \"porcentaje\": 0.0636}, \"Relación con profesores\": {\"peso\": 21.9, \"porcentaje\": 0.0555}, \"General\": {\"peso\": 56.5, \"porcentaje\": 0.0962}}",
+  "objetivo": "Predeterminado"
+},
+{
+  "_id": {
+    "$oid": "b7ef7515d8ceff3f5f9ae9a2"
+  },
+  "nombre": "Isabel",
+  "apellidos": "Torres Ramos",
+  "ambitos": "{\"Familia\": {\"peso\": 71.1, \"porcentaje\": 0.1148}, \"Amigos y relaciones\": {\"peso\": 46.5, \"porcentaje\": 0.1103}, \"Académico\": {\"peso\": 72.8, \"porcentaje\": 0.1118}, \"Entorno en clase\": {\"peso\": 75.7, \"porcentaje\": 0.1118}, \"Entorno exterior\": {\"peso\": 86.4, \"porcentaje\": 0.1118}, \"Actividades extraescolares\": {\"peso\": 60.0, \"porcentaje\": 0.1103}, \"Autopercepción y emociones\": {\"peso\": 25.3, \"porcentaje\": 0.1073}, \"Relación con profesores\": {\"peso\": 49.5, \"porcentaje\": 0.1103}, \"General\": {\"peso\": 89.8, \"porcentaje\": 0.1118}}",
+  "objetivo": "Exploración"
+},
+{
+  "_id": {
+    "$oid": "01bdcd79d1a876950f30e551"
+  },
+  "nombre": "Beatriz",
+  "apellidos": "Rubio León",
+  "ambitos": "{\"Familia\": {\"peso\": 98.0, \"porcentaje\": 0.0557}, \"Amigos y relaciones\": {\"peso\": 49.4, \"porcentaje\": 0.1459}, \"Académico\": {\"peso\": 47.2, \"porcentaje\": 0.1843}, \"Entorno en clase\": {\"peso\": 72.2, \"porcentaje\": 0.0595}, \"Entorno exterior\": {\"peso\": 84.6, \"porcentaje\": 0.0576}, \"Actividades extraescolares\": {\"peso\": 56.3, \"porcentaje\": 0.144}, \"Autopercepción y emociones\": {\"peso\": 37.2, \"porcentaje\": 0.2265}, \"Relación con profesores\": {\"peso\": 70.6, \"porcentaje\": 0.0576}, \"General\": {\"peso\": 86.8, \"porcentaje\": 0.0691}}",
+  "objetivo": "Prevención"
+},
+{
+  "_id": {
+    "$oid": "7d1640a6e1292178c727faa9"
+  },
+  "nombre": "Hugo",
+  "apellidos": "Santos Gil",
+  "ambitos": "{\"Familia\": {\"peso\": 100, \"porcentaje\": 0.1628}, \"Amigos y relaciones\": {\"peso\": 56.9, \"porcentaje\": 0.0796}, \"Académico\": {\"peso\": 47.2, \"porcentaje\": 0.0619}, \"Entorno en clase\": {\"peso\": 76.3, \"porcentaje\": 0.1009}, \"Entorno exterior\": {\"peso\": 97.3, \"porcentaje\": 0.1912}, \"Actividades extraescolares\": {\"peso\": 77.0, \"porcentaje\": 0.1451}, \"Autopercepción y emociones\": {\"peso\": 50.9, \"porcentaje\": 0.0602}, \"Relación con profesores\": {\"peso\": 59.4, \"porcentaje\": 0.0903}, \"General\": {\"peso\": 76.4, \"porcentaje\": 0.108}}",
+  "objetivo": "Predeterminado"
+},
+{
+  "_id": {
+    "$oid": "53e3eab0a0ea4b7971956731"
+  },
+  "nombre": "Noelia",
+  "apellidos": "Gutiérrez Castro",
+  "ambitos": "{\"Familia\": {\"peso\": 54.7, \"porcentaje\": 0.0535}, \"Amigos y relaciones\": {\"peso\": 11.9, \"porcentaje\": 0.2122}, \"Académico\": {\"peso\": 72.7, \"porcentaje\": 0.0574}, \"Entorno en clase\": {\"peso\": 43.7, \"porcentaje\": 0.1511}, \"Entorno exterior\": {\"peso\": 49.7, \"porcentaje\": 0.0975}, \"Actividades extraescolares\": {\"peso\": 63.9, \"porcentaje\": 0.0612}, \"Autopercepción y emociones\": {\"peso\": 49.9, \"porcentaje\": 0.1205}, \"Relación con profesores\": {\"peso\": 31.7, \"porcentaje\": 0.1797}, \"General\": {\"peso\": 59.3, \"porcentaje\": 0.0669}}",
+  "objetivo": "Prevención"
+},
+{
+  "_id": {
+    "$oid": "aba2354fd4bdcebe8c161a73"
+  },
+  "nombre": "Víctor",
+  "apellidos": "Alonso Domínguez",
+  "ambitos": "{\"Familia\": {\"peso\": 61.9, \"porcentaje\": 0.0534}, \"Amigos y relaciones\": {\"peso\": 66.4, \"porcentaje\": 0.1317}, \"Académico\": {\"peso\": 67.3, \"porcentaje\": 0.0611}, \"Entorno en clase\": {\"peso\": 100, \"porcentaje\": 0.1851}, \"Entorno exterior\": {\"peso\": 97.8, \"porcentaje\": 0.1718}, \"Actividades extraescolares\": {\"peso\": 64.3, \"porcentaje\": 0.0611}, \"Autopercepción y emociones\": {\"peso\": 56.5, \"porcentaje\": 0.0592}, \"Relación con profesores\": {\"peso\": 57.2, \"porcentaje\": 0.0573}, \"General\": {\"peso\": 100, \"porcentaje\": 0.2195}}",
+  "objetivo": "Consolidación"
+},
+{
+  "_id": {
+    "$oid": "30baca4dc6ea79798660986e"
+  },
+  "nombre": "Raúl",
+  "apellidos": "Peña Herrera",
+  "ambitos": "{\"Familia\": {\"peso\": 54.3, \"porcentaje\": 0.1057}, \"Amigos y relaciones\": {\"peso\": 64.3, \"porcentaje\": 0.0626}, \"Académico\": {\"peso\": 17.5, \"porcentaje\": 0.1937}, \"Entorno en clase\": {\"peso\": 89.5, \"porcentaje\": 0.0626}, \"Entorno exterior\": {\"peso\": 83.1, \"porcentaje\": 0.0646}, \"Actividades extraescolares\": {\"peso\": 4.9, \"porcentaje\": 0.2231}, \"Autopercepción y emociones\": {\"peso\": 33.0, \"porcentaje\": 0.1409}, \"Relación con profesores\": {\"peso\": 61.1, \"porcentaje\": 0.0783}, \"General\": {\"peso\": 82.8, \"porcentaje\": 0.0685}}",
+  "objetivo": "Prevención"
+},
+{
+  "_id": {
+    "$oid": "b5a28d5b10aaaa052a04982f"
+  },
+  "nombre": "Javier",
+  "apellidos": "Pérez Rodríguez",
+  "ambitos": "{\"Familia\": {\"peso\": 81.8, \"porcentaje\": 0.1139}, \"Amigos y relaciones\": {\"peso\": 28.8, \"porcentaje\": 0.1095}, \"Académico\": {\"peso\": 69.0, \"porcentaje\": 0.1095}, \"Entorno en clase\": {\"peso\": 95.5, \"porcentaje\": 0.1109}, \"Entorno exterior\": {\"peso\": 70.0, \"porcentaje\": 0.1124}, \"Actividades extraescolares\": {\"peso\": 6.8, \"porcentaje\": 0.1095}, \"Autopercepción y emociones\": {\"peso\": 76.6, \"porcentaje\": 0.1109}, \"Relación con profesores\": {\"peso\": 22.7, \"porcentaje\": 0.1109}, \"General\": {\"peso\": 100, \"porcentaje\": 0.1124}}",
+  "objetivo": "Exploración"
+},
+{
+  "_id": {
+    "$oid": "6a6a52f3de624bfa3b77dce2"
+  },
+  "nombre": "Fernando",
+  "apellidos": "Ruiz Fernández",
+  "ambitos": "{\"Familia\": {\"peso\": 44.7, \"porcentaje\": 0.1129}, \"Amigos y relaciones\": {\"peso\": 28.2, \"porcentaje\": 0.11}, \"Académico\": {\"peso\": 15.0, \"porcentaje\": 0.11}, \"Entorno en clase\": {\"peso\": 77.0, \"porcentaje\": 0.1114}, \"Entorno exterior\": {\"peso\": 71.2, \"porcentaje\": 0.1114}, \"Actividades extraescolares\": {\"peso\": 0, \"porcentaje\": 0.1129}, \"Autopercepción y emociones\": {\"peso\": 45.0, \"porcentaje\": 0.1114}, \"Relación con profesores\": {\"peso\": 24.0, \"porcentaje\": 0.107}, \"General\": {\"peso\": 79.8, \"porcentaje\": 0.1129}}",
+  "objetivo": "Exploración"
+},
+{
+  "_id": {
+    "$oid": "7f75c2047198514599c5a4ed"
+  },
+  "nombre": "Paula",
+  "apellidos": "Méndez Lara",
+  "ambitos": "{\"Familia\": {\"peso\": 100, \"porcentaje\": 0.1128}, \"Amigos y relaciones\": {\"peso\": 23.1, \"porcentaje\": 0.1128}, \"Académico\": {\"peso\": 41.6, \"porcentaje\": 0.1098}, \"Entorno en clase\": {\"peso\": 100, \"porcentaje\": 0.1128}, \"Entorno exterior\": {\"peso\": 100, \"porcentaje\": 0.1128}, \"Actividades extraescolares\": {\"peso\": 31.7, \"porcentaje\": 0.1098}, \"Autopercepción y emociones\": {\"peso\": 75.5, \"porcentaje\": 0.1128}, \"Relación con profesores\": {\"peso\": 51.8, \"porcentaje\": 0.1083}, \"General\": {\"peso\": 100, \"porcentaje\": 0.1083}}",
+  "objetivo": "Exploración"
+},
+{
+  "_id": {
+    "$oid": "47dc550fcbf1c665f42c9abb"
+  },
+  "nombre": "Nuria",
+  "apellidos": "Romero Navarro",
+  "ambitos": "{\"Familia\": {\"peso\": 100, \"porcentaje\": 0.1935}, \"Amigos y relaciones\": {\"peso\": 53.6, \"porcentaje\": 0.0987}, \"Académico\": {\"peso\": 39.8, \"porcentaje\": 0.1025}, \"Entorno en clase\": {\"peso\": 50.3, \"porcentaje\": 0.0645}, \"Entorno exterior\": {\"peso\": 28.8, \"porcentaje\": 0.0607}, \"Actividades extraescolares\": {\"peso\": 44.7, \"porcentaje\": 0.0607}, \"Autopercepción y emociones\": {\"peso\": 51.9, \"porcentaje\": 0.0987}, \"Relación con profesores\": {\"peso\": 67.1, \"porcentaje\": 0.1025}, \"General\": {\"peso\": 99.1, \"porcentaje\": 0.2182}}",
+  "objetivo": "Consolidación"
+},
+{
+  "_id": {
+    "$oid": "2c76bfbae662fff765ac54f7"
+  },
+  "nombre": "Valeria",
+  "apellidos": "Sáez Molina",
+  "ambitos": "{\"Familia\": {\"peso\": 100, \"porcentaje\": 0.1103}, \"Amigos y relaciones\": {\"peso\": 20.3, \"porcentaje\": 0.1148}, \"Académico\": {\"peso\": 92.0, \"porcentaje\": 0.1103}, \"Entorno en clase\": {\"peso\": 54.1, \"porcentaje\": 0.1103}, \"Entorno exterior\": {\"peso\": 90.0, \"porcentaje\": 0.1103}, \"Actividades extraescolares\": {\"peso\": 79.8, \"porcentaje\": 0.1118}, \"Autopercepción y emociones\": {\"peso\": 72.6, \"porcentaje\": 0.1088}, \"Relación con profesores\": {\"peso\": 73.0, \"porcentaje\": 0.1118}, \"General\": {\"peso\": 100, \"porcentaje\": 0.1118}}",
+  "objetivo": "Exploración"
+},
+{
+  "_id": {
+    "$oid": "060edc10a6eed6e36c5c9f03"
+  },
+  "nombre": "Sofía",
+  "apellidos": "Díaz González",
+  "ambitos": "{\"Familia\": {\"peso\": 34.2, \"porcentaje\": 0.0595}, \"Amigos y relaciones\": {\"peso\": 57.0, \"porcentaje\": 0.1209}, \"Académico\": {\"peso\": 60.7, \"porcentaje\": 0.071}, \"Entorno en clase\": {\"peso\": 67.7, \"porcentaje\": 0.1536}, \"Entorno exterior\": {\"peso\": 97.8, \"porcentaje\": 0.2265}, \"Actividades extraescolares\": {\"peso\": 76.5, \"porcentaje\": 0.1574}, \"Autopercepción y emociones\": {\"peso\": 64.5, \"porcentaje\": 0.0864}, \"Relación con profesores\": {\"peso\": 29.8, \"porcentaje\": 0.0595}, \"General\": {\"peso\": 55.6, \"porcentaje\": 0.0653}}",
+  "objetivo": "Consolidación"
+},
+{
+  "_id": {
+    "$oid": "6a271ba3eb9a7b23a534fca6"
+  },
+  "nombre": "Marta",
+  "apellidos": "Esteban Suárez",
+  "ambitos": "{\"Familia\": {\"peso\": 88.8, \"porcentaje\": 0.0687}, \"Amigos y relaciones\": {\"peso\": 16.8, \"porcentaje\": 0.2176}, \"Académico\": {\"peso\": 89.9, \"porcentaje\": 0.0782}, \"Entorno en clase\": {\"peso\": 42.9, \"porcentaje\": 0.1908}, \"Entorno exterior\": {\"peso\": 91.2, \"porcentaje\": 0.0859}, \"Actividades extraescolares\": {\"peso\": 100, \"porcentaje\": 0.0611}, \"Autopercepción y emociones\": {\"peso\": 88.9, \"porcentaje\": 0.0687}, \"Relación con profesores\": {\"peso\": 75.2, \"porcentaje\": 0.0954}, \"General\": {\"peso\": 87.8, \"porcentaje\": 0.1336}}",
+  "objetivo": "Prevención"
+},
+{
+  "_id": {
+    "$oid": "a9d229034513d52df2a663e3"
+  },
+  "nombre": "Carmen",
+  "apellidos": "Vázquez Vargas",
+  "ambitos": "{\"Familia\": {\"peso\": 100, \"porcentaje\": 0.1412}, \"Amigos y relaciones\": {\"peso\": 60.2, \"porcentaje\": 0.0611}, \"Académico\": {\"peso\": 38.7, \"porcentaje\": 0.0649}, \"Entorno en clase\": {\"peso\": 69.9, \"porcentaje\": 0.1603}, \"Entorno exterior\": {\"peso\": 22.9, \"porcentaje\": 0.0611}, \"Actividades extraescolares\": {\"peso\": 72.2, \"porcentaje\": 0.208}, \"Autopercepción y emociones\": {\"peso\": 52.3, \"porcentaje\": 0.1317}, \"Relación con profesores\": {\"peso\": 58.0, \"porcentaje\": 0.1069}, \"General\": {\"peso\": 37.3, \"porcentaje\": 0.0649}}",
+  "objetivo": "Consolidación"
+},
+{
+  "_id": {
+    "$oid": "645f0b5c89982dda0c4b27c0"
+  },
+  "nombre": "Laura",
+  "apellidos": "Molina Lozano",
+  "ambitos": "{\"Familia\": {\"peso\": 100, \"porcentaje\": 0.1836}, \"Amigos y relaciones\": {\"peso\": 47.9, \"porcentaje\": 0.0593}, \"Académico\": {\"peso\": 58.5, \"porcentaje\": 0.1319}, \"Entorno en clase\": {\"peso\": 78.9, \"porcentaje\": 0.1759}, \"Entorno exterior\": {\"peso\": 34.4, \"porcentaje\": 0.0593}, \"Actividades extraescolares\": {\"peso\": 73.1, \"porcentaje\": 0.1721}, \"Autopercepción y emociones\": {\"peso\": 36.7, \"porcentaje\": 0.0593}, \"Relación con profesores\": {\"peso\": 62.6, \"porcentaje\": 0.0918}, \"General\": {\"peso\": 20.5, \"porcentaje\": 0.0669}}",
+  "objetivo": "Consolidación"
+},
+{
+  "_id": {
+    "$oid": "41d2550119f3cdb405d4412e"
+  },
+  "nombre": "Irene",
+  "apellidos": "Campos Cabrera",
+  "ambitos": "{\"Familia\": {\"peso\": 100, \"porcentaje\": 0.1651}, \"Amigos y relaciones\": {\"peso\": 68.7, \"porcentaje\": 0.1195}, \"Académico\": {\"peso\": 58.5, \"porcentaje\": 0.0626}, \"Entorno en clase\": {\"peso\": 52.6, \"porcentaje\": 0.0588}, \"Entorno exterior\": {\"peso\": 57.6, \"porcentaje\": 0.0626}, \"Actividades extraescolares\": {\"peso\": 46.9, \"porcentaje\": 0.0588}, \"Autopercepción y emociones\": {\"peso\": 37.7, \"porcentaje\": 0.0588}, \"Relación con profesores\": {\"peso\": 66.4, \"porcentaje\": 0.1784}, \"General\": {\"peso\": 96.0, \"porcentaje\": 0.2353}}",
+  "objetivo": "Consolidación"
+},
+{
+  "_id": {
+    "$oid": "94413c28e84abfd51bd23b0f"
+  },
+  "nombre": "Natalia",
+  "apellidos": "Cabrera Gallardo",
+  "ambitos": "{\"Familia\": {\"peso\": 100, \"porcentaje\": 0.109}, \"Amigos y relaciones\": {\"peso\": 40.7, \"porcentaje\": 0.1119}, \"Académico\": {\"peso\": 51.5, \"porcentaje\": 0.1119}, \"Entorno en clase\": {\"peso\": 23.3, \"porcentaje\": 0.1104}, \"Entorno exterior\": {\"peso\": 79.5, \"porcentaje\": 0.1119}, \"Actividades extraescolares\": {\"peso\": 97.2, \"porcentaje\": 0.1119}, \"Autopercepción y emociones\": {\"peso\": 85.1, \"porcentaje\": 0.1119}, \"Relación con profesores\": {\"peso\": 25.9, \"porcentaje\": 0.1075}, \"General\": {\"peso\": 100, \"porcentaje\": 0.1134}}",
+  "objetivo": "Exploración"
+},
+{
+  "_id": {
+    "$oid": "b2a75d5ce1783c28b8fc4c14"
+  },
+  "nombre": "Valeria",
+  "apellidos": "Delgado Cruz",
+  "ambitos": "{\"Familia\": {\"peso\": 97.4, \"porcentaje\": 0.2066}, \"Amigos y relaciones\": {\"peso\": 38.3, \"porcentaje\": 0.0994}, \"Académico\": {\"peso\": 43.0, \"porcentaje\": 0.1072}, \"Entorno en clase\": {\"peso\": 22.6, \"porcentaje\": 0.0682}, \"Entorno exterior\": {\"peso\": 10.2, \"porcentaje\": 0.0624}, \"Actividades extraescolares\": {\"peso\": 42.3, \"porcentaje\": 0.1559}, \"Autopercepción y emociones\": {\"peso\": 19.2, \"porcentaje\": 0.0643}, \"Relación con profesores\": {\"peso\": 36.2, \"porcentaje\": 0.0604}, \"General\": {\"peso\": 95.3, \"porcentaje\": 0.1754}}",
+  "objetivo": "Consolidación"
+},
+{
+  "_id": {
+    "$oid": "60dc846545bbd6186da5eb03"
+  },
+  "nombre": "Irene",
+  "apellidos": "Iglesias Soler",
+  "ambitos": "{\"Familia\": {\"peso\": 100, \"porcentaje\": 0.1829}, \"Amigos y relaciones\": {\"peso\": 44.8, \"porcentaje\": 0.0679}, \"Académico\": {\"peso\": 74.7, \"porcentaje\": 0.1446}, \"Entorno en clase\": {\"peso\": 32.3, \"porcentaje\": 0.0714}, \"Entorno exterior\": {\"peso\": 47.2, \"porcentaje\": 0.0836}, \"Actividades extraescolares\": {\"peso\": 51.7, \"porcentaje\": 0.0871}, \"Autopercepción y emociones\": {\"peso\": 66.7, \"porcentaje\": 0.1098}, \"Relación con profesores\": {\"peso\": 35.1, \"porcentaje\": 0.061}, \"General\": {\"peso\": 100, \"porcentaje\": 0.1916}}",
+  "objetivo": "Predeterminado"
+},
+{
+  "_id": {
+    "$oid": "4c9512d954810c1a17ee6072"
+  },
+  "nombre": "Enrique",
+  "apellidos": "Gutiérrez Castro",
+  "ambitos": "{\"Familia\": {\"peso\": 98.9, \"porcentaje\": 0.1576}, \"Amigos y relaciones\": {\"peso\": 53.9, \"porcentaje\": 0.0901}, \"Académico\": {\"peso\": 53.4, \"porcentaje\": 0.0976}, \"Entorno en clase\": {\"peso\": 50.8, \"porcentaje\": 0.0769}, \"Entorno exterior\": {\"peso\": 42.6, \"porcentaje\": 0.0694}, \"Actividades extraescolares\": {\"peso\": 55.6, \"porcentaje\": 0.0769}, \"Autopercepción y emociones\": {\"peso\": 43.3, \"porcentaje\": 0.06}, \"Relación con profesores\": {\"peso\": 64.4, \"porcentaje\": 0.1351}, \"General\": {\"peso\": 100, \"porcentaje\": 0.2364}}",
+  "objetivo": "Consolidación"
+},
+{
+  "_id": {
+    "$oid": "1824aa1e889996393cb4451e"
+  },
+  "nombre": "Sara",
+  "apellidos": "López Martínez",
+  "ambitos": "{\"Familia\": {\"peso\": 100, \"porcentaje\": 0.1717}, \"Amigos y relaciones\": {\"peso\": 70.4, \"porcentaje\": 0.0877}, \"Académico\": {\"peso\": 49.5, \"porcentaje\": 0.059}, \"Entorno en clase\": {\"peso\": 51.0, \"porcentaje\": 0.0608}, \"Entorno exterior\": {\"peso\": 78.5, \"porcentaje\": 0.1163}, \"Actividades extraescolares\": {\"peso\": 66.4, \"porcentaje\": 0.0698}, \"Autopercepción y emociones\": {\"peso\": 91.4, \"porcentaje\": 0.1646}, \"Relación con profesores\": {\"peso\": 70.7, \"porcentaje\": 0.1002}, \"General\": {\"peso\": 97.4, \"porcentaje\": 0.1699}}",
+  "objetivo": "Predeterminado"
+},
+{
+  "_id": {
+    "$oid": "b92e82166ab0b7e080f77649"
+  },
+  "nombre": "Manuel",
+  "apellidos": "Iglesias Soler",
+  "ambitos": "{\"Familia\": {\"peso\": 100, \"porcentaje\": 0.1098}, \"Amigos y relaciones\": {\"peso\": 47.3, \"porcentaje\": 0.1113}, \"Académico\": {\"peso\": 100, \"porcentaje\": 0.1128}, \"Entorno en clase\": {\"peso\": 45.4, \"porcentaje\": 0.1098}, \"Entorno exterior\": {\"peso\": 63.9, \"porcentaje\": 0.1098}, \"Actividades extraescolares\": {\"peso\": 68.2, \"porcentaje\": 0.1128}, \"Autopercepción y emociones\": {\"peso\": 85.0, \"porcentaje\": 0.1128}, \"Relación con profesores\": {\"peso\": 62.8, \"porcentaje\": 0.1128}, \"General\": {\"peso\": 100, \"porcentaje\": 0.1083}}",
+  "objetivo": "Exploración"
+},
+{
+  "_id": {
+    "$oid": "0b747e08f567bcc08c21fb9d"
+  },
+  "nombre": "Óscar",
+  "apellidos": "Rubio León",
+  "ambitos": "{\"Familia\": {\"peso\": 100, \"porcentaje\": 0.2087}, \"Amigos y relaciones\": {\"peso\": 77.1, \"porcentaje\": 0.1732}, \"Académico\": {\"peso\": 44.8, \"porcentaje\": 0.0669}, \"Entorno en clase\": {\"peso\": 47.3, \"porcentaje\": 0.0886}, \"Entorno exterior\": {\"peso\": 39.8, \"porcentaje\": 0.065}, \"Actividades extraescolares\": {\"peso\": 59.9, \"porcentaje\": 0.1732}, \"Autopercepción y emociones\": {\"peso\": 42.1, \"porcentaje\": 0.065}, \"Relación con profesores\": {\"peso\": 52.2, \"porcentaje\": 0.0945}, \"General\": {\"peso\": 49.0, \"porcentaje\": 0.065}}",
+  "objetivo": "Consolidación"
+},
+{
+  "_id": {
+    "$oid": "46800841c1f377042347d4c5"
+  },
+  "nombre": "Víctor",
+  "apellidos": "Díaz González",
+  "ambitos": "{\"Familia\": {\"peso\": 97.4, \"porcentaje\": 0.1705}, \"Amigos y relaciones\": {\"peso\": 52.6, \"porcentaje\": 0.0594}, \"Académico\": {\"peso\": 35.9, \"porcentaje\": 0.0613}, \"Entorno en clase\": {\"peso\": 41.5, \"porcentaje\": 0.0632}, \"Entorno exterior\": {\"peso\": 45.8, \"porcentaje\": 0.0805}, \"Actividades extraescolares\": {\"peso\": 65.4, \"porcentaje\": 0.1054}, \"Autopercepción y emociones\": {\"peso\": 30.5, \"porcentaje\": 0.0613}, \"Relación con profesores\": {\"peso\": 64.6, \"porcentaje\": 0.1552}, \"General\": {\"peso\": 96.8, \"porcentaje\": 0.2433}}",
+  "objetivo": "Consolidación"
+},
+{
+  "_id": {
+    "$oid": "4160efa293b92230505f62e1"
+  },
+  "nombre": "Javier",
+  "apellidos": "Ríos Cordero",
+  "ambitos": "{\"Familia\": {\"peso\": 98.6, \"porcentaje\": 0.1793}, \"Amigos y relaciones\": {\"peso\": 43.9, \"porcentaje\": 0.0896}, \"Académico\": {\"peso\": 45.9, \"porcentaje\": 0.0738}, \"Entorno en clase\": {\"peso\": 35.1, \"porcentaje\": 0.0615}, \"Entorno exterior\": {\"peso\": 43.5, \"porcentaje\": 0.0773}, \"Actividades extraescolares\": {\"peso\": 79.9, \"porcentaje\": 0.1582}, \"Autopercepción y emociones\": {\"peso\": 10.6, \"porcentaje\": 0.0598}, \"Relación con profesores\": {\"peso\": 56.9, \"porcentaje\": 0.1195}, \"General\": {\"peso\": 100, \"porcentaje\": 0.181}}",
+  "objetivo": "Predeterminado"
+},
+{
+  "_id": {
+    "$oid": "60422cb0618e3663719b4d14"
+  },
+  "nombre": "Sergio",
+  "apellidos": "Álvarez Ortega",
+  "ambitos": "{\"Familia\": {\"peso\": 56.1, \"porcentaje\": 0.0681}, \"Amigos y relaciones\": {\"peso\": 14.7, \"porcentaje\": 0.1713}, \"Académico\": {\"peso\": 47.2, \"porcentaje\": 0.1565}, \"Entorno en clase\": {\"peso\": 48.0, \"porcentaje\": 0.0571}, \"Entorno exterior\": {\"peso\": 42.4, \"porcentaje\": 0.105}, \"Actividades extraescolares\": {\"peso\": 56.5, \"porcentaje\": 0.0994}, \"Autopercepción y emociones\": {\"peso\": 58.3, \"porcentaje\": 0.0589}, \"Relación con profesores\": {\"peso\": 15.2, \"porcentaje\": 0.1971}, \"General\": {\"peso\": 47.8, \"porcentaje\": 0.0866}}",
+  "objetivo": "Prevención"
+},
+{
+  "_id": {
+    "$oid": "d17fa925625e46462eb6dd19"
+  },
+  "nombre": "Rocío",
+  "apellidos": "Gil Cano",
+  "ambitos": "{\"Familia\": {\"peso\": 61.5, \"porcentaje\": 0.0634}, \"Amigos y relaciones\": {\"peso\": 21.4, \"porcentaje\": 0.1426}, \"Académico\": {\"peso\": 42.3, \"porcentaje\": 0.1545}, \"Entorno en clase\": {\"peso\": 0, \"porcentaje\": 0.2376}, \"Entorno exterior\": {\"peso\": 53.2, \"porcentaje\": 0.1129}, \"Actividades extraescolares\": {\"peso\": 80.1, \"porcentaje\": 0.0614}, \"Autopercepción y emociones\": {\"peso\": 62.1, \"porcentaje\": 0.0653}, \"Relación con profesores\": {\"peso\": 31.9, \"porcentaje\": 0.0713}, \"General\": {\"peso\": 46.0, \"porcentaje\": 0.0911}}",
+  "objetivo": "Prevención"
+},
+{
+  "_id": {
+    "$oid": "a78dad9ed723a5b1b54882ac"
+  },
+  "nombre": "Lucía",
+  "apellidos": "Soler Blanco",
+  "ambitos": "{\"Familia\": {\"peso\": 96.8, \"porcentaje\": 0.1594}, \"Amigos y relaciones\": {\"peso\": 39.1, \"porcentaje\": 0.0753}, \"Académico\": {\"peso\": 56.4, \"porcentaje\": 0.1313}, \"Entorno en clase\": {\"peso\": 30.0, \"porcentaje\": 0.0683}, \"Entorno exterior\": {\"peso\": 35.2, \"porcentaje\": 0.0753}, \"Actividades extraescolares\": {\"peso\": 5.2, \"porcentaje\": 0.063}, \"Autopercepción y emociones\": {\"peso\": 69.4, \"porcentaje\": 0.1506}, \"Relación con profesores\": {\"peso\": 45.8, \"porcentaje\": 0.1086}, \"General\": {\"peso\": 100, \"porcentaje\": 0.1681}}",
+  "objetivo": "Predeterminado"
+},
+{
+  "_id": {
+    "$oid": "0ba11be5e70b5d76db4dab03"
+  },
+  "nombre": "Manuel",
+  "apellidos": "Cruz Peña",
+  "ambitos": "{\"Familia\": {\"peso\": 100, \"porcentaje\": 0.182}, \"Amigos y relaciones\": {\"peso\": 32.7, \"porcentaje\": 0.1078}, \"Académico\": {\"peso\": 40.6, \"porcentaje\": 0.1237}, \"Entorno en clase\": {\"peso\": 22.7, \"porcentaje\": 0.0671}, \"Entorno exterior\": {\"peso\": 28.0, \"porcentaje\": 0.0795}, \"Actividades extraescolares\": {\"peso\": 51.5, \"porcentaje\": 0.1343}, \"Autopercepción y emociones\": {\"peso\": 14.7, \"porcentaje\": 0.0618}, \"Relación con profesores\": {\"peso\": 27.7, \"porcentaje\": 0.0866}, \"General\": {\"peso\": 82.5, \"porcentaje\": 0.1572}}",
+  "objetivo": "Predeterminado"
+},
+{
+  "_id": {
+    "$oid": "733d28bd3b39d8504eec5882"
+  },
+  "nombre": "Irene",
+  "apellidos": "Ramos Ibáñez",
+  "ambitos": "{\"Familia\": {\"peso\": 52.8, \"porcentaje\": 0.0627}, \"Amigos y relaciones\": {\"peso\": 60.7, \"porcentaje\": 0.0589}, \"Académico\": {\"peso\": 70.3, \"porcentaje\": 0.0589}, \"Entorno en clase\": {\"peso\": 1.7, \"porcentaje\": 0.2281}, \"Entorno exterior\": {\"peso\": 45.5, \"porcentaje\": 0.116}, \"Actividades extraescolares\": {\"peso\": 61.0, \"porcentaje\": 0.0684}, \"Autopercepción y emociones\": {\"peso\": 55.9, \"porcentaje\": 0.1122}, \"Relación con profesores\": {\"peso\": 22.1, \"porcentaje\": 0.1863}, \"General\": {\"peso\": 58.1, \"porcentaje\": 0.1084}}",
+  "objetivo": "Prevención"
+},
+{
+  "_id": {
+    "$oid": "993e967932e5857e84f47072"
+  },
+  "nombre": "Irene",
+  "apellidos": "Rodríguez Gómez",
+  "ambitos": "{\"Familia\": {\"peso\": 40.2, \"porcentaje\": 0.0535}, \"Amigos y relaciones\": {\"peso\": 39.7, \"porcentaje\": 0.0612}, \"Académico\": {\"peso\": 65.1, \"porcentaje\": 0.1338}, \"Entorno en clase\": {\"peso\": 46.0, \"porcentaje\": 0.0593}, \"Entorno exterior\": {\"peso\": 98.1, \"porcentaje\": 0.1989}, \"Actividades extraescolares\": {\"peso\": 19.4, \"porcentaje\": 0.0612}, \"Autopercepción y emociones\": {\"peso\": 58.5, \"porcentaje\": 0.0669}, \"Relación con profesores\": {\"peso\": 69.6, \"porcentaje\": 0.1663}, \"General\": {\"peso\": 100, \"porcentaje\": 0.1989}}",
+  "objetivo": "Consolidación"
+},
+{
+  "_id": {
+    "$oid": "65a99d454b68327cf389c24e"
+  },
+  "nombre": "Noelia",
+  "apellidos": "García López",
+  "ambitos": "{\"Familia\": {\"peso\": 100, \"porcentaje\": 0.1136}, \"Amigos y relaciones\": {\"peso\": 36.2, \"porcentaje\": 0.1136}, \"Académico\": {\"peso\": 4.9, \"porcentaje\": 0.1121}, \"Entorno en clase\": {\"peso\": 11.8, \"porcentaje\": 0.1121}, \"Entorno exterior\": {\"peso\": 35.5, \"porcentaje\": 0.1121}, \"Actividades extraescolares\": {\"peso\": 32.2, \"porcentaje\": 0.1121}, \"Autopercepción y emociones\": {\"peso\": 53.6, \"porcentaje\": 0.1076}, \"Relación con profesores\": {\"peso\": 47.4, \"porcentaje\": 0.1076}, \"General\": {\"peso\": 79.5, \"porcentaje\": 0.1091}}",
+  "objetivo": "Exploración"
+},
+{
+  "_id": {
+    "$oid": "cce08d70860a879387e7a133"
+  },
+  "nombre": "Luis",
+  "apellidos": "González Pérez",
+  "ambitos": "{\"Familia\": {\"peso\": 100, \"porcentaje\": 0.1786}, \"Amigos y relaciones\": {\"peso\": 63.7, \"porcentaje\": 0.0921}, \"Académico\": {\"peso\": 46.9, \"porcentaje\": 0.0564}, \"Entorno en clase\": {\"peso\": 59.5, \"porcentaje\": 0.0827}, \"Entorno exterior\": {\"peso\": 39.0, \"porcentaje\": 0.0583}, \"Actividades extraescolares\": {\"peso\": 61.3, \"porcentaje\": 0.1147}, \"Autopercepción y emociones\": {\"peso\": 80.7, \"porcentaje\": 0.1504}, \"Relación con profesores\": {\"peso\": 63.4, \"porcentaje\": 0.062}, \"General\": {\"peso\": 100, \"porcentaje\": 0.2049}}",
+  "objetivo": "Consolidación"
+},
+{
+  "_id": {
+    "$oid": "9609a6d72d535efd539c5ec3"
+  },
+  "nombre": "Rocío",
+  "apellidos": "Campos Cabrera",
+  "ambitos": "{\"Familia\": {\"peso\": 100, \"porcentaje\": 0.1095}, \"Amigos y relaciones\": {\"peso\": 20.1, \"porcentaje\": 0.1109}, \"Académico\": {\"peso\": 64.3, \"porcentaje\": 0.1139}, \"Entorno en clase\": {\"peso\": 26.8, \"porcentaje\": 0.1095}, \"Entorno exterior\": {\"peso\": 94.1, \"porcentaje\": 0.1095}, \"Actividades extraescolares\": {\"peso\": 62.6, \"porcentaje\": 0.1095}, \"Autopercepción y emociones\": {\"peso\": 70.3, \"porcentaje\": 0.1124}, \"Relación con profesores\": {\"peso\": 64.8, \"porcentaje\": 0.1124}, \"General\": {\"peso\": 97.3, \"porcentaje\": 0.1124}}",
+  "objetivo": "Exploración"
+},
+{
+  "_id": {
+    "$oid": "dc8dde44751f0e2c5b8338d3"
+  },
+  "nombre": "Rubén",
+  "apellidos": "León Santos",
+  "ambitos": "{\"Familia\": {\"peso\": 95.8, \"porcentaje\": 0.1813}, \"Amigos y relaciones\": {\"peso\": 50.8, \"porcentaje\": 0.0986}, \"Académico\": {\"peso\": 44.2, \"porcentaje\": 0.081}, \"Entorno en clase\": {\"peso\": 42.5, \"porcentaje\": 0.0757}, \"Entorno exterior\": {\"peso\": 43.3, \"porcentaje\": 0.0739}, \"Actividades extraescolares\": {\"peso\": 58.2, \"porcentaje\": 0.1056}, \"Autopercepción y emociones\": {\"peso\": 47.2, \"porcentaje\": 0.0722}, \"Relación con profesores\": {\"peso\": 69.0, \"porcentaje\": 0.1285}, \"General\": {\"peso\": 100, \"porcentaje\": 0.1831}}",
+  "objetivo": "Predeterminado"
+},
+{
+  "_id": {
+    "$oid": "cf940f14afb86d9d83cfeeac"
+  },
+  "nombre": "Carlos",
+  "apellidos": "Pérez Rodríguez",
+  "ambitos": "{\"Familia\": {\"peso\": 91.2, \"porcentaje\": 0.0612}, \"Amigos y relaciones\": {\"peso\": 19.7, \"porcentaje\": 0.2161}, \"Académico\": {\"peso\": 91.8, \"porcentaje\": 0.0631}, \"Entorno en clase\": {\"peso\": 40.4, \"porcentaje\": 0.1912}, \"Entorno exterior\": {\"peso\": 100, \"porcentaje\": 0.0612}, \"Actividades extraescolares\": {\"peso\": 71.3, \"porcentaje\": 0.0612}, \"Autopercepción y emociones\": {\"peso\": 84.5, \"porcentaje\": 0.0688}, \"Relación con profesores\": {\"peso\": 39.8, \"porcentaje\": 0.1644}, \"General\": {\"peso\": 79.1, \"porcentaje\": 0.1128}}",
+  "objetivo": "Prevención"
+},
+{
+  "_id": {
+    "$oid": "176b5e5ff290c85f7c04e48c"
+  },
+  "nombre": "Iván",
+  "apellidos": "Ruiz Fernández",
+  "ambitos": "{\"Familia\": {\"peso\": 96.4, \"porcentaje\": 0.1631}, \"Amigos y relaciones\": {\"peso\": 60.4, \"porcentaje\": 0.0851}, \"Académico\": {\"peso\": 83.6, \"porcentaje\": 0.1667}, \"Entorno en clase\": {\"peso\": 17.9, \"porcentaje\": 0.0567}, \"Entorno exterior\": {\"peso\": 98.1, \"porcentaje\": 0.1578}, \"Actividades extraescolares\": {\"peso\": 44.5, \"porcentaje\": 0.0621}, \"Autopercepción y emociones\": {\"peso\": 56.8, \"porcentaje\": 0.0674}, \"Relación con profesores\": {\"peso\": 48.6, \"porcentaje\": 0.0621}, \"General\": {\"peso\": 100, \"porcentaje\": 0.1791}}",
+  "objetivo": "Predeterminado"
+},
+{
+  "_id": {
+    "$oid": "b0fd4da2a9d12cccba00434c"
+  },
+  "nombre": "Beatriz",
+  "apellidos": "Serrano Marín",
+  "ambitos": "{\"Familia\": {\"peso\": 98.0, \"porcentaje\": 0.1123}, \"Amigos y relaciones\": {\"peso\": 9.2, \"porcentaje\": 0.1123}, \"Académico\": {\"peso\": 41.9, \"porcentaje\": 0.1123}, \"Entorno en clase\": {\"peso\": 12.7, \"porcentaje\": 0.1137}, \"Entorno exterior\": {\"peso\": 91.9, \"porcentaje\": 0.1093}, \"Actividades extraescolares\": {\"peso\": 51.2, \"porcentaje\": 0.1123}, \"Autopercepción y emociones\": {\"peso\": 26.6, \"porcentaje\": 0.1093}, \"Relación con profesores\": {\"peso\": 29.8, \"porcentaje\": 0.1093}, \"General\": {\"peso\": 64.5, \"porcentaje\": 0.1093}}",
+  "objetivo": "Exploración"
+},
+{
+  "_id": {
+    "$oid": "7e9c28f9c7349dc5829e4877"
+  },
+  "nombre": "Eva",
+  "apellidos": "Sáez Molina",
+  "ambitos": "{\"Familia\": {\"peso\": 96.4, \"porcentaje\": 0.1711}, \"Amigos y relaciones\": {\"peso\": 29.2, \"porcentaje\": 0.0738}, \"Académico\": {\"peso\": 58.5, \"porcentaje\": 0.151}, \"Entorno en clase\": {\"peso\": 39.1, \"porcentaje\": 0.0923}, \"Entorno exterior\": {\"peso\": 67.6, \"porcentaje\": 0.1359}, \"Actividades extraescolares\": {\"peso\": 40.9, \"porcentaje\": 0.0923}, \"Autopercepción y emociones\": {\"peso\": 31.2, \"porcentaje\": 0.0654}, \"Relación con profesores\": {\"peso\": 37.6, \"porcentaje\": 0.0923}, \"General\": {\"peso\": 49.5, \"porcentaje\": 0.1258}}",
+  "objetivo": "Predeterminado"
+},
+{
+  "_id": {
+    "$oid": "a490749447df633443fe1d63"
+  },
+  "nombre": "Clara",
+  "apellidos": "Alonso Domínguez",
+  "ambitos": "{\"Familia\": {\"peso\": 94.6, \"porcentaje\": 0.1651}, \"Amigos y relaciones\": {\"peso\": 8.4, \"porcentaje\": 0.0626}, \"Académico\": {\"peso\": 32.1, \"porcentaje\": 0.0645}, \"Entorno en clase\": {\"peso\": 28.9, \"porcentaje\": 0.0797}, \"Entorno exterior\": {\"peso\": 88.9, \"porcentaje\": 0.1841}, \"Actividades extraescolares\": {\"peso\": 34.4, \"porcentaje\": 0.0645}, \"Autopercepción y emociones\": {\"peso\": 35.7, \"porcentaje\": 0.112}, \"Relación con profesores\": {\"peso\": 26.1, \"porcentaje\": 0.0607}, \"General\": {\"peso\": 86.4, \"porcentaje\": 0.2068}}",
+  "objetivo": "Consolidación"
+},
+{
+  "_id": {
+    "$oid": "467eba3d2eb35196fc213da9"
+  },
+  "nombre": "Beatriz",
+  "apellidos": "Álvarez Ortega",
+  "ambitos": "{\"Familia\": {\"peso\": 99.6, \"porcentaje\": 0.1751}, \"Amigos y relaciones\": {\"peso\": 67.4, \"porcentaje\": 0.063}, \"Académico\": {\"peso\": 90.8, \"porcentaje\": 0.1436}, \"Entorno en clase\": {\"peso\": 43.6, \"porcentaje\": 0.0648}, \"Entorno exterior\": {\"peso\": 99.3, \"porcentaje\": 0.1786}, \"Actividades extraescolares\": {\"peso\": 89.1, \"porcentaje\": 0.1313}, \"Autopercepción y emociones\": {\"peso\": 52.5, \"porcentaje\": 0.063}, \"Relación con profesores\": {\"peso\": 46.4, \"porcentaje\": 0.0543}, \"General\": {\"peso\": 85.3, \"porcentaje\": 0.1261}}",
+  "objetivo": "Predeterminado"
+},
+{
+  "_id": {
+    "$oid": "935010c329a9f9f7c50f9e0a"
+  },
+  "nombre": "Paula",
+  "apellidos": "Martínez Sánchez",
+  "ambitos": "{\"Familia\": {\"peso\": 100, \"porcentaje\": 0.1124}, \"Amigos y relaciones\": {\"peso\": 49.3, \"porcentaje\": 0.1094}, \"Académico\": {\"peso\": 76.8, \"porcentaje\": 0.1109}, \"Entorno en clase\": {\"peso\": 3.1, \"porcentaje\": 0.1109}, \"Entorno exterior\": {\"peso\": 87.5, \"porcentaje\": 0.1139}, \"Actividades extraescolares\": {\"peso\": 57.3, \"porcentaje\": 0.1094}, \"Autopercepción y emociones\": {\"peso\": 18.9, \"porcentaje\": 0.1094}, \"Relación con profesores\": {\"peso\": 98.0, \"porcentaje\": 0.1109}, \"General\": {\"peso\": 53.1, \"porcentaje\": 0.1124}}",
+  "objetivo": "Exploración"
+},
+{
+  "_id": {
+    "$oid": "172797f400db848562e0e7cd"
+  },
+  "nombre": "Hugo",
+  "apellidos": "Delgado Cruz",
+  "ambitos": "{\"Familia\": {\"peso\": 65.8, \"porcentaje\": 0.0522}, \"Amigos y relaciones\": {\"peso\": 51.8, \"porcentaje\": 0.1269}, \"Académico\": {\"peso\": 83.5, \"porcentaje\": 0.0597}, \"Entorno en clase\": {\"peso\": 22.5, \"porcentaje\": 0.1735}, \"Entorno exterior\": {\"peso\": 57.0, \"porcentaje\": 0.1231}, \"Actividades extraescolares\": {\"peso\": 55.8, \"porcentaje\": 0.1101}, \"Autopercepción y emociones\": {\"peso\": 7.8, \"porcentaje\": 0.1903}, \"Relación con profesores\": {\"peso\": 57.2, \"porcentaje\": 0.0877}, \"General\": {\"peso\": 70.1, \"porcentaje\": 0.0765}}",
+  "objetivo": "Prevención"
+},
+{
+  "_id": {
+    "$oid": "452ca236fa06cf7331808759"
+  },
+  "nombre": "Sara",
+  "apellidos": "Sáez Molina",
+  "ambitos": "{\"Familia\": {\"peso\": 87.0, \"porcentaje\": 0.1103}, \"Amigos y relaciones\": {\"peso\": 79.9, \"porcentaje\": 0.1191}, \"Académico\": {\"peso\": 50.5, \"porcentaje\": 0.0806}, \"Entorno en clase\": {\"peso\": 27.8, \"porcentaje\": 0.056}, \"Entorno exterior\": {\"peso\": 70.7, \"porcentaje\": 0.1121}, \"Actividades extraescolares\": {\"peso\": 96.3, \"porcentaje\": 0.1839}, \"Autopercepción y emociones\": {\"peso\": 55.5, \"porcentaje\": 0.0613}, \"Relación con profesores\": {\"peso\": 100, \"porcentaje\": 0.1821}, \"General\": {\"peso\": 66.5, \"porcentaje\": 0.0946}}",
+  "objetivo": "Predeterminado"
+},
+{
+  "_id": {
+    "$oid": "03d92052ea20d493b01125f1"
+  },
+  "nombre": "Alejandro",
+  "apellidos": "Campos Cabrera",
+  "ambitos": "{\"Familia\": {\"peso\": 96.8, \"porcentaje\": 0.1301}, \"Amigos y relaciones\": {\"peso\": 100, \"porcentaje\": 0.1605}, \"Académico\": {\"peso\": 47.5, \"porcentaje\": 0.0608}, \"Entorno en clase\": {\"peso\": 51.1, \"porcentaje\": 0.0794}, \"Entorno exterior\": {\"peso\": 68.9, \"porcentaje\": 0.0693}, \"Actividades extraescolares\": {\"peso\": 97.7, \"porcentaje\": 0.1622}, \"Autopercepción y emociones\": {\"peso\": 67.5, \"porcentaje\": 0.0693}, \"Relación con profesores\": {\"peso\": 99.8, \"porcentaje\": 0.1706}, \"General\": {\"peso\": 74.5, \"porcentaje\": 0.098}}",
+  "objetivo": "Predeterminado"
+},
+{
+  "_id": {
+    "$oid": "bb0500c31dc254245046d5ed"
+  },
+  "nombre": "Luis",
+  "apellidos": "Sáez Molina",
+  "ambitos": "{\"Familia\": {\"peso\": 64.4, \"porcentaje\": 0.0741}, \"Amigos y relaciones\": {\"peso\": 58.1, \"porcentaje\": 0.1521}, \"Académico\": {\"peso\": 71.5, \"porcentaje\": 0.0722}, \"Entorno en clase\": {\"peso\": 53.9, \"porcentaje\": 0.1502}, \"Entorno exterior\": {\"peso\": 28.7, \"porcentaje\": 0.2243}, \"Actividades extraescolares\": {\"peso\": 74.0, \"porcentaje\": 0.0665}, \"Autopercepción y emociones\": {\"peso\": 71.7, \"porcentaje\": 0.0589}, \"Relación con profesores\": {\"peso\": 67.4, \"porcentaje\": 0.0646}, \"General\": {\"peso\": 62.9, \"porcentaje\": 0.1369}}",
+  "objetivo": "Prevención"
+},
+{
+  "_id": {
+    "$oid": "0de84534a971f174a997e02c"
+  },
+  "nombre": "Sergio",
+  "apellidos": "Torres Ramos",
+  "ambitos": "{\"Familia\": {\"peso\": 96.7, \"porcentaje\": 0.1572}, \"Amigos y relaciones\": {\"peso\": 100, \"porcentaje\": 0.1625}, \"Académico\": {\"peso\": 44.7, \"porcentaje\": 0.0636}, \"Entorno en clase\": {\"peso\": 28.2, \"porcentaje\": 0.0583}, \"Entorno exterior\": {\"peso\": 40.5, \"porcentaje\": 0.0618}, \"Actividades extraescolares\": {\"peso\": 93.4, \"porcentaje\": 0.1749}, \"Autopercepción y emociones\": {\"peso\": 66.8, \"porcentaje\": 0.0813}, \"Relación con profesores\": {\"peso\": 100, \"porcentaje\": 0.1555}, \"General\": {\"peso\": 60.2, \"porcentaje\": 0.0848}}",
+  "objetivo": "Predeterminado"
+},
+{
+  "_id": {
+    "$oid": "33c0f0394ad46b53002d5589"
+  },
+  "nombre": "Ana",
+  "apellidos": "Esteban Suárez",
+  "ambitos": "{\"Familia\": {\"peso\": 98.0, \"porcentaje\": 0.1647}, \"Amigos y relaciones\": {\"peso\": 88.0, \"porcentaje\": 0.1252}, \"Académico\": {\"peso\": 74.9, \"porcentaje\": 0.1063}, \"Entorno en clase\": {\"peso\": 43.1, \"porcentaje\": 0.0669}, \"Entorno exterior\": {\"peso\": 66.2, \"porcentaje\": 0.0875}, \"Actividades extraescolares\": {\"peso\": 89.6, \"porcentaje\": 0.1269}, \"Autopercepción y emociones\": {\"peso\": 32.8, \"porcentaje\": 0.0652}, \"Relación con profesores\": {\"peso\": 100, \"porcentaje\": 0.1698}, \"General\": {\"peso\": 53.8, \"porcentaje\": 0.0875}}",
+  "objetivo": "Predeterminado"
+},
+{
+  "_id": {
+    "$oid": "63a4678e3ec6b7e7488bd519"
+  },
+  "nombre": "Clara",
+  "apellidos": "Hernández Jiménez",
+  "ambitos": "{\"Familia\": {\"peso\": 99.4, \"porcentaje\": 0.1697}, \"Amigos y relaciones\": {\"peso\": 91.9, \"porcentaje\": 0.1354}, \"Académico\": {\"peso\": 60.7, \"porcentaje\": 0.0722}, \"Entorno en clase\": {\"peso\": 54.6, \"porcentaje\": 0.0921}, \"Entorno exterior\": {\"peso\": 56.4, \"porcentaje\": 0.0704}, \"Actividades extraescolares\": {\"peso\": 94.6, \"porcentaje\": 0.1661}, \"Autopercepción y emociones\": {\"peso\": 22.9, \"porcentaje\": 0.0596}, \"Relación con profesores\": {\"peso\": 100, \"porcentaje\": 0.1679}, \"General\": {\"peso\": 33.8, \"porcentaje\": 0.0668}}",
+  "objetivo": "Predeterminado"
+},
+{
+  "_id": {
+    "$oid": "d86e8c0b86141d8fec18a6cb"
+  },
+  "nombre": "Emma",
+  "apellidos": "García López",
+  "ambitos": "{\"Familia\": {\"peso\": 66.9, \"porcentaje\": 0.0525}, \"Amigos y relaciones\": {\"peso\": 95.2, \"porcentaje\": 0.1614}, \"Académico\": {\"peso\": 50.7, \"porcentaje\": 0.06}, \"Entorno en clase\": {\"peso\": 52.3, \"porcentaje\": 0.0638}, \"Entorno exterior\": {\"peso\": 55.2, \"porcentaje\": 0.0582}, \"Actividades extraescolares\": {\"peso\": 80.1, \"porcentaje\": 0.1407}, \"Autopercepción y emociones\": {\"peso\": 60.3, \"porcentaje\": 0.0713}, \"Relación con profesores\": {\"peso\": 98.9, \"porcentaje\": 0.182}, \"General\": {\"peso\": 97.5, \"porcentaje\": 0.2101}}",
+  "objetivo": "Consolidación"
+},
+{
+  "_id": {
+    "$oid": "ad9d148b3de5977abb5eeb64"
+  },
+  "nombre": "Beatriz",
+  "apellidos": "Ramos Ibáñez",
+  "ambitos": "{\"Familia\": {\"peso\": 88.8, \"porcentaje\": 0.0701}, \"Amigos y relaciones\": {\"peso\": 58.6, \"porcentaje\": 0.0587}, \"Académico\": {\"peso\": 100, \"porcentaje\": 0.1894}, \"Entorno en clase\": {\"peso\": 38.4, \"porcentaje\": 0.0625}, \"Entorno exterior\": {\"peso\": 67.9, \"porcentaje\": 0.0625}, \"Actividades extraescolares\": {\"peso\": 83.6, \"porcentaje\": 0.1269}, \"Autopercepción y emociones\": {\"peso\": 46.6, \"porcentaje\": 0.0568}, \"Relación con profesores\": {\"peso\": 96.6, \"porcentaje\": 0.2027}, \"General\": {\"peso\": 96.8, \"porcentaje\": 0.1705}}",
+  "objetivo": "Consolidación"
+},
+{
+  "_id": {
+    "$oid": "6ea1c068a292b28b6455f86c"
+  },
+  "nombre": "Clara",
+  "apellidos": "Blanco Esteban",
+  "ambitos": "{\"Familia\": {\"peso\": 78.1, \"porcentaje\": 0.1877}, \"Amigos y relaciones\": {\"peso\": 16.2, \"porcentaje\": 0.0594}, \"Académico\": {\"peso\": 76.9, \"porcentaje\": 0.1686}, \"Entorno en clase\": {\"peso\": 31.4, \"porcentaje\": 0.0862}, \"Entorno exterior\": {\"peso\": 63.9, \"porcentaje\": 0.1245}, \"Actividades extraescolares\": {\"peso\": 39.1, \"porcentaje\": 0.0613}, \"Autopercepción y emociones\": {\"peso\": 17.4, \"porcentaje\": 0.0613}, \"Relación con profesores\": {\"peso\": 37.5, \"porcentaje\": 0.0632}, \"General\": {\"peso\": 79.6, \"porcentaje\": 0.1877}}",
+  "objetivo": "Consolidación"
+},
+{
+  "_id": {
+    "$oid": "8b4f7eff10b7e758a96b7384"
+  },
+  "nombre": "Óscar",
+  "apellidos": "Ramos Ibáñez",
+  "ambitos": "{\"Familia\": {\"peso\": 41.8, \"porcentaje\": 0.0605}, \"Amigos y relaciones\": {\"peso\": 65.2, \"porcentaje\": 0.0684}, \"Académico\": {\"peso\": 32.9, \"porcentaje\": 0.0625}, \"Entorno en clase\": {\"peso\": 77.6, \"porcentaje\": 0.1484}, \"Entorno exterior\": {\"peso\": 92.5, \"porcentaje\": 0.1465}, \"Actividades extraescolares\": {\"peso\": 49.9, \"porcentaje\": 0.0645}, \"Autopercepción y emociones\": {\"peso\": 66.8, \"porcentaje\": 0.1484}, \"Relación con profesores\": {\"peso\": 98.2, \"porcentaje\": 0.2344}, \"General\": {\"peso\": 16.7, \"porcentaje\": 0.0664}}",
+  "objetivo": "Consolidación"
+},
+{
+  "_id": {
+    "$oid": "7906601bbaade6b35c176f40"
+  },
+  "nombre": "Hugo",
+  "apellidos": "Sánchez García",
+  "ambitos": "{\"Familia\": {\"peso\": 100, \"porcentaje\": 0.1131}, \"Amigos y relaciones\": {\"peso\": 100, \"porcentaje\": 0.1116}, \"Académico\": {\"peso\": 66.3, \"porcentaje\": 0.1101}, \"Entorno en clase\": {\"peso\": 21.0, \"porcentaje\": 0.1116}, \"Entorno exterior\": {\"peso\": 62.3, \"porcentaje\": 0.1131}, \"Actividades extraescolares\": {\"peso\": 68.6, \"porcentaje\": 0.1101}, \"Autopercepción y emociones\": {\"peso\": 27.6, \"porcentaje\": 0.1116}, \"Relación con profesores\": {\"peso\": 89.3, \"porcentaje\": 0.1116}, \"General\": {\"peso\": 58.4, \"porcentaje\": 0.1071}}",
+  "objetivo": "Exploración"
+},
+{
+  "_id": {
+    "$oid": "41d11750367ee7f00c7c37f0"
+  },
+  "nombre": "Rocío",
+  "apellidos": "Esteban Suárez",
+  "ambitos": "{\"Familia\": {\"peso\": 99.5, \"porcentaje\": 0.1555}, \"Amigos y relaciones\": {\"peso\": 100, \"porcentaje\": 0.1969}, \"Académico\": {\"peso\": 77.8, \"porcentaje\": 0.063}, \"Entorno en clase\": {\"peso\": 43.9, \"porcentaje\": 0.063}, \"Entorno exterior\": {\"peso\": 92.3, \"porcentaje\": 0.1476}, \"Actividades extraescolares\": {\"peso\": 78.8, \"porcentaje\": 0.063}, \"Autopercepción y emociones\": {\"peso\": 51.7, \"porcentaje\": 0.063}, \"Relación con profesores\": {\"peso\": 97.5, \"porcentaje\": 0.1831}, \"General\": {\"peso\": 64.3, \"porcentaje\": 0.065}}",
+  "objetivo": "Consolidación"
+},
+{
+  "_id": {
+    "$oid": "8dba474d236b634e98e4a627"
+  },
+  "nombre": "Laura",
+  "apellidos": "Fernández Moreno",
+  "ambitos": "{\"Familia\": {\"peso\": 86.3, \"porcentaje\": 0.1126}, \"Amigos y relaciones\": {\"peso\": 88.5, \"porcentaje\": 0.1096}, \"Académico\": {\"peso\": 78.0, \"porcentaje\": 0.1126}, \"Entorno en clase\": {\"peso\": 40.8, \"porcentaje\": 0.1111}, \"Entorno exterior\": {\"peso\": 89.4, \"porcentaje\": 0.1096}, \"Actividades extraescolares\": {\"peso\": 68.5, \"porcentaje\": 0.1111}, \"Autopercepción y emociones\": {\"peso\": 40.1, \"porcentaje\": 0.1126}, \"Relación con profesores\": {\"peso\": 98.5, \"porcentaje\": 0.1096}, \"General\": {\"peso\": 95.8, \"porcentaje\": 0.1111}}",
+  "objetivo": "Exploración"
+},
+{
+  "_id": {
+    "$oid": "057ca5307cf76fdda711a6a8"
+  },
+  "nombre": "Alicia",
+  "apellidos": "González Pérez",
+  "ambitos": "{\"Familia\": {\"peso\": 99.4, \"porcentaje\": 0.1119}, \"Amigos y relaciones\": {\"peso\": 99.2, \"porcentaje\": 0.1105}, \"Académico\": {\"peso\": 62.9, \"porcentaje\": 0.1105}, \"Entorno en clase\": {\"peso\": 39.5, \"porcentaje\": 0.1134}, \"Entorno exterior\": {\"peso\": 97.7, \"porcentaje\": 0.1105}, \"Actividades extraescolares\": {\"peso\": 71.4, \"porcentaje\": 0.1105}, \"Autopercepción y emociones\": {\"peso\": 32.9, \"porcentaje\": 0.1119}, \"Relación con profesores\": {\"peso\": 100, \"porcentaje\": 0.1105}, \"General\": {\"peso\": 100, \"porcentaje\": 0.1105}}",
+  "objetivo": "Exploración"
+},
+{
+  "_id": {
+    "$oid": "aaf7e715217d8eeea7dc9b0f"
+  },
+  "nombre": "Javier",
+  "apellidos": "Alonso Domínguez",
+  "ambitos": "{\"Familia\": {\"peso\": 34.0, \"porcentaje\": 0.0577}, \"Amigos y relaciones\": {\"peso\": 15.4, \"porcentaje\": 0.0654}, \"Académico\": {\"peso\": 85.7, \"porcentaje\": 0.1923}, \"Entorno en clase\": {\"peso\": 28.4, \"porcentaje\": 0.0615}, \"Entorno exterior\": {\"peso\": 92.8, \"porcentaje\": 0.2192}, \"Actividades extraescolares\": {\"peso\": 51.0, \"porcentaje\": 0.0615}, \"Autopercepción y emociones\": {\"peso\": 64.6, \"porcentaje\": 0.1154}, \"Relación con profesores\": {\"peso\": 45.8, \"porcentaje\": 0.0615}, \"General\": {\"peso\": 79.4, \"porcentaje\": 0.1654}}",
+  "objetivo": "Consolidación"
+},
+{
+  "_id": {
+    "$oid": "2586dfa5970652c5724f0141"
+  },
+  "nombre": "Clara",
+  "apellidos": "Ramos Ibáñez",
+  "ambitos": "{\"Familia\": {\"peso\": 48.5, \"porcentaje\": 0.0531}, \"Amigos y relaciones\": {\"peso\": 18.3, \"porcentaje\": 0.0591}, \"Académico\": {\"peso\": 68.5, \"porcentaje\": 0.122}, \"Entorno en clase\": {\"peso\": 55.2, \"porcentaje\": 0.1201}, \"Entorno exterior\": {\"peso\": 85.6, \"porcentaje\": 0.1358}, \"Actividades extraescolares\": {\"peso\": 68.1, \"porcentaje\": 0.1437}, \"Autopercepción y emociones\": {\"peso\": 61.6, \"porcentaje\": 0.063}, \"Relación con profesores\": {\"peso\": 53.7, \"porcentaje\": 0.063}, \"General\": {\"peso\": 97.9, \"porcentaje\": 0.2402}}",
+  "objetivo": "Consolidación"
+},
+{
+  "_id": {
+    "$oid": "0cbab3f1dc250207616b61fe"
+  },
+  "nombre": "Gabriel",
+  "apellidos": "Cruz Peña",
+  "ambitos": "{\"Familia\": {\"peso\": 68.0, \"porcentaje\": 0.0535}, \"Amigos y relaciones\": {\"peso\": 71.5, \"porcentaje\": 0.0612}, \"Académico\": {\"peso\": 71.0, \"porcentaje\": 0.0574}, \"Entorno en clase\": {\"peso\": 29.2, \"porcentaje\": 0.0631}, \"Entorno exterior\": {\"peso\": 97.7, \"porcentaje\": 0.1855}, \"Actividades extraescolares\": {\"peso\": 75.1, \"porcentaje\": 0.1549}, \"Autopercepción y emociones\": {\"peso\": 100, \"porcentaje\": 0.195}, \"Relación con profesores\": {\"peso\": 94.9, \"porcentaje\": 0.1587}, \"General\": {\"peso\": 14.8, \"porcentaje\": 0.0707}}",
+  "objetivo": "Consolidación"
+},
+{
+  "_id": {
+    "$oid": "3f178242e5dcdfdd4c36b974"
+  },
+  "nombre": "Luis",
+  "apellidos": "Cordero Beltrán",
+  "ambitos": "{\"Familia\": {\"peso\": 65.5, \"porcentaje\": 0.0556}, \"Amigos y relaciones\": {\"peso\": 100, \"porcentaje\": 0.1916}, \"Académico\": {\"peso\": 80.8, \"porcentaje\": 0.1264}, \"Entorno en clase\": {\"peso\": 68.6, \"porcentaje\": 0.067}, \"Entorno exterior\": {\"peso\": 53.1, \"porcentaje\": 0.0632}, \"Actividades extraescolares\": {\"peso\": 50.6, \"porcentaje\": 0.0594}, \"Autopercepción y emociones\": {\"peso\": 98.8, \"porcentaje\": 0.1839}, \"Relación con profesores\": {\"peso\": 90.4, \"porcentaje\": 0.1858}, \"General\": {\"peso\": 72.0, \"porcentaje\": 0.067}}",
+  "objetivo": "Consolidación"
+},
+{
+  "_id": {
+    "$oid": "e8c28de327b10e3ecfd239b2"
+  },
+  "nombre": "Jorge",
+  "apellidos": "Domínguez Serrano",
+  "ambitos": "{\"Familia\": {\"peso\": 65.7, \"porcentaje\": 0.0851}, \"Amigos y relaciones\": {\"peso\": 31.6, \"porcentaje\": 0.06}, \"Académico\": {\"peso\": 72.9, \"porcentaje\": 0.1663}, \"Entorno en clase\": {\"peso\": 72.1, \"porcentaje\": 0.1006}, \"Entorno exterior\": {\"peso\": 71.8, \"porcentaje\": 0.0812}, \"Actividades extraescolares\": {\"peso\": 39.3, \"porcentaje\": 0.0658}, \"Autopercepción y emociones\": {\"peso\": 98.7, \"porcentaje\": 0.2205}, \"Relación con profesores\": {\"peso\": 83.2, \"porcentaje\": 0.1547}, \"General\": {\"peso\": 61.7, \"porcentaje\": 0.0658}}",
+  "objetivo": "Consolidación"
+},
+{
+  "_id": {
+    "$oid": "4e852c1c5269dbe81667cf81"
+  },
+  "nombre": "Laura",
+  "apellidos": "Sáez Molina",
+  "ambitos": "{\"Familia\": {\"peso\": 22.6, \"porcentaje\": 0.2046}, \"Amigos y relaciones\": {\"peso\": 79.4, \"porcentaje\": 0.1332}, \"Académico\": {\"peso\": 73.3, \"porcentaje\": 0.1371}, \"Entorno en clase\": {\"peso\": 76.1, \"porcentaje\": 0.0907}, \"Entorno exterior\": {\"peso\": 65.1, \"porcentaje\": 0.1409}, \"Actividades extraescolares\": {\"peso\": 100, \"porcentaje\": 0.0618}, \"Autopercepción y emociones\": {\"peso\": 72.7, \"porcentaje\": 0.0676}, \"Relación con profesores\": {\"peso\": 82.7, \"porcentaje\": 0.0618}, \"General\": {\"peso\": 76.2, \"porcentaje\": 0.1023}}",
+  "objetivo": "Prevención"
+},
+{
+  "_id": {
+    "$oid": "cb87fe97e26fff8bd1b5f7cd"
+  },
+  "nombre": "Daniel",
+  "apellidos": "Soler Blanco",
+  "ambitos": "{\"Familia\": {\"peso\": 44.9, \"porcentaje\": 0.0583}, \"Amigos y relaciones\": {\"peso\": 8.2, \"porcentaje\": 0.0641}, \"Académico\": {\"peso\": 93.3, \"porcentaje\": 0.1786}, \"Entorno en clase\": {\"peso\": 35.4, \"porcentaje\": 0.0641}, \"Entorno exterior\": {\"peso\": 71.5, \"porcentaje\": 0.132}, \"Actividades extraescolares\": {\"peso\": 59.5, \"porcentaje\": 0.0602}, \"Autopercepción y emociones\": {\"peso\": 71.4, \"porcentaje\": 0.1223}, \"Relación con profesores\": {\"peso\": 41.0, \"porcentaje\": 0.0641}, \"General\": {\"peso\": 98.9, \"porcentaje\": 0.2563}}",
+  "objetivo": "Consolidación"
+},
+{
+  "_id": {
+    "$oid": "1297485aea668826d6b727dd"
+  },
+  "nombre": "Manuel",
+  "apellidos": "García López",
+  "ambitos": "{\"Familia\": {\"peso\": 100, \"porcentaje\": 0.0523}, \"Amigos y relaciones\": {\"peso\": 61.1, \"porcentaje\": 0.0785}, \"Académico\": {\"peso\": 57.4, \"porcentaje\": 0.1084}, \"Entorno en clase\": {\"peso\": 71.0, \"porcentaje\": 0.0598}, \"Entorno exterior\": {\"peso\": 79.8, \"porcentaje\": 0.0636}, \"Actividades extraescolares\": {\"peso\": 38.1, \"porcentaje\": 0.1682}, \"Autopercepción y emociones\": {\"peso\": 48.1, \"porcentaje\": 0.1589}, \"Relación con profesores\": {\"peso\": 40.4, \"porcentaje\": 0.2243}, \"General\": {\"peso\": 69.1, \"porcentaje\": 0.086}}",
+  "objetivo": "Prevención"
+},
+{
+  "_id": {
+    "$oid": "f659a6208f422db7fa86a657"
+  },
+  "nombre": "Elena",
+  "apellidos": "Sánchez García",
+  "ambitos": "{\"Familia\": {\"peso\": 65.2, \"porcentaje\": 0.1116}, \"Amigos y relaciones\": {\"peso\": 72.5, \"porcentaje\": 0.1101}, \"Académico\": {\"peso\": 22.6, \"porcentaje\": 0.1116}, \"Entorno en clase\": {\"peso\": 72.4, \"porcentaje\": 0.1116}, \"Entorno exterior\": {\"peso\": 33.3, \"porcentaje\": 0.1131}, \"Actividades extraescolares\": {\"peso\": 29.7, \"porcentaje\": 0.1087}, \"Autopercepción y emociones\": {\"peso\": 43.9, \"porcentaje\": 0.1101}, \"Relación con profesores\": {\"peso\": 58.0, \"porcentaje\": 0.1116}, \"General\": {\"peso\": 83.8, \"porcentaje\": 0.1116}}",
+  "objetivo": "Exploración"
+},
+{
+  "_id": {
+    "$oid": "aecf56d6bc4d15f41d3f8f22"
+  },
+  "nombre": "Ana",
+  "apellidos": "Lozano Pardo",
+  "ambitos": "{\"Familia\": {\"peso\": 39.1, \"porcentaje\": 0.1135}, \"Amigos y relaciones\": {\"peso\": 50.8, \"porcentaje\": 0.0685}, \"Académico\": {\"peso\": 16.5, \"porcentaje\": 0.227}, \"Entorno en clase\": {\"peso\": 23.6, \"porcentaje\": 0.1605}, \"Entorno exterior\": {\"peso\": 40.5, \"porcentaje\": 0.0626}, \"Actividades extraescolares\": {\"peso\": 50.1, \"porcentaje\": 0.0626}, \"Autopercepción y emociones\": {\"peso\": 33.8, \"porcentaje\": 0.1037}, \"Relación con profesores\": {\"peso\": 35.3, \"porcentaje\": 0.1331}, \"General\": {\"peso\": 57.3, \"porcentaje\": 0.0685}}",
+  "objetivo": "Prevención"
+},
+{
+  "_id": {
+    "$oid": "9e4d5d87e4bac161514ddea6"
+  },
+  "nombre": "Natalia",
+  "apellidos": "Esteban Suárez",
+  "ambitos": "{\"Familia\": {\"peso\": 94.1, \"porcentaje\": 0.1821}, \"Amigos y relaciones\": {\"peso\": 30.1, \"porcentaje\": 0.0665}, \"Académico\": {\"peso\": 34.0, \"porcentaje\": 0.0928}, \"Entorno en clase\": {\"peso\": 28.7, \"porcentaje\": 0.063}, \"Entorno exterior\": {\"peso\": 43.0, \"porcentaje\": 0.1366}, \"Actividades extraescolares\": {\"peso\": 28.7, \"porcentaje\": 0.0736}, \"Autopercepción y emociones\": {\"peso\": 38.4, \"porcentaje\": 0.0876}, \"Relación con profesores\": {\"peso\": 62.3, \"porcentaje\": 0.1313}, \"General\": {\"peso\": 68.5, \"porcentaje\": 0.1664}}",
+  "objetivo": "Predeterminado"
+},
+{
+  "_id": {
+    "$oid": "334fa45a8bb400d86c24acd6"
+  },
+  "nombre": "Manuel",
+  "apellidos": "Santos Gil",
+  "ambitos": "{\"Familia\": {\"peso\": 94.1, \"porcentaje\": 0.2065}, \"Amigos y relaciones\": {\"peso\": 45.7, \"porcentaje\": 0.1128}, \"Académico\": {\"peso\": 32.3, \"porcentaje\": 0.0612}, \"Entorno en clase\": {\"peso\": 50.1, \"porcentaje\": 0.0669}, \"Entorno exterior\": {\"peso\": 52.4, \"porcentaje\": 0.153}, \"Actividades extraescolares\": {\"peso\": 30.3, \"porcentaje\": 0.0593}, \"Autopercepción y emociones\": {\"peso\": 19.1, \"porcentaje\": 0.0593}, \"Relación con profesores\": {\"peso\": 59.5, \"porcentaje\": 0.088}, \"General\": {\"peso\": 87.5, \"porcentaje\": 0.1931}}",
+  "objetivo": "Consolidación"
+},
+{
+  "_id": {
+    "$oid": "ab1ef6e07cbd24ddb92ab801"
+  },
+  "nombre": "Diego",
+  "apellidos": "Rubio León",
+  "ambitos": "{\"Familia\": {\"peso\": 73.2, \"porcentaje\": 0.0526}, \"Amigos y relaciones\": {\"peso\": 100, \"porcentaje\": 0.0602}, \"Académico\": {\"peso\": 61.8, \"porcentaje\": 0.0733}, \"Entorno en clase\": {\"peso\": 50.9, \"porcentaje\": 0.1598}, \"Entorno exterior\": {\"peso\": 52.2, \"porcentaje\": 0.1504}, \"Actividades extraescolares\": {\"peso\": 51.3, \"porcentaje\": 0.1654}, \"Autopercepción y emociones\": {\"peso\": 83.7, \"porcentaje\": 0.0564}, \"Relación con profesores\": {\"peso\": 28.9, \"porcentaje\": 0.218}, \"General\": {\"peso\": 91.0, \"porcentaje\": 0.0639}}",
+  "objetivo": "Prevención"
+},
+{
+  "_id": {
+    "$oid": "6ea721a604358b24174acedd"
+  },
+  "nombre": "Rocío",
+  "apellidos": "Rubio León",
+  "ambitos": "{\"Familia\": {\"peso\": 60.9, \"porcentaje\": 0.1026}, \"Amigos y relaciones\": {\"peso\": 15.5, \"porcentaje\": 0.1933}, \"Académico\": {\"peso\": 62.9, \"porcentaje\": 0.1302}, \"Entorno en clase\": {\"peso\": 65.7, \"porcentaje\": 0.0631}, \"Entorno exterior\": {\"peso\": 70.4, \"porcentaje\": 0.0631}, \"Actividades extraescolares\": {\"peso\": 89.4, \"porcentaje\": 0.0671}, \"Autopercepción y emociones\": {\"peso\": 31.0, \"porcentaje\": 0.1834}, \"Relación con profesores\": {\"peso\": 58.8, \"porcentaje\": 0.1282}, \"General\": {\"peso\": 77.5, \"porcentaje\": 0.069}}",
+  "objetivo": "Prevención"
+},
+{
+  "_id": {
+    "$oid": "6aec08e9d1665118228a8713"
+  },
+  "nombre": "Alicia",
+  "apellidos": "Campos Cabrera",
+  "ambitos": "{\"Familia\": {\"peso\": 89.4, \"porcentaje\": 0.1912}, \"Amigos y relaciones\": {\"peso\": 28.1, \"porcentaje\": 0.0885}, \"Académico\": {\"peso\": 47.8, \"porcentaje\": 0.1434}, \"Entorno en clase\": {\"peso\": 55.5, \"porcentaje\": 0.1451}, \"Entorno exterior\": {\"peso\": 28.9, \"porcentaje\": 0.085}, \"Actividades extraescolares\": {\"peso\": 23.5, \"porcentaje\": 0.0814}, \"Autopercepción y emociones\": {\"peso\": 25.8, \"porcentaje\": 0.0867}, \"Relación con profesores\": {\"peso\": 34.6, \"porcentaje\": 0.1009}, \"General\": {\"peso\": 27.2, \"porcentaje\": 0.0779}}",
+  "objetivo": "Predeterminado"
+},
+{
+  "_id": {
+    "$oid": "2918b960ab1320abb8761021"
+  },
+  "nombre": "David",
+  "apellidos": "Esteban Suárez",
+  "ambitos": "{\"Familia\": {\"peso\": 96.0, \"porcentaje\": 0.213}, \"Amigos y relaciones\": {\"peso\": 62.8, \"porcentaje\": 0.0769}, \"Académico\": {\"peso\": 52.1, \"porcentaje\": 0.075}, \"Entorno en clase\": {\"peso\": 38.7, \"porcentaje\": 0.0651}, \"Entorno exterior\": {\"peso\": 89.7, \"porcentaje\": 0.1893}, \"Actividades extraescolares\": {\"peso\": 43.5, \"porcentaje\": 0.0611}, \"Autopercepción y emociones\": {\"peso\": 63.2, \"porcentaje\": 0.0907}, \"Relación con profesores\": {\"peso\": 76.0, \"porcentaje\": 0.1578}, \"General\": {\"peso\": 43.3, \"porcentaje\": 0.071}}",
+  "objetivo": "Consolidación"
+},
+{
+  "_id": {
+    "$oid": "70b4b0cd24eb0438537bc9c6"
+  },
+  "nombre": "Diego",
+  "apellidos": "Cordero Beltrán",
+  "ambitos": "{\"Familia\": {\"peso\": 70.4, \"porcentaje\": 0.1765}, \"Amigos y relaciones\": {\"peso\": 35.2, \"porcentaje\": 0.0608}, \"Académico\": {\"peso\": 69.0, \"porcentaje\": 0.1529}, \"Entorno en clase\": {\"peso\": 42.3, \"porcentaje\": 0.0608}, \"Entorno exterior\": {\"peso\": 70.6, \"porcentaje\": 0.149}, \"Actividades extraescolares\": {\"peso\": 54.7, \"porcentaje\": 0.0627}, \"Autopercepción y emociones\": {\"peso\": 47.0, \"porcentaje\": 0.0765}, \"Relación con profesores\": {\"peso\": 70.9, \"porcentaje\": 0.1902}, \"General\": {\"peso\": 48.8, \"porcentaje\": 0.0706}}",
+  "objetivo": "Consolidación"
+},
+{
+  "_id": {
+    "$oid": "41b1ac3a152b6ee361687779"
+  },
+  "nombre": "Adrián",
+  "apellidos": "Esteban Suárez",
+  "ambitos": "{\"Familia\": {\"peso\": 91.6, \"porcentaje\": 0.1984}, \"Amigos y relaciones\": {\"peso\": 65.4, \"porcentaje\": 0.0603}, \"Académico\": {\"peso\": 46.6, \"porcentaje\": 0.0661}, \"Entorno en clase\": {\"peso\": 52.4, \"porcentaje\": 0.0623}, \"Entorno exterior\": {\"peso\": 78.6, \"porcentaje\": 0.1479}, \"Actividades extraescolares\": {\"peso\": 81.6, \"porcentaje\": 0.179}, \"Autopercepción y emociones\": {\"peso\": 29.4, \"porcentaje\": 0.0603}, \"Relación con profesores\": {\"peso\": 72.9, \"porcentaje\": 0.0856}, \"General\": {\"peso\": 71.5, \"porcentaje\": 0.1401}}",
+  "objetivo": "Consolidación"
+},
+{
+  "_id": {
+    "$oid": "59c7b0566e7d7e23b7ded4e0"
+  },
+  "nombre": "Valeria",
+  "apellidos": "Sáez Molina",
+  "ambitos": "{\"Familia\": {\"peso\": 76.8, \"porcentaje\": 0.0531}, \"Amigos y relaciones\": {\"peso\": 26.8, \"porcentaje\": 0.2125}, \"Académico\": {\"peso\": 75.4, \"porcentaje\": 0.0626}, \"Entorno en clase\": {\"peso\": 59.0, \"porcentaje\": 0.0759}, \"Entorno exterior\": {\"peso\": 32.0, \"porcentaje\": 0.167}, \"Actividades extraescolares\": {\"peso\": 59.5, \"porcentaje\": 0.0968}, \"Autopercepción y emociones\": {\"peso\": 33.0, \"porcentaje\": 0.1973}, \"Relación con profesores\": {\"peso\": 47.9, \"porcentaje\": 0.0721}, \"General\": {\"peso\": 70.1, \"porcentaje\": 0.0626}}",
+  "objetivo": "Prevención"
+},
+{
+  "_id": {
+    "$oid": "03b5e453b4bd14a0d1323d32"
+  },
+  "nombre": "David",
+  "apellidos": "Esteban Suárez",
+  "ambitos": "{\"Familia\": {\"peso\": 75.6, \"porcentaje\": 0.0527}, \"Amigos y relaciones\": {\"peso\": 55.9, \"porcentaje\": 0.0603}, \"Académico\": {\"peso\": 9.3, \"porcentaje\": 0.1864}, \"Entorno en clase\": {\"peso\": 47.0, \"porcentaje\": 0.1205}, \"Entorno exterior\": {\"peso\": 48.3, \"porcentaje\": 0.0565}, \"Actividades extraescolares\": {\"peso\": 46.2, \"porcentaje\": 0.0753}, \"Autopercepción y emociones\": {\"peso\": 11.4, \"porcentaje\": 0.1676}, \"Relación con profesores\": {\"peso\": 2.0, \"porcentaje\": 0.2166}, \"General\": {\"peso\": 47.5, \"porcentaje\": 0.064}}",
+  "objetivo": "Prevención"
+},
+{
+  "_id": {
+    "$oid": "3b97c429fb298137a12ce2af"
+  },
+  "nombre": "María",
+  "apellidos": "Torres Ramos",
+  "ambitos": "{\"Familia\": {\"peso\": 41.6, \"porcentaje\": 0.0572}, \"Amigos y relaciones\": {\"peso\": 56.1, \"porcentaje\": 0.0611}, \"Académico\": {\"peso\": 73.8, \"porcentaje\": 0.1262}, \"Entorno en clase\": {\"peso\": 99.4, \"porcentaje\": 0.215}, \"Entorno exterior\": {\"peso\": 75.5, \"porcentaje\": 0.0927}, \"Actividades extraescolares\": {\"peso\": 96.4, \"porcentaje\": 0.1617}, \"Autopercepción y emociones\": {\"peso\": 84.2, \"porcentaje\": 0.1598}, \"Relación con profesores\": {\"peso\": 72.4, \"porcentaje\": 0.0592}, \"General\": {\"peso\": 62.7, \"porcentaje\": 0.0671}}",
+  "objetivo": "Consolidación"
+},
+{
+  "_id": {
+    "$oid": "33c1009e731c3caacd62b090"
+  },
+  "nombre": "Rocío",
+  "apellidos": "Muñoz Romero",
+  "ambitos": "{\"Familia\": {\"peso\": 100, \"porcentaje\": 0.1109}, \"Amigos y relaciones\": {\"peso\": 29.2, \"porcentaje\": 0.1109}, \"Académico\": {\"peso\": 34.0, \"porcentaje\": 0.1079}, \"Entorno en clase\": {\"peso\": 80.7, \"porcentaje\": 0.1094}, \"Entorno exterior\": {\"peso\": 18.6, \"porcentaje\": 0.1109}, \"Actividades extraescolares\": {\"peso\": 75.5, \"porcentaje\": 0.1124}, \"Autopercepción y emociones\": {\"peso\": 10.1, \"porcentaje\": 0.1124}, \"Relación con profesores\": {\"peso\": 45.3, \"porcentaje\": 0.1124}, \"General\": {\"peso\": 60.7, \"porcentaje\": 0.1124}}",
+  "objetivo": "Exploración"
+},
+{
+  "_id": {
+    "$oid": "61019a6c5ad6fd1860edd359"
+  },
+  "nombre": "Alejandro",
+  "apellidos": "Torres Ramos",
+  "ambitos": "{\"Familia\": {\"peso\": 49.3, \"porcentaje\": 0.0514}, \"Amigos y relaciones\": {\"peso\": 53.7, \"porcentaje\": 0.1048}, \"Académico\": {\"peso\": 52.4, \"porcentaje\": 0.0819}, \"Entorno en clase\": {\"peso\": 38.2, \"porcentaje\": 0.059}, \"Entorno exterior\": {\"peso\": 50.5, \"porcentaje\": 0.0914}, \"Actividades extraescolares\": {\"peso\": 100, \"porcentaje\": 0.1829}, \"Autopercepción y emociones\": {\"peso\": 53.7, \"porcentaje\": 0.1181}, \"Relación con profesores\": {\"peso\": 55.3, \"porcentaje\": 0.0781}, \"General\": {\"peso\": 82.7, \"porcentaje\": 0.2324}}",
+  "objetivo": "Consolidación"
+},
+{
+  "_id": {
+    "$oid": "1e73c4c2339e557a96e4fe0e"
+  },
+  "nombre": "Isabel",
+  "apellidos": "González Pérez",
+  "ambitos": "{\"Familia\": {\"peso\": 60.4, \"porcentaje\": 0.06}, \"Amigos y relaciones\": {\"peso\": 21.0, \"porcentaje\": 0.1238}, \"Académico\": {\"peso\": 5.0, \"porcentaje\": 0.1951}, \"Entorno en clase\": {\"peso\": 40.9, \"porcentaje\": 0.0675}, \"Entorno exterior\": {\"peso\": 3.4, \"porcentaje\": 0.1801}, \"Actividades extraescolares\": {\"peso\": 49.7, \"porcentaje\": 0.06}, \"Autopercepción y emociones\": {\"peso\": 15.7, \"porcentaje\": 0.1895}, \"Relación con profesores\": {\"peso\": 52.2, \"porcentaje\": 0.06}, \"General\": {\"peso\": 53.6, \"porcentaje\": 0.0638}}",
+  "objetivo": "Prevención"
+},
+{
+  "_id": {
+    "$oid": "4faf9118f9fd45a38278e79e"
+  },
+  "nombre": "Clara",
+  "apellidos": "Ruiz Fernández",
+  "ambitos": "{\"Familia\": {\"peso\": 79.8, \"porcentaje\": 0.0565}, \"Amigos y relaciones\": {\"peso\": 11.0, \"porcentaje\": 0.177}, \"Académico\": {\"peso\": 4.1, \"porcentaje\": 0.2203}, \"Entorno en clase\": {\"peso\": 70.6, \"porcentaje\": 0.0603}, \"Entorno exterior\": {\"peso\": 46.6, \"porcentaje\": 0.0885}, \"Actividades extraescolares\": {\"peso\": 64.9, \"porcentaje\": 0.1055}, \"Autopercepción y emociones\": {\"peso\": 62.1, \"porcentaje\": 0.0603}, \"Relación con profesores\": {\"peso\": 34.1, \"porcentaje\": 0.1601}, \"General\": {\"peso\": 56.2, \"porcentaje\": 0.0716}}",
+  "objetivo": "Prevención"
+},
+{
+  "_id": {
+    "$oid": "66ce8db58439816315c953fd"
+  },
+  "nombre": "Óscar",
+  "apellidos": "Iglesias Soler",
+  "ambitos": "{\"Familia\": {\"peso\": 87.0, \"porcentaje\": 0.1106}, \"Amigos y relaciones\": {\"peso\": 7.4, \"porcentaje\": 0.1121}, \"Académico\": {\"peso\": 28.2, \"porcentaje\": 0.1121}, \"Entorno en clase\": {\"peso\": 100, \"porcentaje\": 0.1121}, \"Entorno exterior\": {\"peso\": 16.7, \"porcentaje\": 0.1091}, \"Actividades extraescolares\": {\"peso\": 98.6, \"porcentaje\": 0.1091}, \"Autopercepción y emociones\": {\"peso\": 47.9, \"porcentaje\": 0.1121}, \"Relación con profesores\": {\"peso\": 70.4, \"porcentaje\": 0.1136}, \"General\": {\"peso\": 26.3, \"porcentaje\": 0.1091}}",
+  "objetivo": "Exploración"
+},
+{
+  "_id": {
+    "$oid": "c406b567ee56e4632705db32"
+  },
+  "nombre": "Julia",
+  "apellidos": "Aguado Sáez",
+  "ambitos": "{\"Familia\": {\"peso\": 75.8, \"porcentaje\": 0.1118}, \"Amigos y relaciones\": {\"peso\": 42.2, \"porcentaje\": 0.1147}, \"Académico\": {\"peso\": 24.6, \"porcentaje\": 0.1074}, \"Entorno en clase\": {\"peso\": 100, \"porcentaje\": 0.1132}, \"Entorno exterior\": {\"peso\": 25.3, \"porcentaje\": 0.1132}, \"Actividades extraescolares\": {\"peso\": 99.8, \"porcentaje\": 0.1118}, \"Autopercepción y emociones\": {\"peso\": 45.0, \"porcentaje\": 0.1103}, \"Relación con profesores\": {\"peso\": 73.3, \"porcentaje\": 0.1103}, \"General\": {\"peso\": 35.1, \"porcentaje\": 0.1074}}",
+  "objetivo": "Exploración"
+},
+{
+  "_id": {
+    "$oid": "65a505e55ec6f885637dc928"
+  },
+  "nombre": "Clara",
+  "apellidos": "Delgado Cruz",
+  "ambitos": "{\"Familia\": {\"peso\": 60.7, \"porcentaje\": 0.1126}, \"Amigos y relaciones\": {\"peso\": 60.3, \"porcentaje\": 0.1096}, \"Académico\": {\"peso\": 19.4, \"porcentaje\": 0.1111}, \"Entorno en clase\": {\"peso\": 100, \"porcentaje\": 0.1126}, \"Entorno exterior\": {\"peso\": 28.1, \"porcentaje\": 0.1111}, \"Actividades extraescolares\": {\"peso\": 69.6, \"porcentaje\": 0.1111}, \"Autopercepción y emociones\": {\"peso\": 6.5, \"porcentaje\": 0.1096}, \"Relación con profesores\": {\"peso\": 36.3, \"porcentaje\": 0.1111}, \"General\": {\"peso\": 44.8, \"porcentaje\": 0.1111}}",
+  "objetivo": "Exploración"
+},
+{
+  "_id": {
+    "$oid": "c2c17f983687406e53e9e27f"
+  },
+  "nombre": "Alicia",
+  "apellidos": "Campos Cabrera",
+  "ambitos": "{\"Familia\": {\"peso\": 91.6, \"porcentaje\": 0.1806}, \"Amigos y relaciones\": {\"peso\": 70.6, \"porcentaje\": 0.1312}, \"Académico\": {\"peso\": 59.8, \"porcentaje\": 0.1065}, \"Entorno en clase\": {\"peso\": 35.5, \"porcentaje\": 0.0589}, \"Entorno exterior\": {\"peso\": 67.6, \"porcentaje\": 0.0703}, \"Actividades extraescolares\": {\"peso\": 100.0, \"porcentaje\": 0.1863}, \"Autopercepción y emociones\": {\"peso\": 68.3, \"porcentaje\": 0.1255}, \"Relación con profesores\": {\"peso\": 64.8, \"porcentaje\": 0.0741}, \"General\": {\"peso\": 53.5, \"porcentaje\": 0.0665}}",
+  "objetivo": "Consolidación"
+},
+{
+  "_id": {
+    "$oid": "a8e5f8e4be2031728841595c"
+  },
+  "nombre": "Enrique",
+  "apellidos": "Navarro Delgado",
+  "ambitos": "{\"Familia\": {\"peso\": 87.9, \"porcentaje\": 0.1832}, \"Amigos y relaciones\": {\"peso\": 49.4, \"porcentaje\": 0.0624}, \"Académico\": {\"peso\": 53.7, \"porcentaje\": 0.115}, \"Entorno en clase\": {\"peso\": 18.4, \"porcentaje\": 0.0643}, \"Entorno exterior\": {\"peso\": 53.3, \"porcentaje\": 0.0799}, \"Actividades extraescolares\": {\"peso\": 98.8, \"porcentaje\": 0.2144}, \"Autopercepción y emociones\": {\"peso\": 58.6, \"porcentaje\": 0.078}, \"Relación con profesores\": {\"peso\": 71.1, \"porcentaje\": 0.1365}, \"General\": {\"peso\": 42.6, \"porcentaje\": 0.0663}}",
+  "objetivo": "Consolidación"
+},
+{
+  "_id": {
+    "$oid": "bc167f81b174c90a80f7fc28"
+  },
+  "nombre": "David",
+  "apellidos": "Fernández Moreno",
+  "ambitos": "{\"Familia\": {\"peso\": 67.7, \"porcentaje\": 0.128}, \"Amigos y relaciones\": {\"peso\": 36.1, \"porcentaje\": 0.0836}, \"Académico\": {\"peso\": 39.1, \"porcentaje\": 0.0819}, \"Entorno en clase\": {\"peso\": 92.1, \"porcentaje\": 0.1655}, \"Entorno exterior\": {\"peso\": 35.4, \"porcentaje\": 0.0836}, \"Actividades extraescolares\": {\"peso\": 100, \"porcentaje\": 0.2014}, \"Autopercepción y emociones\": {\"peso\": 30.5, \"porcentaje\": 0.0683}, \"Relación con profesores\": {\"peso\": 45.5, \"porcentaje\": 0.0973}, \"General\": {\"peso\": 29.4, \"porcentaje\": 0.0904}}",
+  "objetivo": "Predeterminado"
+},
+{
+  "_id": {
+    "$oid": "1724c3a5b1b6387f0f8cfce3"
+  },
+  "nombre": "Rocío",
+  "apellidos": "Blanco Esteban",
+  "ambitos": "{\"Familia\": {\"peso\": 86.5, \"porcentaje\": 0.1559}, \"Amigos y relaciones\": {\"peso\": 84.9, \"porcentaje\": 0.1452}, \"Académico\": {\"peso\": 56.4, \"porcentaje\": 0.0645}, \"Entorno en clase\": {\"peso\": 97.2, \"porcentaje\": 0.2007}, \"Entorno exterior\": {\"peso\": 61.9, \"porcentaje\": 0.0968}, \"Actividades extraescolares\": {\"peso\": 76.3, \"porcentaje\": 0.1022}, \"Autopercepción y emociones\": {\"peso\": 64.3, \"porcentaje\": 0.0717}, \"Relación con profesores\": {\"peso\": 55.6, \"porcentaje\": 0.0735}, \"General\": {\"peso\": 62.9, \"porcentaje\": 0.0896}}",
+  "objetivo": "Predeterminado"
+},
+{
+  "_id": {
+    "$oid": "0c0d62dcdba9a5cd23b3fe0a"
+  },
+  "nombre": "Javier",
+  "apellidos": "Navarro Delgado",
+  "ambitos": "{\"Familia\": {\"peso\": 89.3, \"porcentaje\": 0.1738}, \"Amigos y relaciones\": {\"peso\": 71.3, \"porcentaje\": 0.1201}, \"Académico\": {\"peso\": 32.5, \"porcentaje\": 0.0627}, \"Entorno en clase\": {\"peso\": 81.8, \"porcentaje\": 0.1326}, \"Entorno exterior\": {\"peso\": 63.8, \"porcentaje\": 0.1022}, \"Actividades extraescolares\": {\"peso\": 98.8, \"porcentaje\": 0.1846}, \"Autopercepción y emociones\": {\"peso\": 54.2, \"porcentaje\": 0.0717}, \"Relación con profesores\": {\"peso\": 57.2, \"porcentaje\": 0.0771}, \"General\": {\"peso\": 34.1, \"porcentaje\": 0.0753}}",
+  "objetivo": "Predeterminado"
+},
+{
+  "_id": {
+    "$oid": "dcb58f07e6e9a616b5340cd0"
+  },
+  "nombre": "Sara",
+  "apellidos": "Vidal Campos",
+  "ambitos": "{\"Familia\": {\"peso\": 45.3, \"porcentaje\": 0.1017}, \"Amigos y relaciones\": {\"peso\": 65.9, \"porcentaje\": 0.1651}, \"Académico\": {\"peso\": 29.4, \"porcentaje\": 0.0595}, \"Entorno en clase\": {\"peso\": 2.6, \"porcentaje\": 0.0595}, \"Entorno exterior\": {\"peso\": 38.8, \"porcentaje\": 0.0864}, \"Actividades extraescolares\": {\"peso\": 91.7, \"porcentaje\": 0.2265}, \"Autopercepción y emociones\": {\"peso\": 37.4, \"porcentaje\": 0.0845}, \"Relación con profesores\": {\"peso\": 49.0, \"porcentaje\": 0.1459}, \"General\": {\"peso\": 36.8, \"porcentaje\": 0.071}}",
+  "objetivo": "Consolidación"
+},
+{
+  "_id": {
+    "$oid": "4d387a3ec55d947e355f3148"
+  },
+  "nombre": "Fernando",
+  "apellidos": "Álvarez Ortega",
+  "ambitos": "{\"Familia\": {\"peso\": 36.7, \"porcentaje\": 0.0545}, \"Amigos y relaciones\": {\"peso\": 42.0, \"porcentaje\": 0.1617}, \"Académico\": {\"peso\": 48.0, \"porcentaje\": 0.0771}, \"Entorno en clase\": {\"peso\": 44.9, \"porcentaje\": 0.0883}, \"Entorno exterior\": {\"peso\": 19.9, \"porcentaje\": 0.2068}, \"Actividades extraescolares\": {\"peso\": 42.2, \"porcentaje\": 0.1015}, \"Autopercepción y emociones\": {\"peso\": 55.1, \"porcentaje\": 0.0602}, \"Relación con profesores\": {\"peso\": 35.6, \"porcentaje\": 0.1692}, \"General\": {\"peso\": 38.9, \"porcentaje\": 0.0808}}",
+  "objetivo": "Prevención"
+},
+{
+  "_id": {
+    "$oid": "c206041a987849a6b8ce8091"
+  },
+  "nombre": "María",
+  "apellidos": "Pérez Rodríguez",
+  "ambitos": "{\"Familia\": {\"peso\": 55.2, \"porcentaje\": 0.1113}, \"Amigos y relaciones\": {\"peso\": 80.5, \"porcentaje\": 0.1083}, \"Académico\": {\"peso\": 22.9, \"porcentaje\": 0.1128}, \"Entorno en clase\": {\"peso\": 100, \"porcentaje\": 0.1113}, \"Entorno exterior\": {\"peso\": 41.1, \"porcentaje\": 0.1128}, \"Actividades extraescolares\": {\"peso\": 99.5, \"porcentaje\": 0.1113}, \"Autopercepción y emociones\": {\"peso\": 40.8, \"porcentaje\": 0.1098}, \"Relación con profesores\": {\"peso\": 64.7, \"porcentaje\": 0.1128}, \"General\": {\"peso\": 40.4, \"porcentaje\": 0.1098}}",
+  "objetivo": "Exploración"
+},
+{
+  "_id": {
+    "$oid": "a5ad789a636019eaadee04c0"
+  },
+  "nombre": "Andrés",
+  "apellidos": "Ramos Ibáñez",
+  "ambitos": "{\"Familia\": {\"peso\": 38.3, \"porcentaje\": 0.1569}, \"Amigos y relaciones\": {\"peso\": 72.7, \"porcentaje\": 0.1285}, \"Académico\": {\"peso\": 83.9, \"porcentaje\": 0.0605}, \"Entorno en clase\": {\"peso\": 73.6, \"porcentaje\": 0.1191}, \"Entorno exterior\": {\"peso\": 35.5, \"porcentaje\": 0.1815}, \"Actividades extraescolares\": {\"peso\": 66.7, \"porcentaje\": 0.155}, \"Autopercepción y emociones\": {\"peso\": 80.5, \"porcentaje\": 0.0586}, \"Relación con profesores\": {\"peso\": 72.8, \"porcentaje\": 0.0699}, \"General\": {\"peso\": 67.0, \"porcentaje\": 0.0699}}",
+  "objetivo": "Prevención"
+},
+{
+  "_id": {
+    "$oid": "abaae8a08583815e59e65e76"
+  },
+  "nombre": "Manuel",
+  "apellidos": "Serrano Marín",
+  "ambitos": "{\"Familia\": {\"peso\": 55.2, \"porcentaje\": 0.1133}, \"Amigos y relaciones\": {\"peso\": 85.6, \"porcentaje\": 0.1133}, \"Académico\": {\"peso\": 22.2, \"porcentaje\": 0.1118}, \"Entorno en clase\": {\"peso\": 88.1, \"porcentaje\": 0.1103}, \"Entorno exterior\": {\"peso\": 55.8, \"porcentaje\": 0.1103}, \"Actividades extraescolares\": {\"peso\": 87.4, \"porcentaje\": 0.1133}, \"Autopercepción y emociones\": {\"peso\": 42.5, \"porcentaje\": 0.1088}, \"Relación con profesores\": {\"peso\": 17.3, \"porcentaje\": 0.1133}, \"General\": {\"peso\": 68.4, \"porcentaje\": 0.1057}}",
+  "objetivo": "Exploración"
+},
+{
+  "_id": {
+    "$oid": "67884f46a95b9bbf493caf3a"
+  },
+  "nombre": "Clara",
+  "apellidos": "León Santos",
+  "ambitos": "{\"Familia\": {\"peso\": 17.4, \"porcentaje\": 0.1752}, \"Amigos y relaciones\": {\"peso\": 52.1, \"porcentaje\": 0.0787}, \"Académico\": {\"peso\": 2.7, \"porcentaje\": 0.1988}, \"Entorno en clase\": {\"peso\": 54.6, \"porcentaje\": 0.1142}, \"Entorno exterior\": {\"peso\": 60.8, \"porcentaje\": 0.063}, \"Actividades extraescolares\": {\"peso\": 55.0, \"porcentaje\": 0.1004}, \"Autopercepción y emociones\": {\"peso\": 60.9, \"porcentaje\": 0.0591}, \"Relación con profesores\": {\"peso\": 38.2, \"porcentaje\": 0.1457}, \"General\": {\"peso\": 65.3, \"porcentaje\": 0.065}}",
+  "objetivo": "Prevención"
+},
+{
+  "_id": {
+    "$oid": "e51e32bff155eefac08f44ca"
+  },
+  "nombre": "Clara",
+  "apellidos": "Aguado Sáez",
+  "ambitos": "{\"Familia\": {\"peso\": 53.0, \"porcentaje\": 0.0953}, \"Amigos y relaciones\": {\"peso\": 69.3, \"porcentaje\": 0.1338}, \"Académico\": {\"peso\": 52.9, \"porcentaje\": 0.102}, \"Entorno en clase\": {\"peso\": 73.8, \"porcentaje\": 0.1321}, \"Entorno exterior\": {\"peso\": 48.4, \"porcentaje\": 0.092}, \"Actividades extraescolares\": {\"peso\": 52.6, \"porcentaje\": 0.0903}, \"Autopercepción y emociones\": {\"peso\": 47.6, \"porcentaje\": 0.0803}, \"Relación con profesores\": {\"peso\": 53.3, \"porcentaje\": 0.0936}, \"General\": {\"peso\": 100, \"porcentaje\": 0.1806}}",
+  "objetivo": "Predeterminado"
+},
+{
+  "_id": {
+    "$oid": "9d197d115df49e1321cace78"
+  },
+  "nombre": "Ana",
+  "apellidos": "Navarro Delgado",
+  "ambitos": "{\"Familia\": {\"peso\": 87.3, \"porcentaje\": 0.0797}, \"Amigos y relaciones\": {\"peso\": 70.6, \"porcentaje\": 0.0588}, \"Académico\": {\"peso\": 81.4, \"porcentaje\": 0.0892}, \"Entorno en clase\": {\"peso\": 99.3, \"porcentaje\": 0.2087}, \"Entorno exterior\": {\"peso\": 80.8, \"porcentaje\": 0.0987}, \"Actividades extraescolares\": {\"peso\": 99.3, \"porcentaje\": 0.1347}, \"Autopercepción y emociones\": {\"peso\": 81.9, \"porcentaje\": 0.0702}, \"Relación con profesores\": {\"peso\": 44.5, \"porcentaje\": 0.0588}, \"General\": {\"peso\": 99.3, \"porcentaje\": 0.2011}}",
+  "objetivo": "Consolidación"
+},
+{
+  "_id": {
+    "$oid": "c6cfb28ad3a610a0b1d0ca19"
+  },
+  "nombre": "Paula",
+  "apellidos": "Blanco Esteban",
+  "ambitos": "{\"Familia\": {\"peso\": 22.6, \"porcentaje\": 0.108}, \"Amigos y relaciones\": {\"peso\": 47.3, \"porcentaje\": 0.1139}, \"Académico\": {\"peso\": 26.3, \"porcentaje\": 0.1139}, \"Entorno en clase\": {\"peso\": 76.9, \"porcentaje\": 0.1095}, \"Entorno exterior\": {\"peso\": 28.2, \"porcentaje\": 0.1124}, \"Actividades extraescolares\": {\"peso\": 64.6, \"porcentaje\": 0.1095}, \"Autopercepción y emociones\": {\"peso\": 29.1, \"porcentaje\": 0.1109}, \"Relación con profesores\": {\"peso\": 5.9, \"porcentaje\": 0.1109}, \"General\": {\"peso\": 41.9, \"porcentaje\": 0.1109}}",
+  "objetivo": "Exploración"
+},
+{
+  "_id": {
+    "$oid": "dc32a3c1fdecc67b7f1500b1"
+  },
+  "nombre": "Noelia",
+  "apellidos": "Sánchez García",
+  "ambitos": "{\"Familia\": {\"peso\": 38.5, \"porcentaje\": 0.1148}, \"Amigos y relaciones\": {\"peso\": 68.2, \"porcentaje\": 0.1118}, \"Académico\": {\"peso\": 33.1, \"porcentaje\": 0.1118}, \"Entorno en clase\": {\"peso\": 84.4, \"porcentaje\": 0.1148}, \"Entorno exterior\": {\"peso\": 10.9, \"porcentaje\": 0.1103}, \"Actividades extraescolares\": {\"peso\": 58.1, \"porcentaje\": 0.1058}, \"Autopercepción y emociones\": {\"peso\": 39.0, \"porcentaje\": 0.1118}, \"Relación con profesores\": {\"peso\": 43.6, \"porcentaje\": 0.1118}, \"General\": {\"peso\": 76.1, \"porcentaje\": 0.1073}}",
+  "objetivo": "Exploración"
+},
+{
+  "_id": {
+    "$oid": "26d63eb44ca7511e4e1ca3f4"
+  },
+  "nombre": "Andrés",
+  "apellidos": "Méndez Lara",
+  "ambitos": "{\"Familia\": {\"peso\": 52.9, \"porcentaje\": 0.1091}, \"Amigos y relaciones\": {\"peso\": 50.8, \"porcentaje\": 0.1121}, \"Académico\": {\"peso\": 21.9, \"porcentaje\": 0.1106}, \"Entorno en clase\": {\"peso\": 85.6, \"porcentaje\": 0.1106}, \"Entorno exterior\": {\"peso\": 30.9, \"porcentaje\": 0.1121}, \"Actividades extraescolares\": {\"peso\": 90.5, \"porcentaje\": 0.1136}, \"Autopercepción y emociones\": {\"peso\": 30.9, \"porcentaje\": 0.1106}, \"Relación con profesores\": {\"peso\": 12.3, \"porcentaje\": 0.1121}, \"General\": {\"peso\": 66.5, \"porcentaje\": 0.1091}}",
+  "objetivo": "Exploración"
+},
+{
+  "_id": {
+    "$oid": "afeb92c1e76570308078d608"
+  },
+  "nombre": "Francisco",
+  "apellidos": "Vázquez Vargas",
+  "ambitos": "{\"Familia\": {\"peso\": 6.3, \"porcentaje\": 0.2146}, \"Amigos y relaciones\": {\"peso\": 58.7, \"porcentaje\": 0.0789}, \"Académico\": {\"peso\": 29.3, \"porcentaje\": 0.1579}, \"Entorno en clase\": {\"peso\": 52.9, \"porcentaje\": 0.081}, \"Entorno exterior\": {\"peso\": 16.0, \"porcentaje\": 0.168}, \"Actividades extraescolares\": {\"peso\": 70.8, \"porcentaje\": 0.0628}, \"Autopercepción y emociones\": {\"peso\": 33.2, \"porcentaje\": 0.083}, \"Relación con profesores\": {\"peso\": 66.6, \"porcentaje\": 0.0648}, \"General\": {\"peso\": 51.1, \"porcentaje\": 0.0891}}",
+  "objetivo": "Prevención"
+},
+{
+  "_id": {
+    "$oid": "3861763dbe437c2e9637870e"
+  },
+  "nombre": "Sergio",
+  "apellidos": "Hernández Jiménez",
+  "ambitos": "{\"Familia\": {\"peso\": 48.9, \"porcentaje\": 0.1096}, \"Amigos y relaciones\": {\"peso\": 67.2, \"porcentaje\": 0.1607}, \"Académico\": {\"peso\": 51.6, \"porcentaje\": 0.1248}, \"Entorno en clase\": {\"peso\": 40.3, \"porcentaje\": 0.0586}, \"Entorno exterior\": {\"peso\": 49.6, \"porcentaje\": 0.0737}, \"Actividades extraescolares\": {\"peso\": 50.4, \"porcentaje\": 0.0794}, \"Autopercepción y emociones\": {\"peso\": 62.3, \"porcentaje\": 0.0756}, \"Relación con profesores\": {\"peso\": 46.3, \"porcentaje\": 0.0775}, \"General\": {\"peso\": 85.3, \"porcentaje\": 0.2401}}",
+  "objetivo": "Consolidación"
+},
+{
+  "_id": {
+    "$oid": "8032d9ecae33e00f9647e171"
+  },
+  "nombre": "Jorge",
+  "apellidos": "Romero Navarro",
+  "ambitos": "{\"Familia\": {\"peso\": 86.7, \"porcentaje\": 0.0538}, \"Amigos y relaciones\": {\"peso\": 66.8, \"porcentaje\": 0.1212}, \"Académico\": {\"peso\": 37.4, \"porcentaje\": 0.1385}, \"Entorno en clase\": {\"peso\": 63.7, \"porcentaje\": 0.0788}, \"Entorno exterior\": {\"peso\": 65.8, \"porcentaje\": 0.0654}, \"Actividades extraescolares\": {\"peso\": 12.4, \"porcentaje\": 0.1904}, \"Autopercepción y emociones\": {\"peso\": 71.2, \"porcentaje\": 0.0654}, \"Relación con profesores\": {\"peso\": 17.4, \"porcentaje\": 0.2192}, \"General\": {\"peso\": 63.6, \"porcentaje\": 0.0673}}",
+  "objetivo": "Prevención"
+},
+{
+  "_id": {
+    "$oid": "05e22b13aa715a4e926b08bd"
+  },
+  "nombre": "Eva",
+  "apellidos": "Torres Ramos",
+  "ambitos": "{\"Familia\": {\"peso\": 78.4, \"porcentaje\": 0.1786}, \"Amigos y relaciones\": {\"peso\": 25.5, \"porcentaje\": 0.1051}, \"Académico\": {\"peso\": 15.5, \"porcentaje\": 0.0595}, \"Entorno en clase\": {\"peso\": 55.5, \"porcentaje\": 0.1296}, \"Entorno exterior\": {\"peso\": 33.8, \"porcentaje\": 0.1191}, \"Actividades extraescolares\": {\"peso\": 27.9, \"porcentaje\": 0.1016}, \"Autopercepción y emociones\": {\"peso\": 25.2, \"porcentaje\": 0.0911}, \"Relación con profesores\": {\"peso\": 6.2, \"porcentaje\": 0.0683}, \"General\": {\"peso\": 75.7, \"porcentaje\": 0.1471}}",
+  "objetivo": "Predeterminado"
+},
+{
+  "_id": {
+    "$oid": "4938c6f96ac5d7c3958b98e5"
+  },
+  "nombre": "Víctor",
+  "apellidos": "Peña Herrera",
+  "ambitos": "{\"Familia\": {\"peso\": 100, \"porcentaje\": 0.0538}, \"Amigos y relaciones\": {\"peso\": 96.6, \"porcentaje\": 0.0615}, \"Académico\": {\"peso\": 81.1, \"porcentaje\": 0.0635}, \"Entorno en clase\": {\"peso\": 69.9, \"porcentaje\": 0.1327}, \"Entorno exterior\": {\"peso\": 52.3, \"porcentaje\": 0.1423}, \"Actividades extraescolares\": {\"peso\": 23.6, \"porcentaje\": 0.2154}, \"Autopercepción y emociones\": {\"peso\": 61.3, \"porcentaje\": 0.1462}, \"Relación con profesores\": {\"peso\": 85.7, \"porcentaje\": 0.0577}, \"General\": {\"peso\": 67.7, \"porcentaje\": 0.1269}}",
+  "objetivo": "Prevención"
+},
+{
+  "_id": {
+    "$oid": "1955bbaeb17ae0d9cbd296a2"
+  },
+  "nombre": "Luis",
+  "apellidos": "Serrano Marín",
+  "ambitos": "{\"Familia\": {\"peso\": 78.7, \"porcentaje\": 0.0548}, \"Amigos y relaciones\": {\"peso\": 66.4, \"porcentaje\": 0.1115}, \"Académico\": {\"peso\": 67.7, \"porcentaje\": 0.0605}, \"Entorno en clase\": {\"peso\": 69.1, \"porcentaje\": 0.1021}, \"Entorno exterior\": {\"peso\": 58.7, \"porcentaje\": 0.1096}, \"Actividades extraescolares\": {\"peso\": 20.3, \"porcentaje\": 0.1966}, \"Autopercepción y emociones\": {\"peso\": 69.5, \"porcentaje\": 0.1096}, \"Relación con profesores\": {\"peso\": 27.7, \"porcentaje\": 0.1834}, \"General\": {\"peso\": 67.7, \"porcentaje\": 0.0718}}",
+  "objetivo": "Prevención"
+},
+{
+  "_id": {
+    "$oid": "efb7020af47e9b69fa1d54c4"
+  },
+  "nombre": "Javier",
+  "apellidos": "Pardo Méndez",
+  "ambitos": "{\"Familia\": {\"peso\": 18.1, \"porcentaje\": 0.1093}, \"Amigos y relaciones\": {\"peso\": 84.9, \"porcentaje\": 0.1123}, \"Académico\": {\"peso\": 64.1, \"porcentaje\": 0.1108}, \"Entorno en clase\": {\"peso\": 100, \"porcentaje\": 0.1108}, \"Entorno exterior\": {\"peso\": 82.2, \"porcentaje\": 0.1108}, \"Actividades extraescolares\": {\"peso\": 8.1, \"porcentaje\": 0.1123}, \"Autopercepción y emociones\": {\"peso\": 81.2, \"porcentaje\": 0.1138}, \"Relación con profesores\": {\"peso\": 7.2, \"porcentaje\": 0.1108}, \"General\": {\"peso\": 96.4, \"porcentaje\": 0.1093}}",
+  "objetivo": "Exploración"
+},
+{
+  "_id": {
+    "$oid": "d138a41d3174c20fee86ddf9"
+  },
+  "nombre": "Diego",
+  "apellidos": "Iglesias Soler",
+  "ambitos": "{\"Familia\": {\"peso\": 48.6, \"porcentaje\": 0.1004}, \"Amigos y relaciones\": {\"peso\": 44.4, \"porcentaje\": 0.0579}, \"Académico\": {\"peso\": 39.3, \"porcentaje\": 0.0946}, \"Entorno en clase\": {\"peso\": 99.4, \"porcentaje\": 0.2162}, \"Entorno exterior\": {\"peso\": 38.0, \"porcentaje\": 0.0598}, \"Actividades extraescolares\": {\"peso\": 46.8, \"porcentaje\": 0.0637}, \"Autopercepción y emociones\": {\"peso\": 31.2, \"porcentaje\": 0.0598}, \"Relación con profesores\": {\"peso\": 51.4, \"porcentaje\": 0.1506}, \"General\": {\"peso\": 100, \"porcentaje\": 0.1969}}",
+  "objetivo": "Consolidación"
+},
+{
+  "_id": {
+    "$oid": "c22b34d5ad0838762a084d86"
+  },
+  "nombre": "María",
+  "apellidos": "Navarro Delgado",
+  "ambitos": "{\"Familia\": {\"peso\": 17.1, \"porcentaje\": 0.1151}, \"Amigos y relaciones\": {\"peso\": 100, \"porcentaje\": 0.1121}, \"Académico\": {\"peso\": 45.7, \"porcentaje\": 0.1106}, \"Entorno en clase\": {\"peso\": 100, \"porcentaje\": 0.1106}, \"Entorno exterior\": {\"peso\": 68.5, \"porcentaje\": 0.1121}, \"Actividades extraescolares\": {\"peso\": 74.8, \"porcentaje\": 0.1091}, \"Autopercepción y emociones\": {\"peso\": 88.3, \"porcentaje\": 0.1136}, \"Relación con profesores\": {\"peso\": 6.7, \"porcentaje\": 0.1076}, \"General\": {\"peso\": 59.3, \"porcentaje\": 0.1091}}",
+  "objetivo": "Exploración"
+},
+{
+  "_id": {
+    "$oid": "c6ad49ad9b5c18fa0bd8f916"
+  },
+  "nombre": "Álvaro",
+  "apellidos": "Méndez Lara",
+  "ambitos": "{\"Familia\": {\"peso\": 27.7, \"porcentaje\": 0.0618}, \"Amigos y relaciones\": {\"peso\": 56.5, \"porcentaje\": 0.1603}, \"Académico\": {\"peso\": 42.1, \"porcentaje\": 0.1102}, \"Entorno en clase\": {\"peso\": 63.1, \"porcentaje\": 0.1402}, \"Entorno exterior\": {\"peso\": 41.2, \"porcentaje\": 0.1102}, \"Actividades extraescolares\": {\"peso\": 50.4, \"porcentaje\": 0.1185}, \"Autopercepción y emociones\": {\"peso\": 72.9, \"porcentaje\": 0.1653}, \"Relación con profesores\": {\"peso\": 20.7, \"porcentaje\": 0.0668}, \"General\": {\"peso\": 3.2, \"porcentaje\": 0.0668}}",
+  "objetivo": "Predeterminado"
+},
+{
+  "_id": {
+    "$oid": "7582e9ffe807ef7095d77e25"
+  },
+  "nombre": "Raquel",
+  "apellidos": "Díaz González",
+  "ambitos": "{\"Familia\": {\"peso\": 6.3, \"porcentaje\": 0.1949}, \"Amigos y relaciones\": {\"peso\": 84.6, \"porcentaje\": 0.0643}, \"Académico\": {\"peso\": 69.0, \"porcentaje\": 0.0663}, \"Entorno en clase\": {\"peso\": 67.2, \"porcentaje\": 0.1131}, \"Entorno exterior\": {\"peso\": 63.8, \"porcentaje\": 0.0955}, \"Actividades extraescolares\": {\"peso\": 70.0, \"porcentaje\": 0.0799}, \"Autopercepción y emociones\": {\"peso\": 69.1, \"porcentaje\": 0.0682}, \"Relación con profesores\": {\"peso\": 11.0, \"porcentaje\": 0.2008}, \"General\": {\"peso\": 73.5, \"porcentaje\": 0.117}}",
+  "objetivo": "Prevención"
+},
+{
+  "_id": {
+    "$oid": "37831a108e04c30311deee3a"
+  },
+  "nombre": "Clara",
+  "apellidos": "Méndez Lara",
+  "ambitos": "{\"Familia\": {\"peso\": 64.4, \"porcentaje\": 0.0663}, \"Amigos y relaciones\": {\"peso\": 94.8, \"porcentaje\": 0.1412}, \"Académico\": {\"peso\": 99.9, \"porcentaje\": 0.1701}, \"Entorno en clase\": {\"peso\": 100, \"porcentaje\": 0.1395}, \"Entorno exterior\": {\"peso\": 59.2, \"porcentaje\": 0.0748}, \"Actividades extraescolares\": {\"peso\": 99.7, \"porcentaje\": 0.1497}, \"Autopercepción y emociones\": {\"peso\": 72.0, \"porcentaje\": 0.0935}, \"Relación con profesores\": {\"peso\": 43.0, \"porcentaje\": 0.0544}, \"General\": {\"peso\": 77.8, \"porcentaje\": 0.1105}}",
+  "objetivo": "Predeterminado"
+},
+{
+  "_id": {
+    "$oid": "c234f196e2d51084781881e4"
+  },
+  "nombre": "Emma",
+  "apellidos": "Peña Herrera",
+  "ambitos": "{\"Familia\": {\"peso\": 33.1, \"porcentaje\": 0.1134}, \"Amigos y relaciones\": {\"peso\": 79.6, \"porcentaje\": 0.1105}, \"Académico\": {\"peso\": 87.8, \"porcentaje\": 0.1134}, \"Entorno en clase\": {\"peso\": 84.0, \"porcentaje\": 0.1119}, \"Entorno exterior\": {\"peso\": 65.8, \"porcentaje\": 0.1105}, \"Actividades extraescolares\": {\"peso\": 100, \"porcentaje\": 0.109}, \"Autopercepción y emociones\": {\"peso\": 83.9, \"porcentaje\": 0.1119}, \"Relación con profesores\": {\"peso\": 1.8, \"porcentaje\": 0.109}, \"General\": {\"peso\": 25.4, \"porcentaje\": 0.1105}}",
+  "objetivo": "Exploración"
+},
+{
+  "_id": {
+    "$oid": "243bc161fed28a1bbf99d84e"
+  },
+  "nombre": "Diego",
+  "apellidos": "Pérez Rodríguez",
+  "ambitos": "{\"Familia\": {\"peso\": 46.7, \"porcentaje\": 0.075}, \"Amigos y relaciones\": {\"peso\": 84.7, \"porcentaje\": 0.1396}, \"Académico\": {\"peso\": 72.4, \"porcentaje\": 0.1099}, \"Entorno en clase\": {\"peso\": 100, \"porcentaje\": 0.185}, \"Entorno exterior\": {\"peso\": 66.7, \"porcentaje\": 0.0942}, \"Actividades extraescolares\": {\"peso\": 81.5, \"porcentaje\": 0.1571}, \"Autopercepción y emociones\": {\"peso\": 66.6, \"porcentaje\": 0.0925}, \"Relación con profesores\": {\"peso\": 42.9, \"porcentaje\": 0.0593}, \"General\": {\"peso\": 65.8, \"porcentaje\": 0.0873}}",
+  "objetivo": "Predeterminado"
+},
+{
+  "_id": {
+    "$oid": "6483097269ba76bdf8d3b54d"
+  },
+  "nombre": "Alicia",
+  "apellidos": "León Santos",
+  "ambitos": "{\"Familia\": {\"peso\": 56.5, \"porcentaje\": 0.1248}, \"Amigos y relaciones\": {\"peso\": 91.3, \"porcentaje\": 0.1871}, \"Académico\": {\"peso\": 52.9, \"porcentaje\": 0.0877}, \"Entorno en clase\": {\"peso\": 44.0, \"porcentaje\": 0.0585}, \"Entorno exterior\": {\"peso\": 67.7, \"porcentaje\": 0.1287}, \"Actividades extraescolares\": {\"peso\": 99.1, \"porcentaje\": 0.2144}, \"Autopercepción y emociones\": {\"peso\": 56.2, \"porcentaje\": 0.076}, \"Relación con profesores\": {\"peso\": 46.9, \"porcentaje\": 0.0585}, \"General\": {\"peso\": 42.4, \"porcentaje\": 0.0643}}",
+  "objetivo": "Consolidación"
+},
+{
+  "_id": {
+    "$oid": "89cb43198990ea80ee4391f1"
+  },
+  "nombre": "Daniel",
+  "apellidos": "Gutiérrez Castro",
+  "ambitos": "{\"Familia\": {\"peso\": 60.5, \"porcentaje\": 0.0782}, \"Amigos y relaciones\": {\"peso\": 34.1, \"porcentaje\": 0.1851}, \"Académico\": {\"peso\": 57.5, \"porcentaje\": 0.1145}, \"Entorno en clase\": {\"peso\": 63.4, \"porcentaje\": 0.0935}, \"Entorno exterior\": {\"peso\": 66.1, \"porcentaje\": 0.0592}, \"Actividades extraescolares\": {\"peso\": 60.4, \"porcentaje\": 0.0592}, \"Autopercepción y emociones\": {\"peso\": 34.6, \"porcentaje\": 0.1145}, \"Relación con profesores\": {\"peso\": 75.8, \"porcentaje\": 0.0611}, \"General\": {\"peso\": 4.7, \"porcentaje\": 0.2347}}",
+  "objetivo": "Prevención"
+},
+{
+  "_id": {
+    "$oid": "6899d174ad50c2472b125b26"
+  },
+  "nombre": "Emma",
+  "apellidos": "Ruiz Fernández",
+  "ambitos": "{\"Familia\": {\"peso\": 64.7, \"porcentaje\": 0.1154}, \"Amigos y relaciones\": {\"peso\": 76.0, \"porcentaje\": 0.1608}, \"Académico\": {\"peso\": 93.6, \"porcentaje\": 0.1888}, \"Entorno en clase\": {\"peso\": 74.9, \"porcentaje\": 0.0997}, \"Entorno exterior\": {\"peso\": 73.0, \"porcentaje\": 0.1241}, \"Actividades extraescolares\": {\"peso\": 55.7, \"porcentaje\": 0.0944}, \"Autopercepción y emociones\": {\"peso\": 47.3, \"porcentaje\": 0.0717}, \"Relación con profesores\": {\"peso\": 15.3, \"porcentaje\": 0.0577}, \"General\": {\"peso\": 48.5, \"porcentaje\": 0.0874}}",
+  "objetivo": "Predeterminado"
+},
+{
+  "_id": {
+    "$oid": "3ff156e827381f5f90b8b6c7"
+  },
+  "nombre": "Javier",
+  "apellidos": "Pardo Méndez",
+  "ambitos": "{\"Familia\": {\"peso\": 63.1, \"porcentaje\": 0.1635}, \"Amigos y relaciones\": {\"peso\": 81.3, \"porcentaje\": 0.0589}, \"Académico\": {\"peso\": 54.9, \"porcentaje\": 0.192}, \"Entorno en clase\": {\"peso\": 65.0, \"porcentaje\": 0.0627}, \"Entorno exterior\": {\"peso\": 56.0, \"porcentaje\": 0.1217}, \"Actividades extraescolares\": {\"peso\": 62.3, \"porcentaje\": 0.1388}, \"Autopercepción y emociones\": {\"peso\": 92.4, \"porcentaje\": 0.0589}, \"Relación con profesores\": {\"peso\": 55.2, \"porcentaje\": 0.135}, \"General\": {\"peso\": 60.5, \"porcentaje\": 0.0684}}",
+  "objetivo": "Prevención"
+},
+{
+  "_id": {
+    "$oid": "1c16cff750d26f11970f2788"
+  },
+  "nombre": "Laura",
+  "apellidos": "Romero Navarro",
+  "ambitos": "{\"Familia\": {\"peso\": 30.9, \"porcentaje\": 0.1135}, \"Amigos y relaciones\": {\"peso\": 51.7, \"porcentaje\": 0.1135}, \"Académico\": {\"peso\": 39.3, \"porcentaje\": 0.1104}, \"Entorno en clase\": {\"peso\": 47.5, \"porcentaje\": 0.112}, \"Entorno exterior\": {\"peso\": 46.7, \"porcentaje\": 0.1089}, \"Actividades extraescolares\": {\"peso\": 76.6, \"porcentaje\": 0.1135}, \"Autopercepción y emociones\": {\"peso\": 47.3, \"porcentaje\": 0.1089}, \"Relación con profesores\": {\"peso\": 79.9, \"porcentaje\": 0.1104}, \"General\": {\"peso\": 49.1, \"porcentaje\": 0.1089}}",
+  "objetivo": "Exploración"
+},
+{
+  "_id": {
+    "$oid": "40fa14c34bfdb40c34b8f5f2"
+  },
+  "nombre": "Julia",
+  "apellidos": "Campos Cabrera",
+  "ambitos": "{\"Familia\": {\"peso\": 72.3, \"porcentaje\": 0.1135}, \"Amigos y relaciones\": {\"peso\": 76.9, \"porcentaje\": 0.1135}, \"Académico\": {\"peso\": 53.0, \"porcentaje\": 0.1104}, \"Entorno en clase\": {\"peso\": 61.0, \"porcentaje\": 0.1104}, \"Entorno exterior\": {\"peso\": 66.4, \"porcentaje\": 0.112}, \"Actividades extraescolares\": {\"peso\": 78.0, \"porcentaje\": 0.1104}, \"Autopercepción y emociones\": {\"peso\": 79.2, \"porcentaje\": 0.112}, \"Relación con profesores\": {\"peso\": 72.0, \"porcentaje\": 0.1089}, \"General\": {\"peso\": 54.8, \"porcentaje\": 0.1089}}",
+  "objetivo": "Exploración"
+},
+{
+  "_id": {
+    "$oid": "ef083721712dfa334dfb9755"
+  },
+  "nombre": "Nuria",
+  "apellidos": "Martínez Sánchez",
+  "ambitos": "{\"Familia\": {\"peso\": 62.7, \"porcentaje\": 0.1131}, \"Amigos y relaciones\": {\"peso\": 96.3, \"porcentaje\": 0.1131}, \"Académico\": {\"peso\": 68.7, \"porcentaje\": 0.1101}, \"Entorno en clase\": {\"peso\": 48.3, \"porcentaje\": 0.1087}, \"Entorno exterior\": {\"peso\": 51.7, \"porcentaje\": 0.1087}, \"Actividades extraescolares\": {\"peso\": 80.7, \"porcentaje\": 0.1116}, \"Autopercepción y emociones\": {\"peso\": 28.9, \"porcentaje\": 0.1131}, \"Relación con profesores\": {\"peso\": 95.6, \"porcentaje\": 0.1116}, \"General\": {\"peso\": 62.0, \"porcentaje\": 0.1101}}",
+  "objetivo": "Exploración"
+},
+{
+  "_id": {
+    "$oid": "921b0cbfd0ba1dddd92a1905"
+  },
+  "nombre": "Sofía",
+  "apellidos": "Ruiz Fernández",
+  "ambitos": "{\"Familia\": {\"peso\": 84.2, \"porcentaje\": 0.0625}, \"Amigos y relaciones\": {\"peso\": 84.0, \"porcentaje\": 0.1705}, \"Académico\": {\"peso\": 88.9, \"porcentaje\": 0.0682}, \"Entorno en clase\": {\"peso\": 77.8, \"porcentaje\": 0.1496}, \"Entorno exterior\": {\"peso\": 100, \"porcentaje\": 0.0606}, \"Actividades extraescolares\": {\"peso\": 67.8, \"porcentaje\": 0.108}, \"Autopercepción y emociones\": {\"peso\": 43.1, \"porcentaje\": 0.2235}, \"Relación con profesores\": {\"peso\": 96.8, \"porcentaje\": 0.0606}, \"General\": {\"peso\": 79.1, \"porcentaje\": 0.0966}}",
+  "objetivo": "Prevención"
+},
+{
+  "_id": {
+    "$oid": "02b805e308f39c5c1d31fdff"
+  },
+  "nombre": "Andrés",
+  "apellidos": "Molina Lozano",
+  "ambitos": "{\"Familia\": {\"peso\": 100, \"porcentaje\": 0.1108}, \"Amigos y relaciones\": {\"peso\": 99.6, \"porcentaje\": 0.1153}, \"Académico\": {\"peso\": 83.4, \"porcentaje\": 0.1123}, \"Entorno en clase\": {\"peso\": 62.2, \"porcentaje\": 0.1108}, \"Entorno exterior\": {\"peso\": 47.2, \"porcentaje\": 0.1108}, \"Actividades extraescolares\": {\"peso\": 51.2, \"porcentaje\": 0.1077}, \"Autopercepción y emociones\": {\"peso\": 67.5, \"porcentaje\": 0.1108}, \"Relación con profesores\": {\"peso\": 89.0, \"porcentaje\": 0.1138}, \"General\": {\"peso\": 73.5, \"porcentaje\": 0.1077}}",
+  "objetivo": "Exploración"
+},
+{
+  "_id": {
+    "$oid": "56b62e314a8945f50658e887"
+  },
+  "nombre": "Raquel",
+  "apellidos": "García López",
+  "ambitos": "{\"Familia\": {\"peso\": 100, \"porcentaje\": 0.109}, \"Amigos y relaciones\": {\"peso\": 85.0, \"porcentaje\": 0.109}, \"Académico\": {\"peso\": 83.4, \"porcentaje\": 0.1119}, \"Entorno en clase\": {\"peso\": 100, \"porcentaje\": 0.1104}, \"Entorno exterior\": {\"peso\": 60.2, \"porcentaje\": 0.1104}, \"Actividades extraescolares\": {\"peso\": 68.0, \"porcentaje\": 0.1104}, \"Autopercepción y emociones\": {\"peso\": 52.5, \"porcentaje\": 0.1119}, \"Relación con profesores\": {\"peso\": 76.0, \"porcentaje\": 0.1119}, \"General\": {\"peso\": 98.6, \"porcentaje\": 0.1149}}",
+  "objetivo": "Exploración"
+},
+{
+  "_id": {
+    "$oid": "515540fd81a3abd3e2518503"
+  },
+  "nombre": "Iván",
+  "apellidos": "Ortega Rubio",
+  "ambitos": "{\"Familia\": {\"peso\": 100, \"porcentaje\": 0.1124}, \"Amigos y relaciones\": {\"peso\": 84.0, \"porcentaje\": 0.1124}, \"Académico\": {\"peso\": 90.7, \"porcentaje\": 0.1124}, \"Entorno en clase\": {\"peso\": 83.7, \"porcentaje\": 0.1124}, \"Entorno exterior\": {\"peso\": 60.5, \"porcentaje\": 0.1079}, \"Actividades extraescolares\": {\"peso\": 62.9, \"porcentaje\": 0.1124}, \"Autopercepción y emociones\": {\"peso\": 35.5, \"porcentaje\": 0.1109}, \"Relación con profesores\": {\"peso\": 100, \"porcentaje\": 0.1094}, \"General\": {\"peso\": 91.1, \"porcentaje\": 0.1094}}",
+  "objetivo": "Exploración"
+},
+{
+  "_id": {
+    "$oid": "fa0162ed2e1d5d5b96a5bab0"
+  },
+  "nombre": "Andrés",
+  "apellidos": "Torres Ramos",
+  "ambitos": "{\"Familia\": {\"peso\": 84.1, \"porcentaje\": 0.0651}, \"Amigos y relaciones\": {\"peso\": 78.4, \"porcentaje\": 0.0651}, \"Académico\": {\"peso\": 76.0, \"porcentaje\": 0.1015}, \"Entorno en clase\": {\"peso\": 77.8, \"porcentaje\": 0.09}, \"Entorno exterior\": {\"peso\": 78.4, \"porcentaje\": 0.0958}, \"Actividades extraescolares\": {\"peso\": 60.0, \"porcentaje\": 0.1935}, \"Autopercepción y emociones\": {\"peso\": 56.6, \"porcentaje\": 0.159}, \"Relación con profesores\": {\"peso\": 76.2, \"porcentaje\": 0.1667}, \"General\": {\"peso\": 75.2, \"porcentaje\": 0.0632}}",
+  "objetivo": "Prevención"
+},
+{
+  "_id": {
+    "$oid": "f27f22932a59728b40ed9c0d"
+  },
+  "nombre": "Sergio",
+  "apellidos": "Iglesias Soler",
+  "ambitos": "{\"Familia\": {\"peso\": 100, \"porcentaje\": 0.1119}, \"Amigos y relaciones\": {\"peso\": 17.0, \"porcentaje\": 0.1134}, \"Académico\": {\"peso\": 51.0, \"porcentaje\": 0.1105}, \"Entorno en clase\": {\"peso\": 55.9, \"porcentaje\": 0.109}, \"Entorno exterior\": {\"peso\": 53.4, \"porcentaje\": 0.1134}, \"Actividades extraescolares\": {\"peso\": 74.5, \"porcentaje\": 0.1134}, \"Autopercepción y emociones\": {\"peso\": 37.4, \"porcentaje\": 0.109}, \"Relación con profesores\": {\"peso\": 70.5, \"porcentaje\": 0.1105}, \"General\": {\"peso\": 23.0, \"porcentaje\": 0.109}}",
+  "objetivo": "Exploración"
+},
+{
+  "_id": {
+    "$oid": "ca5a8399fc8b4f9620b423d8"
+  },
+  "nombre": "Laura",
+  "apellidos": "Peña Herrera",
+  "ambitos": "{\"Familia\": {\"peso\": 96.7, \"porcentaje\": 0.2008}, \"Amigos y relaciones\": {\"peso\": 27.2, \"porcentaje\": 0.0669}, \"Académico\": {\"peso\": 45.9, \"porcentaje\": 0.063}, \"Entorno en clase\": {\"peso\": 72.0, \"porcentaje\": 0.2047}, \"Entorno exterior\": {\"peso\": 25.3, \"porcentaje\": 0.065}, \"Actividades extraescolares\": {\"peso\": 55.2, \"porcentaje\": 0.1594}, \"Autopercepción y emociones\": {\"peso\": 36.8, \"porcentaje\": 0.0768}, \"Relación con profesores\": {\"peso\": 14.4, \"porcentaje\": 0.063}, \"General\": {\"peso\": 55.5, \"porcentaje\": 0.1004}}",
+  "objetivo": "Consolidación"
+},
+{
+  "_id": {
+    "$oid": "f5dfb50c1e3aef211dc850a9"
+  },
+  "nombre": "Ana",
+  "apellidos": "Morales Vidal",
+  "ambitos": "{\"Familia\": {\"peso\": 98.0, \"porcentaje\": 0.1793}, \"Amigos y relaciones\": {\"peso\": 56.7, \"porcentaje\": 0.1142}, \"Académico\": {\"peso\": 80.2, \"porcentaje\": 0.1529}, \"Entorno en clase\": {\"peso\": 58.0, \"porcentaje\": 0.0931}, \"Entorno exterior\": {\"peso\": 23.3, \"porcentaje\": 0.058}, \"Actividades extraescolares\": {\"peso\": 43.5, \"porcentaje\": 0.1002}, \"Autopercepción y emociones\": {\"peso\": 43.8, \"porcentaje\": 0.0931}, \"Relación con profesores\": {\"peso\": 55.8, \"porcentaje\": 0.1301}, \"General\": {\"peso\": 42.6, \"porcentaje\": 0.0791}}",
+  "objetivo": "Predeterminado"
+},
+{
+  "_id": {
+    "$oid": "1556d36cab0d94b45ddb9e28"
+  },
+  "nombre": "Óscar",
+  "apellidos": "Vidal Campos",
+  "ambitos": "{\"Familia\": {\"peso\": 29.1, \"porcentaje\": 0.0553}, \"Amigos y relaciones\": {\"peso\": 42.4, \"porcentaje\": 0.0592}, \"Académico\": {\"peso\": 78.0, \"porcentaje\": 0.1832}, \"Entorno en clase\": {\"peso\": 86.8, \"porcentaje\": 0.2252}, \"Entorno exterior\": {\"peso\": 27.3, \"porcentaje\": 0.0592}, \"Actividades extraescolares\": {\"peso\": 66.9, \"porcentaje\": 0.1202}, \"Autopercepción y emociones\": {\"peso\": 64.2, \"porcentaje\": 0.0954}, \"Relación con profesores\": {\"peso\": 10.9, \"porcentaje\": 0.0611}, \"General\": {\"peso\": 65.7, \"porcentaje\": 0.1412}}",
+  "objetivo": "Consolidación"
+},
+{
+  "_id": {
+    "$oid": "8d8564855d43e0e3a6d2a4b6"
+  },
+  "nombre": "Isabel",
+  "apellidos": "Sáez Molina",
+  "ambitos": "{\"Familia\": {\"peso\": 95.6, \"porcentaje\": 0.1718}, \"Amigos y relaciones\": {\"peso\": 70.8, \"porcentaje\": 0.0945}, \"Académico\": {\"peso\": 68.4, \"porcentaje\": 0.1512}, \"Entorno en clase\": {\"peso\": 60.4, \"porcentaje\": 0.1117}, \"Entorno exterior\": {\"peso\": 68.3, \"porcentaje\": 0.1392}, \"Actividades extraescolares\": {\"peso\": 41.0, \"porcentaje\": 0.0756}, \"Autopercepción y emociones\": {\"peso\": 40.9, \"porcentaje\": 0.0842}, \"Relación con profesores\": {\"peso\": 33.8, \"porcentaje\": 0.0842}, \"General\": {\"peso\": 43.7, \"porcentaje\": 0.0876}}",
+  "objetivo": "Predeterminado"
+},
+{
+  "_id": {
+    "$oid": "9d2731d2e5683e86d121842d"
+  },
+  "nombre": "Patricia",
+  "apellidos": "Rubio León",
+  "ambitos": "{\"Familia\": {\"peso\": 94.2, \"porcentaje\": 0.1585}, \"Amigos y relaciones\": {\"peso\": 86.4, \"porcentaje\": 0.1332}, \"Académico\": {\"peso\": 46.0, \"porcentaje\": 0.0742}, \"Entorno en clase\": {\"peso\": 82.9, \"porcentaje\": 0.1298}, \"Entorno exterior\": {\"peso\": 72.3, \"porcentaje\": 0.1012}, \"Actividades extraescolares\": {\"peso\": 76.2, \"porcentaje\": 0.1265}, \"Autopercepción y emociones\": {\"peso\": 49.4, \"porcentaje\": 0.086}, \"Relación con profesores\": {\"peso\": 73.4, \"porcentaje\": 0.1214}, \"General\": {\"peso\": 61.9, \"porcentaje\": 0.0691}}",
+  "objetivo": "Predeterminado"
+},
+{
+  "_id": {
+    "$oid": "710eec54ae8743afb705880b"
+  },
+  "nombre": "Paula",
+  "apellidos": "Rodríguez Gómez",
+  "ambitos": "{\"Familia\": {\"peso\": 94.9, \"porcentaje\": 0.1744}, \"Amigos y relaciones\": {\"peso\": 92.5, \"porcentaje\": 0.1416}, \"Académico\": {\"peso\": 48.9, \"porcentaje\": 0.0725}, \"Entorno en clase\": {\"peso\": 100, \"porcentaje\": 0.1623}, \"Entorno exterior\": {\"peso\": 76.1, \"porcentaje\": 0.1244}, \"Actividades extraescolares\": {\"peso\": 58.5, \"porcentaje\": 0.0881}, \"Autopercepción y emociones\": {\"peso\": 52.9, \"porcentaje\": 0.0604}, \"Relación con profesores\": {\"peso\": 55.9, \"porcentaje\": 0.0622}, \"General\": {\"peso\": 66.8, \"porcentaje\": 0.114}}",
+  "objetivo": "Predeterminado"
+},
+{
+  "_id": {
+    "$oid": "3ead0fc5e2cc88db65ed4e97"
+  },
+  "nombre": "Diego",
+  "apellidos": "Lozano Pardo",
+  "ambitos": "{\"Familia\": {\"peso\": 42.9, \"porcentaje\": 0.0574}, \"Amigos y relaciones\": {\"peso\": 84.7, \"porcentaje\": 0.1338}, \"Académico\": {\"peso\": 69.5, \"porcentaje\": 0.1721}, \"Entorno en clase\": {\"peso\": 35.3, \"porcentaje\": 0.0593}, \"Entorno exterior\": {\"peso\": 35.8, \"porcentaje\": 0.0612}, \"Actividades extraescolares\": {\"peso\": 52.4, \"porcentaje\": 0.1071}, \"Autopercepción y emociones\": {\"peso\": 100, \"porcentaje\": 0.2141}, \"Relación con profesores\": {\"peso\": 40.0, \"porcentaje\": 0.0574}, \"General\": {\"peso\": 54.0, \"porcentaje\": 0.1377}}",
+  "objetivo": "Consolidación"
+},
+{
+  "_id": {
+    "$oid": "33fc7a63a00cdc170b4df2cb"
+  },
+  "nombre": "Ana",
+  "apellidos": "Ramos Ibáñez",
+  "ambitos": "{\"Familia\": {\"peso\": 79.5, \"porcentaje\": 0.0784}, \"Amigos y relaciones\": {\"peso\": 91.0, \"porcentaje\": 0.0631}, \"Académico\": {\"peso\": 68.6, \"porcentaje\": 0.1797}, \"Entorno en clase\": {\"peso\": 83.0, \"porcentaje\": 0.0631}, \"Entorno exterior\": {\"peso\": 70.2, \"porcentaje\": 0.0784}, \"Actividades extraescolares\": {\"peso\": 13.6, \"porcentaje\": 0.2256}, \"Autopercepción y emociones\": {\"peso\": 70.3, \"porcentaje\": 0.0803}, \"Relación con profesores\": {\"peso\": 79.3, \"porcentaje\": 0.0803}, \"General\": {\"peso\": 69.0, \"porcentaje\": 0.1511}}",
+  "objetivo": "Prevención"
+},
+{
+  "_id": {
+    "$oid": "b2111bb397e485dc93d83052"
+  },
+  "nombre": "Marta",
+  "apellidos": "Torres Ramos",
+  "ambitos": "{\"Familia\": {\"peso\": 97.3, \"porcentaje\": 0.1822}, \"Amigos y relaciones\": {\"peso\": 36.8, \"porcentaje\": 0.0651}, \"Académico\": {\"peso\": 49.6, \"porcentaje\": 0.0781}, \"Entorno en clase\": {\"peso\": 78.0, \"porcentaje\": 0.132}, \"Entorno exterior\": {\"peso\": 100, \"porcentaje\": 0.1766}, \"Actividades extraescolares\": {\"peso\": 29.7, \"porcentaje\": 0.0688}, \"Autopercepción y emociones\": {\"peso\": 28.0, \"porcentaje\": 0.0632}, \"Relación con profesores\": {\"peso\": 23.3, \"porcentaje\": 0.0595}, \"General\": {\"peso\": 82.6, \"porcentaje\": 0.1747}}",
+  "objetivo": "Predeterminado"
+},
+{
+  "_id": {
+    "$oid": "ec0f2364541300c904e5a8b4"
+  },
+  "nombre": "Isabel",
+  "apellidos": "Méndez Lara",
+  "ambitos": "{\"Familia\": {\"peso\": 100, \"porcentaje\": 0.1118}, \"Amigos y relaciones\": {\"peso\": 38.5, \"porcentaje\": 0.1133}, \"Académico\": {\"peso\": 66.5, \"porcentaje\": 0.1088}, \"Entorno en clase\": {\"peso\": 100, \"porcentaje\": 0.1133}, \"Entorno exterior\": {\"peso\": 100, \"porcentaje\": 0.1148}, \"Actividades extraescolares\": {\"peso\": 19.7, \"porcentaje\": 0.1088}, \"Autopercepción y emociones\": {\"peso\": 46.2, \"porcentaje\": 0.1088}, \"Relación con profesores\": {\"peso\": 64.6, \"porcentaje\": 0.1103}, \"General\": {\"peso\": 90.7, \"porcentaje\": 0.1103}}",
+  "objetivo": "Exploración"
+},
+{
+  "_id": {
+    "$oid": "1fb26d57e5d3c5a253ad7f4e"
+  },
+  "nombre": "Pablo",
+  "apellidos": "Iglesias Soler",
+  "ambitos": "{\"Familia\": {\"peso\": 100, \"porcentaje\": 0.1008}, \"Amigos y relaciones\": {\"peso\": 79.0, \"porcentaje\": 0.1483}, \"Académico\": {\"peso\": 67.4, \"porcentaje\": 0.0589}, \"Entorno en clase\": {\"peso\": 97.0, \"porcentaje\": 0.1939}, \"Entorno exterior\": {\"peso\": 99.2, \"porcentaje\": 0.1882}, \"Actividades extraescolares\": {\"peso\": 66.8, \"porcentaje\": 0.1217}, \"Autopercepción y emociones\": {\"peso\": 72.1, \"porcentaje\": 0.0589}, \"Relación con profesores\": {\"peso\": 62.7, \"porcentaje\": 0.0627}, \"General\": {\"peso\": 38.2, \"porcentaje\": 0.0665}}",
+  "objetivo": "Consolidación"
+},
+{
+  "_id": {
+    "$oid": "335660b3cede7965bf4a12ca"
+  },
+  "nombre": "Paula",
+  "apellidos": "Marín Ríos",
+  "ambitos": "{\"Familia\": {\"peso\": 100, \"porcentaje\": 0.1133}, \"Amigos y relaciones\": {\"peso\": 67.4, \"porcentaje\": 0.1133}, \"Académico\": {\"peso\": 65.6, \"porcentaje\": 0.1088}, \"Entorno en clase\": {\"peso\": 100, \"porcentaje\": 0.1118}, \"Entorno exterior\": {\"peso\": 99.3, \"porcentaje\": 0.1103}, \"Actividades extraescolares\": {\"peso\": 20.7, \"porcentaje\": 0.1118}, \"Autopercepción y emociones\": {\"peso\": 60.6, \"porcentaje\": 0.1118}, \"Relación con profesores\": {\"peso\": 81.8, \"porcentaje\": 0.1088}, \"General\": {\"peso\": 78.5, \"porcentaje\": 0.1103}}",
+  "objetivo": "Exploración"
+},
+{
+  "_id": {
+    "$oid": "d52e16bfbe2c88c84000eee9"
+  },
+  "nombre": "Enrique",
+  "apellidos": "Hernández Jiménez",
+  "ambitos": "{\"Familia\": {\"peso\": 98.6, \"porcentaje\": 0.1136}, \"Amigos y relaciones\": {\"peso\": 42.2, \"porcentaje\": 0.1136}, \"Académico\": {\"peso\": 32.4, \"porcentaje\": 0.1106}, \"Entorno en clase\": {\"peso\": 60.3, \"porcentaje\": 0.1091}, \"Entorno exterior\": {\"peso\": 100, \"porcentaje\": 0.1091}, \"Actividades extraescolares\": {\"peso\": 0, \"porcentaje\": 0.1121}, \"Autopercepción y emociones\": {\"peso\": 76.3, \"porcentaje\": 0.1106}, \"Relación con profesores\": {\"peso\": 37.8, \"porcentaje\": 0.1106}, \"General\": {\"peso\": 72.6, \"porcentaje\": 0.1106}}",
+  "objetivo": "Exploración"
+},
+{
+  "_id": {
+    "$oid": "e6af28141e0ef6c6ae1037a4"
+  },
+  "nombre": "Sofía",
+  "apellidos": "Cordero Beltrán",
+  "ambitos": "{\"Familia\": {\"peso\": 99.1, \"porcentaje\": 0.0596}, \"Amigos y relaciones\": {\"peso\": 88.4, \"porcentaje\": 0.0726}, \"Académico\": {\"peso\": 84.1, \"porcentaje\": 0.0596}, \"Entorno en clase\": {\"peso\": 85.4, \"porcentaje\": 0.0894}, \"Entorno exterior\": {\"peso\": 85.1, \"porcentaje\": 0.095}, \"Actividades extraescolares\": {\"peso\": 31.0, \"porcentaje\": 0.2048}, \"Autopercepción y emociones\": {\"peso\": 73.7, \"porcentaje\": 0.1117}, \"Relación con profesores\": {\"peso\": 44.2, \"porcentaje\": 0.1974}, \"General\": {\"peso\": 78.2, \"porcentaje\": 0.1099}}",
+  "objetivo": "Prevención"
+},
+{
+  "_id": {
+    "$oid": "2131f4c900332a4dd38354ce"
+  },
+  "nombre": "Javier",
+  "apellidos": "Soler Blanco",
+  "ambitos": "{\"Familia\": {\"peso\": 100, \"porcentaje\": 0.1799}, \"Amigos y relaciones\": {\"peso\": 100, \"porcentaje\": 0.1853}, \"Académico\": {\"peso\": 61.9, \"porcentaje\": 0.1259}, \"Entorno en clase\": {\"peso\": 29.4, \"porcentaje\": 0.0647}, \"Entorno exterior\": {\"peso\": 84.7, \"porcentaje\": 0.1583}, \"Actividades extraescolares\": {\"peso\": 30.9, \"porcentaje\": 0.0629}, \"Autopercepción y emociones\": {\"peso\": 42.0, \"porcentaje\": 0.0773}, \"Relación con profesores\": {\"peso\": 45.8, \"porcentaje\": 0.0809}, \"General\": {\"peso\": 19.5, \"porcentaje\": 0.0647}}",
+  "objetivo": "Predeterminado"
+},
+{
+  "_id": {
+    "$oid": "cc651add8d044e6814d3307b"
+  },
+  "nombre": "Javier",
+  "apellidos": "Ríos Cordero",
+  "ambitos": "{\"Familia\": {\"peso\": 85.9, \"porcentaje\": 0.0651}, \"Amigos y relaciones\": {\"peso\": 83.2, \"porcentaje\": 0.0762}, \"Académico\": {\"peso\": 77.0, \"porcentaje\": 0.0874}, \"Entorno en clase\": {\"peso\": 66.2, \"porcentaje\": 0.1673}, \"Entorno exterior\": {\"peso\": 93.5, \"porcentaje\": 0.0948}, \"Actividades extraescolares\": {\"peso\": 90.8, \"porcentaje\": 0.0781}, \"Autopercepción y emociones\": {\"peso\": 71.2, \"porcentaje\": 0.1896}, \"Relación con profesores\": {\"peso\": 52.7, \"porcentaje\": 0.1784}, \"General\": {\"peso\": 98.1, \"porcentaje\": 0.0632}}",
+  "objetivo": "Prevención"
+},
+{
+  "_id": {
+    "$oid": "12e0666943ccbd030885dda0"
+  },
+  "nombre": "Rocío",
+  "apellidos": "Santos Gil",
+  "ambitos": "{\"Familia\": {\"peso\": 53.0, \"porcentaje\": 0.0584}, \"Amigos y relaciones\": {\"peso\": 57.4, \"porcentaje\": 0.0623}, \"Académico\": {\"peso\": 0, \"porcentaje\": 0.2062}, \"Entorno en clase\": {\"peso\": 50.8, \"porcentaje\": 0.0778}, \"Entorno exterior\": {\"peso\": 55.1, \"porcentaje\": 0.0759}, \"Actividades extraescolares\": {\"peso\": 0, \"porcentaje\": 0.179}, \"Autopercepción y emociones\": {\"peso\": 65.3, \"porcentaje\": 0.0603}, \"Relación con profesores\": {\"peso\": 1.8, \"porcentaje\": 0.1926}, \"General\": {\"peso\": 47.4, \"porcentaje\": 0.0875}}",
+  "objetivo": "Prevención"
+},
+{
+  "_id": {
+    "$oid": "4d6007600befa16017ce5a20"
+  },
+  "nombre": "Andrés",
+  "apellidos": "Muñoz Romero",
+  "ambitos": "{\"Familia\": {\"peso\": 69.5, \"porcentaje\": 0.0904}, \"Amigos y relaciones\": {\"peso\": 79.1, \"porcentaje\": 0.0727}, \"Académico\": {\"peso\": 6.5, \"porcentaje\": 0.224}, \"Entorno en clase\": {\"peso\": 69.8, \"porcentaje\": 0.167}, \"Entorno exterior\": {\"peso\": 68.5, \"porcentaje\": 0.0648}, \"Actividades extraescolares\": {\"peso\": 71.7, \"porcentaje\": 0.0629}, \"Autopercepción y emociones\": {\"peso\": 95.5, \"porcentaje\": 0.0629}, \"Relación con profesores\": {\"peso\": 47.0, \"porcentaje\": 0.1375}, \"General\": {\"peso\": 58.7, \"porcentaje\": 0.1179}}",
+  "objetivo": "Prevención"
+},
+{
+  "_id": {
+    "$oid": "e95211892bb876b1d6091ec1"
+  },
+  "nombre": "Emma",
+  "apellidos": "Soler Blanco",
+  "ambitos": "{\"Familia\": {\"peso\": 65.7, \"porcentaje\": 0.0575}, \"Amigos y relaciones\": {\"peso\": 53.6, \"porcentaje\": 0.0612}, \"Académico\": {\"peso\": 58.6, \"porcentaje\": 0.0612}, \"Entorno en clase\": {\"peso\": 60.0, \"porcentaje\": 0.0594}, \"Entorno exterior\": {\"peso\": 58.3, \"porcentaje\": 0.0594}, \"Actividades extraescolares\": {\"peso\": 38.4, \"porcentaje\": 0.1744}, \"Autopercepción y emociones\": {\"peso\": 47.9, \"porcentaje\": 0.1447}, \"Relación con profesores\": {\"peso\": 32.0, \"porcentaje\": 0.167}, \"General\": {\"peso\": 21.7, \"porcentaje\": 0.2152}}",
+  "objetivo": "Prevención"
+},
+{
+  "_id": {
+    "$oid": "5ca175374c0fdc207d674995"
+  },
+  "nombre": "Manuel",
+  "apellidos": "Soler Blanco",
+  "ambitos": "{\"Familia\": {\"peso\": 100, \"porcentaje\": 0.1634}, \"Amigos y relaciones\": {\"peso\": 99.1, \"porcentaje\": 0.1758}, \"Académico\": {\"peso\": 42.5, \"porcentaje\": 0.0657}, \"Entorno en clase\": {\"peso\": 33.1, \"porcentaje\": 0.0604}, \"Entorno exterior\": {\"peso\": 96.8, \"porcentaje\": 0.1758}, \"Actividades extraescolares\": {\"peso\": 65.2, \"porcentaje\": 0.1048}, \"Autopercepción y emociones\": {\"peso\": 34.8, \"porcentaje\": 0.0551}, \"Relación con profesores\": {\"peso\": 60.8, \"porcentaje\": 0.0977}, \"General\": {\"peso\": 58.2, \"porcentaje\": 0.1012}}",
+  "objetivo": "Predeterminado"
+},
+{
+  "_id": {
+    "$oid": "6d96f9d9c3edea06de95b359"
+  },
+  "nombre": "Nuria",
+  "apellidos": "Cruz Peña",
+  "ambitos": "{\"Familia\": {\"peso\": 94.8, \"porcentaje\": 0.1898}, \"Amigos y relaciones\": {\"peso\": 35.2, \"porcentaje\": 0.0588}, \"Académico\": {\"peso\": 67.1, \"porcentaje\": 0.074}, \"Entorno en clase\": {\"peso\": 39.4, \"porcentaje\": 0.0588}, \"Entorno exterior\": {\"peso\": 38.4, \"porcentaje\": 0.0607}, \"Actividades extraescolares\": {\"peso\": 69.8, \"porcentaje\": 0.0607}, \"Autopercepción y emociones\": {\"peso\": 67.5, \"porcentaje\": 0.1404}, \"Relación con profesores\": {\"peso\": 84.8, \"porcentaje\": 0.1556}, \"General\": {\"peso\": 100, \"porcentaje\": 0.2011}}",
+  "objetivo": "Consolidación"
+},
+{
+  "_id": {
+    "$oid": "dc738d8f00069d9f88a36800"
+  },
+  "nombre": "Daniel",
+  "apellidos": "Vázquez Vargas",
+  "ambitos": "{\"Familia\": {\"peso\": 97.2, \"porcentaje\": 0.0519}, \"Amigos y relaciones\": {\"peso\": 79.6, \"porcentaje\": 0.0649}, \"Académico\": {\"peso\": 59.2, \"porcentaje\": 0.2152}, \"Entorno en clase\": {\"peso\": 79.4, \"porcentaje\": 0.0612}, \"Entorno exterior\": {\"peso\": 80.2, \"porcentaje\": 0.1206}, \"Actividades extraescolares\": {\"peso\": 82.6, \"porcentaje\": 0.1002}, \"Autopercepción y emociones\": {\"peso\": 57.1, \"porcentaje\": 0.1948}, \"Relación con profesores\": {\"peso\": 81.3, \"porcentaje\": 0.0761}, \"General\": {\"peso\": 77.3, \"porcentaje\": 0.115}}",
+  "objetivo": "Prevención"
+},
+{
+  "_id": {
+    "$oid": "62efc773f630ebe454ae685a"
+  },
+  "nombre": "Nuria",
+  "apellidos": "Castro Molina",
+  "ambitos": "{\"Familia\": {\"peso\": 97.7, \"porcentaje\": 0.1141}, \"Amigos y relaciones\": {\"peso\": 97.8, \"porcentaje\": 0.1126}, \"Académico\": {\"peso\": 60.5, \"porcentaje\": 0.1126}, \"Entorno en clase\": {\"peso\": 29.9, \"porcentaje\": 0.1126}, \"Entorno exterior\": {\"peso\": 82.9, \"porcentaje\": 0.1081}, \"Actividades extraescolares\": {\"peso\": 60.2, \"porcentaje\": 0.1081}, \"Autopercepción y emociones\": {\"peso\": 29.9, \"porcentaje\": 0.1111}, \"Relación con profesores\": {\"peso\": 82.3, \"porcentaje\": 0.1096}, \"General\": {\"peso\": 86.6, \"porcentaje\": 0.1111}}",
+  "objetivo": "Exploración"
+},
+{
+  "_id": {
+    "$oid": "057d4b1bd090c1eca12e936a"
+  },
+  "nombre": "Raúl",
+  "apellidos": "Ortega Rubio",
+  "ambitos": "{\"Familia\": {\"peso\": 54.2, \"porcentaje\": 0.0537}, \"Amigos y relaciones\": {\"peso\": 99.8, \"porcentaje\": 0.2207}, \"Académico\": {\"peso\": 35.6, \"porcentaje\": 0.0595}, \"Entorno en clase\": {\"peso\": 79.7, \"porcentaje\": 0.1305}, \"Entorno exterior\": {\"peso\": 97.9, \"porcentaje\": 0.1862}, \"Actividades extraescolares\": {\"peso\": 38.7, \"porcentaje\": 0.0653}, \"Autopercepción y emociones\": {\"peso\": 52.2, \"porcentaje\": 0.0595}, \"Relación con profesores\": {\"peso\": 30.9, \"porcentaje\": 0.0633}, \"General\": {\"peso\": 73.6, \"porcentaje\": 0.1612}}",
+  "objetivo": "Consolidación"
+},
+{
+  "_id": {
+    "$oid": "cd71e13f541edd5b661ecb1d"
+  },
+  "nombre": "Paula",
+  "apellidos": "Cabrera Gallardo",
+  "ambitos": "{\"Familia\": {\"peso\": 42.7, \"porcentaje\": 0.0914}, \"Amigos y relaciones\": {\"peso\": 98.8, \"porcentaje\": 0.1707}, \"Académico\": {\"peso\": 37.3, \"porcentaje\": 0.0897}, \"Entorno en clase\": {\"peso\": 36.8, \"porcentaje\": 0.0638}, \"Entorno exterior\": {\"peso\": 90.2, \"porcentaje\": 0.1793}, \"Actividades extraescolares\": {\"peso\": 41.9, \"porcentaje\": 0.1}, \"Autopercepción y emociones\": {\"peso\": 41.9, \"porcentaje\": 0.0741}, \"Relación con profesores\": {\"peso\": 19.2, \"porcentaje\": 0.0569}, \"General\": {\"peso\": 87.8, \"porcentaje\": 0.1741}}",
+  "objetivo": "Predeterminado"
+},
+{
+  "_id": {
+    "$oid": "7b360a18e04fac93cc38e69a"
+  },
+  "nombre": "Fernando",
+  "apellidos": "Díaz González",
+  "ambitos": "{\"Familia\": {\"peso\": 26.5, \"porcentaje\": 0.1597}, \"Amigos y relaciones\": {\"peso\": 42.1, \"porcentaje\": 0.0608}, \"Académico\": {\"peso\": 44.3, \"porcentaje\": 0.0589}, \"Entorno en clase\": {\"peso\": 34.6, \"porcentaje\": 0.1236}, \"Entorno exterior\": {\"peso\": 42.4, \"porcentaje\": 0.0817}, \"Actividades extraescolares\": {\"peso\": 10.1, \"porcentaje\": 0.2243}, \"Autopercepción y emociones\": {\"peso\": 36.7, \"porcentaje\": 0.1084}, \"Relación con profesores\": {\"peso\": 39.7, \"porcentaje\": 0.116}, \"General\": {\"peso\": 57.2, \"porcentaje\": 0.0665}}",
+  "objetivo": "Prevención"
+},
+{
+  "_id": {
+    "$oid": "8acebd6570d042283931e0b5"
+  },
+  "nombre": "Hugo",
+  "apellidos": "Blanco Esteban",
+  "ambitos": "{\"Familia\": {\"peso\": 46.4, \"porcentaje\": 0.0583}, \"Amigos y relaciones\": {\"peso\": 100.0, \"porcentaje\": 0.2117}, \"Académico\": {\"peso\": 51.1, \"porcentaje\": 0.0835}, \"Entorno en clase\": {\"peso\": 80.4, \"porcentaje\": 0.1107}, \"Entorno exterior\": {\"peso\": 96.0, \"porcentaje\": 0.2175}, \"Actividades extraescolares\": {\"peso\": 62.8, \"porcentaje\": 0.0621}, \"Autopercepción y emociones\": {\"peso\": 61.4, \"porcentaje\": 0.0583}, \"Relación con profesores\": {\"peso\": 82.8, \"porcentaje\": 0.1243}, \"General\": {\"peso\": 73.5, \"porcentaje\": 0.0738}}",
+  "objetivo": "Consolidación"
+},
+{
+  "_id": {
+    "$oid": "f1ec245674c2dfd3db12c26e"
+  },
+  "nombre": "Álvaro",
+  "apellidos": "Blanco Esteban",
+  "ambitos": "{\"Familia\": {\"peso\": 99.3, \"porcentaje\": 0.1679}, \"Amigos y relaciones\": {\"peso\": 99.1, \"porcentaje\": 0.1804}, \"Académico\": {\"peso\": 46.1, \"porcentaje\": 0.0911}, \"Entorno en clase\": {\"peso\": 31.8, \"porcentaje\": 0.0643}, \"Entorno exterior\": {\"peso\": 40.2, \"porcentaje\": 0.0607}, \"Actividades extraescolares\": {\"peso\": 55.6, \"porcentaje\": 0.1089}, \"Autopercepción y emociones\": {\"peso\": 78.5, \"porcentaje\": 0.1393}, \"Relación con profesores\": {\"peso\": 43.8, \"porcentaje\": 0.0857}, \"General\": {\"peso\": 49.8, \"porcentaje\": 0.1018}}",
+  "objetivo": "Predeterminado"
+},
+{
+  "_id": {
+    "$oid": "d567eea16ff9bb0d9ac1876f"
+  },
+  "nombre": "Julia",
+  "apellidos": "Ramos Ibáñez",
+  "ambitos": "{\"Familia\": {\"peso\": 91.0, \"porcentaje\": 0.1821}, \"Amigos y relaciones\": {\"peso\": 16.1, \"porcentaje\": 0.0804}, \"Académico\": {\"peso\": 58.9, \"porcentaje\": 0.1643}, \"Entorno en clase\": {\"peso\": 23.6, \"porcentaje\": 0.0714}, \"Entorno exterior\": {\"peso\": 60.9, \"porcentaje\": 0.1321}, \"Actividades extraescolares\": {\"peso\": 60.6, \"porcentaje\": 0.1446}, \"Autopercepción y emociones\": {\"peso\": 19.0, \"porcentaje\": 0.075}, \"Relación con profesores\": {\"peso\": 27.3, \"porcentaje\": 0.0643}, \"General\": {\"peso\": 31.1, \"porcentaje\": 0.0857}}",
+  "objetivo": "Predeterminado"
+},
+{
+  "_id": {
+    "$oid": "59894dd3817172f5a3ee1e55"
+  },
+  "nombre": "Sofía",
+  "apellidos": "Ramos Ibáñez",
+  "ambitos": "{\"Familia\": {\"peso\": 94.8, \"porcentaje\": 0.1493}, \"Amigos y relaciones\": {\"peso\": 98.3, \"porcentaje\": 0.1655}, \"Académico\": {\"peso\": 82.3, \"porcentaje\": 0.1313}, \"Entorno en clase\": {\"peso\": 38.4, \"porcentaje\": 0.0647}, \"Entorno exterior\": {\"peso\": 100, \"porcentaje\": 0.1619}, \"Actividades extraescolares\": {\"peso\": 80.6, \"porcentaje\": 0.1061}, \"Autopercepción y emociones\": {\"peso\": 45.7, \"porcentaje\": 0.0665}, \"Relación con profesores\": {\"peso\": 71.8, \"porcentaje\": 0.0899}, \"General\": {\"peso\": 40.4, \"porcentaje\": 0.0647}}",
+  "objetivo": "Predeterminado"
+},
+{
+  "_id": {
+    "$oid": "e18c5d57430781db982e6ebd"
+  },
+  "nombre": "Luis",
+  "apellidos": "Molina Lozano",
+  "ambitos": "{\"Familia\": {\"peso\": 98.0, \"porcentaje\": 0.1476}, \"Amigos y relaciones\": {\"peso\": 98.3, \"porcentaje\": 0.1684}, \"Académico\": {\"peso\": 98.5, \"porcentaje\": 0.1493}, \"Entorno en clase\": {\"peso\": 62.8, \"porcentaje\": 0.0781}, \"Entorno exterior\": {\"peso\": 100, \"porcentaje\": 0.1319}, \"Actividades extraescolares\": {\"peso\": 74.0, \"porcentaje\": 0.0885}, \"Autopercepción y emociones\": {\"peso\": 45.7, \"porcentaje\": 0.0573}, \"Relación con profesores\": {\"peso\": 71.4, \"porcentaje\": 0.1059}, \"General\": {\"peso\": 70.2, \"porcentaje\": 0.0729}}",
+  "objetivo": "Predeterminado"
+},
+{
+  "_id": {
+    "$oid": "20202a666a2f4ae79bb2b3aa"
+  },
+  "nombre": "Eva",
+  "apellidos": "Alonso Domínguez",
+  "ambitos": "{\"Familia\": {\"peso\": 98.2, \"porcentaje\": 0.1148}, \"Amigos y relaciones\": {\"peso\": 97.0, \"porcentaje\": 0.1088}, \"Académico\": {\"peso\": 99.2, \"porcentaje\": 0.1118}, \"Entorno en clase\": {\"peso\": 68.0, \"porcentaje\": 0.1103}, \"Entorno exterior\": {\"peso\": 100, \"porcentaje\": 0.1118}, \"Actividades extraescolares\": {\"peso\": 61.0, \"porcentaje\": 0.1133}, \"Autopercepción y emociones\": {\"peso\": 74.2, \"porcentaje\": 0.1073}, \"Relación con profesores\": {\"peso\": 61.5, \"porcentaje\": 0.1103}, \"General\": {\"peso\": 72.4, \"porcentaje\": 0.1118}}",
+  "objetivo": "Exploración"
+},
+{
+  "_id": {
+    "$oid": "d03f12760e3aebf9bf5cd70e"
+  },
+  "nombre": "Carmen",
+  "apellidos": "Torres Ramos",
+  "ambitos": "{\"Familia\": {\"peso\": 50.0, \"porcentaje\": 0.0598}, \"Amigos y relaciones\": {\"peso\": 53.5, \"porcentaje\": 0.0772}, \"Académico\": {\"peso\": 47.5, \"porcentaje\": 0.1042}, \"Entorno en clase\": {\"peso\": 51.2, \"porcentaje\": 0.0637}, \"Entorno exterior\": {\"peso\": 52.7, \"porcentaje\": 0.0811}, \"Actividades extraescolares\": {\"peso\": 25.9, \"porcentaje\": 0.1834}, \"Autopercepción y emociones\": {\"peso\": 52.2, \"porcentaje\": 0.1274}, \"Relación con profesores\": {\"peso\": 67.3, \"porcentaje\": 0.0579}, \"General\": {\"peso\": 24.0, \"porcentaje\": 0.2452}}",
+  "objetivo": "Prevención"
+},
+{
+  "_id": {
+    "$oid": "71b4e789cd47fe3d0a23ce54"
+  },
+  "nombre": "Clara",
+  "apellidos": "Domínguez Serrano",
+  "ambitos": "{\"Familia\": {\"peso\": 94.8, \"porcentaje\": 0.1429}, \"Amigos y relaciones\": {\"peso\": 100, \"porcentaje\": 0.1532}, \"Académico\": {\"peso\": 95.6, \"porcentaje\": 0.1394}, \"Entorno en clase\": {\"peso\": 54.7, \"porcentaje\": 0.0585}, \"Entorno exterior\": {\"peso\": 100, \"porcentaje\": 0.1532}, \"Actividades extraescolares\": {\"peso\": 60.3, \"porcentaje\": 0.0534}, \"Autopercepción y emociones\": {\"peso\": 100, \"porcentaje\": 0.1566}, \"Relación con profesores\": {\"peso\": 66.1, \"porcentaje\": 0.0654}, \"General\": {\"peso\": 67.4, \"porcentaje\": 0.0775}}",
+  "objetivo": "Predeterminado"
+},
+{
+  "_id": {
+    "$oid": "f73310f5db1c609b7d0c53b7"
+  },
+  "nombre": "Emma",
+  "apellidos": "Cruz Peña",
+  "ambitos": "{\"Familia\": {\"peso\": 70.2, \"porcentaje\": 0.0554}, \"Amigos y relaciones\": {\"peso\": 100, \"porcentaje\": 0.1409}, \"Académico\": {\"peso\": 96.6, \"porcentaje\": 0.1409}, \"Entorno en clase\": {\"peso\": 88.4, \"porcentaje\": 0.1023}, \"Entorno exterior\": {\"peso\": 100, \"porcentaje\": 0.146}, \"Actividades extraescolares\": {\"peso\": 100, \"porcentaje\": 0.1443}, \"Autopercepción y emociones\": {\"peso\": 100, \"porcentaje\": 0.1225}, \"Relación con profesores\": {\"peso\": 68.8, \"porcentaje\": 0.0688}, \"General\": {\"peso\": 77.8, \"porcentaje\": 0.0789}}",
+  "objetivo": "Predeterminado"
+},
+{
+  "_id": {
+    "$oid": "9227dc6bed28888dc0d6d74b"
+  },
+  "nombre": "Sara",
+  "apellidos": "Gil Cano",
+  "ambitos": "{\"Familia\": {\"peso\": 36.7, \"porcentaje\": 0.0613}, \"Amigos y relaciones\": {\"peso\": 98.8, \"porcentaje\": 0.167}, \"Académico\": {\"peso\": 100, \"porcentaje\": 0.1704}, \"Entorno en clase\": {\"peso\": 97.3, \"porcentaje\": 0.1652}, \"Entorno exterior\": {\"peso\": 54.9, \"porcentaje\": 0.0716}, \"Actividades extraescolares\": {\"peso\": 95.7, \"porcentaje\": 0.1414}, \"Autopercepción y emociones\": {\"peso\": 42.8, \"porcentaje\": 0.0545}, \"Relación con profesores\": {\"peso\": 65.5, \"porcentaje\": 0.0784}, \"General\": {\"peso\": 69.9, \"porcentaje\": 0.0903}}",
+  "objetivo": "Predeterminado"
+},
+{
+  "_id": {
+    "$oid": "ff88f00a5c385a1fff173c56"
+  },
+  "nombre": "Elena",
+  "apellidos": "Ríos Cordero",
+  "ambitos": "{\"Familia\": {\"peso\": 32.1, \"porcentaje\": 0.0584}, \"Amigos y relaciones\": {\"peso\": 97.8, \"porcentaje\": 0.1827}, \"Académico\": {\"peso\": 100, \"porcentaje\": 0.2222}, \"Entorno en clase\": {\"peso\": 19.7, \"porcentaje\": 0.0584}, \"Entorno exterior\": {\"peso\": 20.4, \"porcentaje\": 0.0603}, \"Actividades extraescolares\": {\"peso\": 28.0, \"porcentaje\": 0.0603}, \"Autopercepción y emociones\": {\"peso\": 50.6, \"porcentaje\": 0.0979}, \"Relación con profesores\": {\"peso\": 79.6, \"porcentaje\": 0.162}, \"General\": {\"peso\": 49.2, \"porcentaje\": 0.0979}}",
+  "objetivo": "Consolidación"
+},
+{
+  "_id": {
+    "$oid": "a330fd6364343b6747718399"
+  },
+  "nombre": "Raquel",
+  "apellidos": "Vidal Campos",
+  "ambitos": "{\"Familia\": {\"peso\": 100, \"porcentaje\": 0.0659}, \"Amigos y relaciones\": {\"peso\": 89.4, \"porcentaje\": 0.1055}, \"Académico\": {\"peso\": 93.2, \"porcentaje\": 0.1714}, \"Entorno en clase\": {\"peso\": 85.9, \"porcentaje\": 0.2053}, \"Entorno exterior\": {\"peso\": 97.3, \"porcentaje\": 0.0603}, \"Actividades extraescolares\": {\"peso\": 91.6, \"porcentaje\": 0.081}, \"Autopercepción y emociones\": {\"peso\": 88.0, \"porcentaje\": 0.096}, \"Relación con profesores\": {\"peso\": 86.9, \"porcentaje\": 0.1469}, \"General\": {\"peso\": 97.2, \"porcentaje\": 0.0678}}",
+  "objetivo": "Prevención"
+},
+{
+  "_id": {
+    "$oid": "192c575713bfcfffb4cc5b1f"
+  },
+  "nombre": "Sergio",
+  "apellidos": "Alonso Domínguez",
+  "ambitos": "{\"Familia\": {\"peso\": 71.4, \"porcentaje\": 0.1254}, \"Amigos y relaciones\": {\"peso\": 36.8, \"porcentaje\": 0.0697}, \"Académico\": {\"peso\": 76.1, \"porcentaje\": 0.1568}, \"Entorno en clase\": {\"peso\": 71.3, \"porcentaje\": 0.1585}, \"Entorno exterior\": {\"peso\": 46.0, \"porcentaje\": 0.0819}, \"Actividades extraescolares\": {\"peso\": 91.4, \"porcentaje\": 0.1829}, \"Autopercepción y emociones\": {\"peso\": 38.4, \"porcentaje\": 0.0662}, \"Relación con profesores\": {\"peso\": 49.0, \"porcentaje\": 0.0889}, \"General\": {\"peso\": 38.6, \"porcentaje\": 0.0697}}",
+  "objetivo": "Predeterminado"
+},
+{
+  "_id": {
+    "$oid": "310841e06f0a5ef937b2ce6b"
+  },
+  "nombre": "Valeria",
+  "apellidos": "Aguado Sáez",
+  "ambitos": "{\"Familia\": {\"peso\": 59.9, \"porcentaje\": 0.0539}, \"Amigos y relaciones\": {\"peso\": 72.6, \"porcentaje\": 0.0617}, \"Académico\": {\"peso\": 54.6, \"porcentaje\": 0.0732}, \"Entorno en clase\": {\"peso\": 61.7, \"porcentaje\": 0.0809}, \"Entorno exterior\": {\"peso\": 21.5, \"porcentaje\": 0.1965}, \"Actividades extraescolares\": {\"peso\": 56.5, \"porcentaje\": 0.0809}, \"Autopercepción y emociones\": {\"peso\": 59.7, \"porcentaje\": 0.0848}, \"Relación con profesores\": {\"peso\": 17.1, \"porcentaje\": 0.2274}, \"General\": {\"peso\": 35.6, \"porcentaje\": 0.1407}}",
+  "objetivo": "Prevención"
+},
+{
+  "_id": {
+    "$oid": "c5964b6dbaeb8ef2775bc75a"
+  },
+  "nombre": "Sergio",
+  "apellidos": "Marín Ríos",
+  "ambitos": "{\"Familia\": {\"peso\": 89.4, \"porcentaje\": 0.1123}, \"Amigos y relaciones\": {\"peso\": 63.5, \"porcentaje\": 0.1137}, \"Académico\": {\"peso\": 93.9, \"porcentaje\": 0.1108}, \"Entorno en clase\": {\"peso\": 95.1, \"porcentaje\": 0.1137}, \"Entorno exterior\": {\"peso\": 53.8, \"porcentaje\": 0.1093}, \"Actividades extraescolares\": {\"peso\": 50.8, \"porcentaje\": 0.1123}, \"Autopercepción y emociones\": {\"peso\": 55.7, \"porcentaje\": 0.1078}, \"Relación con profesores\": {\"peso\": 62.1, \"porcentaje\": 0.1093}, \"General\": {\"peso\": 68.5, \"porcentaje\": 0.1108}}",
+  "objetivo": "Exploración"
+},
+{
+  "_id": {
+    "$oid": "19ad4e05681cea760e59f85c"
+  },
+  "nombre": "Alejandro",
+  "apellidos": "Marín Ríos",
+  "ambitos": "{\"Familia\": {\"peso\": 85.5, \"porcentaje\": 0.113}, \"Amigos y relaciones\": {\"peso\": 56.2, \"porcentaje\": 0.1084}, \"Académico\": {\"peso\": 59.8, \"porcentaje\": 0.113}, \"Entorno en clase\": {\"peso\": 58.8, \"porcentaje\": 0.113}, \"Entorno exterior\": {\"peso\": 45.1, \"porcentaje\": 0.1114}, \"Actividades extraescolares\": {\"peso\": 45.7, \"porcentaje\": 0.1114}, \"Autopercepción y emociones\": {\"peso\": 45.3, \"porcentaje\": 0.113}, \"Relación con profesores\": {\"peso\": 3.2, \"porcentaje\": 0.1084}, \"General\": {\"peso\": 60.6, \"porcentaje\": 0.1084}}",
+  "objetivo": "Exploración"
+},
+{
+  "_id": {
+    "$oid": "27b57d5d9c7cffe6c78aca9c"
+  },
+  "nombre": "Nuria",
+  "apellidos": "Lozano Pardo",
+  "ambitos": "{\"Familia\": {\"peso\": 59.2, \"porcentaje\": 0.1201}, \"Amigos y relaciones\": {\"peso\": 43.5, \"porcentaje\": 0.1201}, \"Académico\": {\"peso\": 27.9, \"porcentaje\": 0.0778}, \"Entorno en clase\": {\"peso\": 74.6, \"porcentaje\": 0.181}, \"Entorno exterior\": {\"peso\": 29.1, \"porcentaje\": 0.0745}, \"Actividades extraescolares\": {\"peso\": 42.9, \"porcentaje\": 0.0981}, \"Autopercepción y emociones\": {\"peso\": 68.5, \"porcentaje\": 0.1591}, \"Relación con profesores\": {\"peso\": 36.3, \"porcentaje\": 0.0897}, \"General\": {\"peso\": 23.1, \"porcentaje\": 0.0795}}",
+  "objetivo": "Predeterminado"
+},
+{
+  "_id": {
+    "$oid": "2920a41595ddc006d34b99bb"
+  },
+  "nombre": "David",
+  "apellidos": "Gutiérrez Castro",
+  "ambitos": "{\"Familia\": {\"peso\": 62.6, \"porcentaje\": 0.1398}, \"Amigos y relaciones\": {\"peso\": 56.3, \"porcentaje\": 0.1148}, \"Académico\": {\"peso\": 35.0, \"porcentaje\": 0.0832}, \"Entorno en clase\": {\"peso\": 66.0, \"porcentaje\": 0.1481}, \"Entorno exterior\": {\"peso\": 29.6, \"porcentaje\": 0.0582}, \"Actividades extraescolares\": {\"peso\": 72.0, \"porcentaje\": 0.173}, \"Autopercepción y emociones\": {\"peso\": 42.5, \"porcentaje\": 0.0998}, \"Relación con profesores\": {\"peso\": 33.9, \"porcentaje\": 0.1065}, \"General\": {\"peso\": 20.1, \"porcentaje\": 0.0765}}",
+  "objetivo": "Predeterminado"
+},
+{
+  "_id": {
+    "$oid": "1041486f48b35f9e8efe619c"
+  },
+  "nombre": "Francisco",
+  "apellidos": "Ruiz Fernández",
+  "ambitos": "{\"Familia\": {\"peso\": 74.1, \"porcentaje\": 0.1138}, \"Amigos y relaciones\": {\"peso\": 87.2, \"porcentaje\": 0.1093}, \"Académico\": {\"peso\": 57.4, \"porcentaje\": 0.1108}, \"Entorno en clase\": {\"peso\": 99.5, \"porcentaje\": 0.1108}, \"Entorno exterior\": {\"peso\": 84.5, \"porcentaje\": 0.1108}, \"Actividades extraescolares\": {\"peso\": 61.3, \"porcentaje\": 0.1108}, \"Autopercepción y emociones\": {\"peso\": 97.1, \"porcentaje\": 0.1123}, \"Relación con profesores\": {\"peso\": 22.8, \"porcentaje\": 0.1123}, \"General\": {\"peso\": 67.5, \"porcentaje\": 0.1093}}",
+  "objetivo": "Exploración"
+},
+{
+  "_id": {
+    "$oid": "6f35dc2e5053393e8b608a2f"
+  },
+  "nombre": "David",
+  "apellidos": "Ruiz Fernández",
+  "ambitos": "{\"Familia\": {\"peso\": 61.2, \"porcentaje\": 0.1033}, \"Amigos y relaciones\": {\"peso\": 67.0, \"porcentaje\": 0.0877}, \"Académico\": {\"peso\": 77.3, \"porcentaje\": 0.0604}, \"Entorno en clase\": {\"peso\": 59.1, \"porcentaje\": 0.0955}, \"Entorno exterior\": {\"peso\": 50.7, \"porcentaje\": 0.1657}, \"Actividades extraescolares\": {\"peso\": 55.8, \"porcentaje\": 0.1306}, \"Autopercepción y emociones\": {\"peso\": 79.5, \"porcentaje\": 0.0585}, \"Relación con profesores\": {\"peso\": 24.5, \"porcentaje\": 0.23}, \"General\": {\"peso\": 69.4, \"porcentaje\": 0.0682}}",
+  "objetivo": "Prevención"
+},
+{
+  "_id": {
+    "$oid": "75e2f6ce8acd41a1f235a147"
+  },
+  "nombre": "Ana",
+  "apellidos": "Morales Vidal",
+  "ambitos": "{\"Familia\": {\"peso\": 64.0, \"porcentaje\": 0.0523}, \"Amigos y relaciones\": {\"peso\": 55.7, \"porcentaje\": 0.1252}, \"Académico\": {\"peso\": 35.5, \"porcentaje\": 0.185}, \"Entorno en clase\": {\"peso\": 43.1, \"porcentaje\": 0.1103}, \"Entorno exterior\": {\"peso\": 66.4, \"porcentaje\": 0.0561}, \"Actividades extraescolares\": {\"peso\": 47.6, \"porcentaje\": 0.0879}, \"Autopercepción y emociones\": {\"peso\": 23.0, \"porcentaje\": 0.2243}, \"Relación con profesores\": {\"peso\": 50.3, \"porcentaje\": 0.0579}, \"General\": {\"peso\": 44.0, \"porcentaje\": 0.1009}}",
+  "objetivo": "Prevención"
+},
+{
+  "_id": {
+    "$oid": "9f9c925dcb16892a878fceda"
+  },
+  "nombre": "Emma",
+  "apellidos": "Fernández Moreno",
+  "ambitos": "{\"Familia\": {\"peso\": 74.1, \"porcentaje\": 0.1109}, \"Amigos y relaciones\": {\"peso\": 69.2, \"porcentaje\": 0.1124}, \"Académico\": {\"peso\": 75.6, \"porcentaje\": 0.1109}, \"Entorno en clase\": {\"peso\": 89.3, \"porcentaje\": 0.1109}, \"Entorno exterior\": {\"peso\": 82.0, \"porcentaje\": 0.1139}, \"Actividades extraescolares\": {\"peso\": 67.8, \"porcentaje\": 0.1109}, \"Autopercepción y emociones\": {\"peso\": 33.0, \"porcentaje\": 0.1095}, \"Relación con profesores\": {\"peso\": 11.9, \"porcentaje\": 0.1095}, \"General\": {\"peso\": 53.5, \"porcentaje\": 0.1109}}",
+  "objetivo": "Exploración"
+},
+{
+  "_id": {
+    "$oid": "7ba4f800d26917058bf06293"
+  },
+  "nombre": "Alejandro",
+  "apellidos": "Cabrera Gallardo",
+  "ambitos": "{\"Familia\": {\"peso\": 100, \"porcentaje\": 0.1109}, \"Amigos y relaciones\": {\"peso\": 100, \"porcentaje\": 0.1124}, \"Académico\": {\"peso\": 79.4, \"porcentaje\": 0.1124}, \"Entorno en clase\": {\"peso\": 75.6, \"porcentaje\": 0.108}, \"Entorno exterior\": {\"peso\": 87.4, \"porcentaje\": 0.1109}, \"Actividades extraescolares\": {\"peso\": 95.8, \"porcentaje\": 0.1095}, \"Autopercepción y emociones\": {\"peso\": 77.5, \"porcentaje\": 0.1139}, \"Relación con profesores\": {\"peso\": 16.7, \"porcentaje\": 0.1109}, \"General\": {\"peso\": 64.8, \"porcentaje\": 0.1109}}",
+  "objetivo": "Exploración"
+},
+{
+  "_id": {
+    "$oid": "bb4f6c9a6cc13bcbf8631fa8"
+  },
+  "nombre": "Noelia",
+  "apellidos": "González Pérez",
+  "ambitos": "{\"Familia\": {\"peso\": 93.7, \"porcentaje\": 0.1098}, \"Amigos y relaciones\": {\"peso\": 100, \"porcentaje\": 0.1098}, \"Académico\": {\"peso\": 71.5, \"porcentaje\": 0.1098}, \"Entorno en clase\": {\"peso\": 55.5, \"porcentaje\": 0.1113}, \"Entorno exterior\": {\"peso\": 83.8, \"porcentaje\": 0.1113}, \"Actividades extraescolares\": {\"peso\": 73.0, \"porcentaje\": 0.1127}, \"Autopercepción y emociones\": {\"peso\": 39.1, \"porcentaje\": 0.1113}, \"Relación con profesores\": {\"peso\": 1.1, \"porcentaje\": 0.1142}, \"General\": {\"peso\": 53.5, \"porcentaje\": 0.1098}}",
+  "objetivo": "Exploración"
+},
+{
+  "_id": {
+    "$oid": "6662cce1397e59dd62e24ad9"
+  },
+  "nombre": "Miguel",
+  "apellidos": "Gutiérrez Castro",
+  "ambitos": "{\"Familia\": {\"peso\": 85.8, \"porcentaje\": 0.1096}, \"Amigos y relaciones\": {\"peso\": 83.4, \"porcentaje\": 0.1096}, \"Académico\": {\"peso\": 71.4, \"porcentaje\": 0.1126}, \"Entorno en clase\": {\"peso\": 46.2, \"porcentaje\": 0.1126}, \"Entorno exterior\": {\"peso\": 85.3, \"porcentaje\": 0.1082}, \"Actividades extraescolares\": {\"peso\": 63.9, \"porcentaje\": 0.1111}, \"Autopercepción y emociones\": {\"peso\": 49.8, \"porcentaje\": 0.1126}, \"Relación con profesores\": {\"peso\": 15.6, \"porcentaje\": 0.1111}, \"General\": {\"peso\": 45.6, \"porcentaje\": 0.1126}}",
+  "objetivo": "Exploración"
+},
+{
+  "_id": {
+    "$oid": "7e8b7c8d436b671e695dc536"
+  },
+  "nombre": "Rocío",
+  "apellidos": "Gil Cano",
+  "ambitos": "{\"Familia\": {\"peso\": 38.4, \"porcentaje\": 0.0896}, \"Amigos y relaciones\": {\"peso\": 84.2, \"porcentaje\": 0.2239}, \"Académico\": {\"peso\": 28.9, \"porcentaje\": 0.0653}, \"Entorno en clase\": {\"peso\": 21.2, \"porcentaje\": 0.0616}, \"Entorno exterior\": {\"peso\": 18.6, \"porcentaje\": 0.0634}, \"Actividades extraescolares\": {\"peso\": 69.9, \"porcentaje\": 0.1828}, \"Autopercepción y emociones\": {\"peso\": 19.8, \"porcentaje\": 0.0746}, \"Relación con profesores\": {\"peso\": 22.9, \"porcentaje\": 0.0802}, \"General\": {\"peso\": 51.6, \"porcentaje\": 0.1586}}",
+  "objetivo": "Consolidación"
+},
+{
+  "_id": {
+    "$oid": "0cd4b9787f6b202346b3c8c0"
+  },
+  "nombre": "Francisco",
+  "apellidos": "Vidal Campos",
+  "ambitos": "{\"Familia\": {\"peso\": 43.7, \"porcentaje\": 0.0651}, \"Amigos y relaciones\": {\"peso\": 43.0, \"porcentaje\": 0.0576}, \"Académico\": {\"peso\": 40.1, \"porcentaje\": 0.0595}, \"Entorno en clase\": {\"peso\": 46.1, \"porcentaje\": 0.1599}, \"Entorno exterior\": {\"peso\": 40.5, \"porcentaje\": 0.0613}, \"Actividades extraescolares\": {\"peso\": 44.9, \"porcentaje\": 0.0855}, \"Autopercepción y emociones\": {\"peso\": 46.1, \"porcentaje\": 0.1729}, \"Relación con profesores\": {\"peso\": 46.5, \"porcentaje\": 0.1171}, \"General\": {\"peso\": 97.3, \"porcentaje\": 0.2212}}",
+  "objetivo": "Consolidación"
+},
+{
+  "_id": {
+    "$oid": "b465661c6d341a86ac9728c7"
+  },
+  "nombre": "Raquel",
+  "apellidos": "León Santos",
+  "ambitos": "{\"Familia\": {\"peso\": 88.5, \"porcentaje\": 0.057}, \"Amigos y relaciones\": {\"peso\": 100, \"porcentaje\": 0.0894}, \"Académico\": {\"peso\": 94.0, \"porcentaje\": 0.0703}, \"Entorno en clase\": {\"peso\": 89.8, \"porcentaje\": 0.0779}, \"Entorno exterior\": {\"peso\": 96.9, \"porcentaje\": 0.1274}, \"Actividades extraescolares\": {\"peso\": 65.1, \"porcentaje\": 0.1312}, \"Autopercepción y emociones\": {\"peso\": 60.4, \"porcentaje\": 0.2167}, \"Relación con profesores\": {\"peso\": 95.2, \"porcentaje\": 0.057}, \"General\": {\"peso\": 94.7, \"porcentaje\": 0.173}}",
+  "objetivo": "Prevención"
+},
+{
+  "_id": {
+    "$oid": "3ef17f97421dff8cda1888f8"
+  },
+  "nombre": "Iván",
+  "apellidos": "Díaz González",
+  "ambitos": "{\"Familia\": {\"peso\": 60.1, \"porcentaje\": 0.1026}, \"Amigos y relaciones\": {\"peso\": 46.7, \"porcentaje\": 0.0629}, \"Académico\": {\"peso\": 71.3, \"porcentaje\": 0.1093}, \"Entorno en clase\": {\"peso\": 70.6, \"porcentaje\": 0.1109}, \"Entorno exterior\": {\"peso\": 100, \"porcentaje\": 0.1887}, \"Actividades extraescolares\": {\"peso\": 47.6, \"porcentaje\": 0.0828}, \"Autopercepción y emociones\": {\"peso\": 58.1, \"porcentaje\": 0.106}, \"Relación con profesores\": {\"peso\": 49.9, \"porcentaje\": 0.0944}, \"General\": {\"peso\": 66.6, \"porcentaje\": 0.1424}}",
+  "objetivo": "Predeterminado"
+},
+{
+  "_id": {
+    "$oid": "1c6227983420265811aaf82d"
+  },
+  "nombre": "Marta",
+  "apellidos": "Soler Blanco",
+  "ambitos": "{\"Familia\": {\"peso\": 50.7, \"porcentaje\": 0.1216}, \"Amigos y relaciones\": {\"peso\": 78.1, \"porcentaje\": 0.0637}, \"Académico\": {\"peso\": 69.8, \"porcentaje\": 0.0579}, \"Entorno en clase\": {\"peso\": 58.4, \"porcentaje\": 0.1042}, \"Entorno exterior\": {\"peso\": 54.4, \"porcentaje\": 0.1139}, \"Actividades extraescolares\": {\"peso\": 25.4, \"porcentaje\": 0.1892}, \"Autopercepción y emociones\": {\"peso\": 7.2, \"porcentaje\": 0.2239}, \"Relación con profesores\": {\"peso\": 60.0, \"porcentaje\": 0.0579}, \"General\": {\"peso\": 76.0, \"porcentaje\": 0.0676}}",
+  "objetivo": "Prevención"
+},
+{
+  "_id": {
+    "$oid": "e1f3826de6842ac2e94d552f"
+  },
+  "nombre": "David",
+  "apellidos": "González Pérez",
+  "ambitos": "{\"Familia\": {\"peso\": 32.0, \"porcentaje\": 0.1096}, \"Amigos y relaciones\": {\"peso\": 74.1, \"porcentaje\": 0.1126}, \"Académico\": {\"peso\": 49.1, \"porcentaje\": 0.1141}, \"Entorno en clase\": {\"peso\": 44.9, \"porcentaje\": 0.1111}, \"Entorno exterior\": {\"peso\": 66.2, \"porcentaje\": 0.1096}, \"Actividades extraescolares\": {\"peso\": 41.8, \"porcentaje\": 0.1126}, \"Autopercepción y emociones\": {\"peso\": 1.7, \"porcentaje\": 0.1096}, \"Relación con profesores\": {\"peso\": 68.3, \"porcentaje\": 0.1126}, \"General\": {\"peso\": 24.7, \"porcentaje\": 0.1081}}",
+  "objetivo": "Exploración"
+},
+{
+  "_id": {
+    "$oid": "e3ad5bb197620c012321b29a"
+  },
+  "nombre": "Patricia",
+  "apellidos": "Marín Ríos",
+  "ambitos": "{\"Familia\": {\"peso\": 75.8, \"porcentaje\": 0.0799}, \"Amigos y relaciones\": {\"peso\": 100, \"porcentaje\": 0.151}, \"Académico\": {\"peso\": 91.8, \"porcentaje\": 0.1599}, \"Entorno en clase\": {\"peso\": 68.2, \"porcentaje\": 0.0853}, \"Entorno exterior\": {\"peso\": 100, \"porcentaje\": 0.1883}, \"Actividades extraescolares\": {\"peso\": 60.7, \"porcentaje\": 0.0675}, \"Autopercepción y emociones\": {\"peso\": 34.7, \"porcentaje\": 0.0675}, \"Relación con profesores\": {\"peso\": 81.6, \"porcentaje\": 0.1368}, \"General\": {\"peso\": 35.9, \"porcentaje\": 0.0639}}",
+  "objetivo": "Predeterminado"
+},
+{
+  "_id": {
+    "$oid": "5bbf1cedc34c5168f487ca02"
+  },
+  "nombre": "Fernando",
+  "apellidos": "Soler Blanco",
+  "ambitos": "{\"Familia\": {\"peso\": 71.9, \"porcentaje\": 0.1387}, \"Amigos y relaciones\": {\"peso\": 100, \"porcentaje\": 0.1766}, \"Académico\": {\"peso\": 42.2, \"porcentaje\": 0.0811}, \"Entorno en clase\": {\"peso\": 53.1, \"porcentaje\": 0.1315}, \"Entorno exterior\": {\"peso\": 54.9, \"porcentaje\": 0.1315}, \"Actividades extraescolares\": {\"peso\": 41.1, \"porcentaje\": 0.0847}, \"Autopercepción y emociones\": {\"peso\": 15.1, \"porcentaje\": 0.0631}, \"Relación con profesores\": {\"peso\": 65.5, \"porcentaje\": 0.1261}, \"General\": {\"peso\": 30.2, \"porcentaje\": 0.0667}}",
+  "objetivo": "Predeterminado"
+},
+{
+  "_id": {
+    "$oid": "bb63b17e74a65eac0b031932"
+  },
+  "nombre": "Beatriz",
+  "apellidos": "Gutiérrez Castro",
+  "ambitos": "{\"Familia\": {\"peso\": 61.4, \"porcentaje\": 0.1114}, \"Amigos y relaciones\": {\"peso\": 78.8, \"porcentaje\": 0.1114}, \"Académico\": {\"peso\": 62.9, \"porcentaje\": 0.113}, \"Entorno en clase\": {\"peso\": 24.6, \"porcentaje\": 0.1114}, \"Entorno exterior\": {\"peso\": 24.7, \"porcentaje\": 0.1145}, \"Actividades extraescolares\": {\"peso\": 38.2, \"porcentaje\": 0.1084}, \"Autopercepción y emociones\": {\"peso\": 26.0, \"porcentaje\": 0.1099}, \"Relación con profesores\": {\"peso\": 63.9, \"porcentaje\": 0.1099}, \"General\": {\"peso\": 38.8, \"porcentaje\": 0.1099}}",
+  "objetivo": "Exploración"
+},
+{
+  "_id": {
+    "$oid": "1dc484edd95d63e3d20c6203"
+  },
+  "nombre": "Raúl",
+  "apellidos": "Muñoz Romero",
+  "ambitos": "{\"Familia\": {\"peso\": 76.9, \"porcentaje\": 0.1996}, \"Amigos y relaciones\": {\"peso\": 10.4, \"porcentaje\": 0.0619}, \"Académico\": {\"peso\": 69.1, \"porcentaje\": 0.1796}, \"Entorno en clase\": {\"peso\": 36.6, \"porcentaje\": 0.0619}, \"Entorno exterior\": {\"peso\": 59.5, \"porcentaje\": 0.1856}, \"Actividades extraescolares\": {\"peso\": 35.5, \"porcentaje\": 0.1058}, \"Autopercepción y emociones\": {\"peso\": 26.8, \"porcentaje\": 0.0659}, \"Relación con profesores\": {\"peso\": 22.1, \"porcentaje\": 0.0639}, \"General\": {\"peso\": 24.2, \"porcentaje\": 0.0758}}",
+  "objetivo": "Consolidación"
+},
+{
+  "_id": {
+    "$oid": "333434054b7778c6fb4e84ef"
+  },
+  "nombre": "Óscar",
+  "apellidos": "Peña Herrera",
+  "ambitos": "{\"Familia\": {\"peso\": 30.9, \"porcentaje\": 0.1104}, \"Amigos y relaciones\": {\"peso\": 77.8, \"porcentaje\": 0.1104}, \"Académico\": {\"peso\": 53.0, \"porcentaje\": 0.1134}, \"Entorno en clase\": {\"peso\": 57.1, \"porcentaje\": 0.1104}, \"Entorno exterior\": {\"peso\": 40.0, \"porcentaje\": 0.1119}, \"Actividades extraescolares\": {\"peso\": 0, \"porcentaje\": 0.1104}, \"Autopercepción y emociones\": {\"peso\": 48.0, \"porcentaje\": 0.1104}, \"Relación con profesores\": {\"peso\": 59.1, \"porcentaje\": 0.1104}, \"General\": {\"peso\": 41.3, \"porcentaje\": 0.1119}}",
+  "objetivo": "Exploración"
+},
+{
+  "_id": {
+    "$oid": "3c28d7f23547d7c296f92f4c"
+  },
+  "nombre": "Rocío",
+  "apellidos": "Rodríguez Gómez",
+  "ambitos": "{\"Familia\": {\"peso\": 66.4, \"porcentaje\": 0.0519}, \"Amigos y relaciones\": {\"peso\": 83.2, \"porcentaje\": 0.15}, \"Académico\": {\"peso\": 80.7, \"porcentaje\": 0.2074}, \"Entorno en clase\": {\"peso\": 68.8, \"porcentaje\": 0.0981}, \"Entorno exterior\": {\"peso\": 29.2, \"porcentaje\": 0.0593}, \"Actividades extraescolares\": {\"peso\": 46.7, \"porcentaje\": 0.0574}, \"Autopercepción y emociones\": {\"peso\": 74.1, \"porcentaje\": 0.0759}, \"Relación con profesores\": {\"peso\": 69.2, \"porcentaje\": 0.1704}, \"General\": {\"peso\": 71.4, \"porcentaje\": 0.1296}}",
+  "objetivo": "Consolidación"
+},
+{
+  "_id": {
+    "$oid": "893905f6ae7d7f2b6834d8a1"
+  },
+  "nombre": "Hugo",
+  "apellidos": "Ruiz Fernández",
+  "ambitos": "{\"Familia\": {\"peso\": 48.2, \"porcentaje\": 0.0736}, \"Amigos y relaciones\": {\"peso\": 44.0, \"porcentaje\": 0.0872}, \"Académico\": {\"peso\": 54.2, \"porcentaje\": 0.062}, \"Entorno en clase\": {\"peso\": 55.1, \"porcentaje\": 0.0872}, \"Entorno exterior\": {\"peso\": 65.0, \"porcentaje\": 0.0659}, \"Actividades extraescolares\": {\"peso\": 36.2, \"porcentaje\": 0.1589}, \"Autopercepción y emociones\": {\"peso\": 57.6, \"porcentaje\": 0.0601}, \"Relación con profesores\": {\"peso\": 40.3, \"porcentaje\": 0.188}, \"General\": {\"peso\": 13.3, \"porcentaje\": 0.2171}}",
+  "objetivo": "Prevención"
+},
+{
+  "_id": {
+    "$oid": "0e36118e1dda5eb657eaf10c"
+  },
+  "nombre": "David",
+  "apellidos": "Ruiz Fernández",
+  "ambitos": "{\"Familia\": {\"peso\": 100, \"porcentaje\": 0.1431}, \"Amigos y relaciones\": {\"peso\": 75.0, \"porcentaje\": 0.0782}, \"Académico\": {\"peso\": 57.4, \"porcentaje\": 0.0611}, \"Entorno en clase\": {\"peso\": 90.0, \"porcentaje\": 0.2156}, \"Entorno exterior\": {\"peso\": 43.5, \"porcentaje\": 0.0611}, \"Actividades extraescolares\": {\"peso\": 64.4, \"porcentaje\": 0.1279}, \"Autopercepción y emociones\": {\"peso\": 30.4, \"porcentaje\": 0.0611}, \"Relación con profesores\": {\"peso\": 86.5, \"porcentaje\": 0.1565}, \"General\": {\"peso\": 64.8, \"porcentaje\": 0.0954}}",
+  "objetivo": "Consolidación"
+}]
