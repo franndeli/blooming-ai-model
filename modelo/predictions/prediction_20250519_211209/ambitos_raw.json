@@ -1,0 +1,38 @@
+{
+  "Familia": {
+    "peso": 88.8,
+    "porcentaje": 0.0687
+  },
+  "Amigos y relaciones": {
+    "peso": 16.8,
+    "porcentaje": 0.2176
+  },
+  "Acad\u00e9mico": {
+    "peso": 89.9,
+    "porcentaje": 0.0782
+  },
+  "Entorno en clase": {
+    "peso": 42.9,
+    "porcentaje": 0.1908
+  },
+  "Entorno exterior": {
+    "peso": 91.2,
+    "porcentaje": 0.0859
+  },
+  "Actividades extraescolares": {
+    "peso": 100,
+    "porcentaje": 0.0611
+  },
+  "Autopercepci\u00f3n y emociones": {
+    "peso": 88.9,
+    "porcentaje": 0.0687
+  },
+  "Relaci\u00f3n con profesores": {
+    "peso": 75.2,
+    "porcentaje": 0.0954
+  },
+  "General": {
+    "peso": 87.8,
+    "porcentaje": 0.1336
+  }
+}

@@ -240,9 +240,9 @@ def predict_next_question(alumno_id, save_results=True):
     logger.info(f"Iniciando predicción para el alumno {alumno_id}")
     
     try:
-        model = joblib.load("model/results/training_20250312_193809/models/best_model.pkl")
-        y_encoder = joblib.load("model/results/training_20250312_193809/models/y_encoder.pkl")
-        feature_names = joblib.load("model/results/training_20250312_193809/models/feature_names.pkl")
+        model = joblib.load("model/results/training_xgb/models/best_model.pkl")
+        y_encoder = joblib.load("model/results/training_xgb/models/y_encoder.pkl")
+        feature_names = joblib.load("model/results/training_xgb/models/feature_names.pkl")
         logger.info("Modelo y recursos cargados correctamente")
     except Exception as e:
         logger.error(f"Error al cargar recursos: {e}")
